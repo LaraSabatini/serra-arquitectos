@@ -1,0 +1,27 @@
+@font-face {
+    font-family: 'Bold';
+    src: url('../fonts/HelveticaLTStd-Bold.otf') format("opentype");
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Light';
+    src: url('../fonts/HelveticaNeueLTStd-UltLt.otf') format("opentype");
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Regular';
+    src: url('../fonts/HelveticaNeueLTStd-Lt.otf') format("opentype");
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Light-Italic';
+    src: url('../fonts/HelveticaNeueLTStd-UltLtExO.otf') format("opentype");
+    font-weight: normal;
+    font-style: normal;
+}

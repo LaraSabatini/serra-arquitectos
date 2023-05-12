@@ -1,3 +1,5 @@
+import "./page.css"
+
 export default function Home() {
-  return <main />
+  return <main>home</main>
 }
