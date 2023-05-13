@@ -1,13 +1,13 @@
 import React from "react"
-import HomeView from "@views/Home"
+import ObrasView from "@views/Obras"
 import Layout from "@views/Structure"
 
-function Home() {
+function Obras() {
   return (
     <Layout>
-      <HomeView />
+      <ObrasView />
     </Layout>
   )
 }
 
-export default Home
+export default Obras

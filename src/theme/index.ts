@@ -3,7 +3,7 @@ export default {
     black: "#273031",
     white: "#F5F5F5",
     black70: "rgba(39, 48, 49, 0.75)",
-    black15: "rgba(39, 48, 49, 0.15);",
+    black10: "rgba(39, 48, 49, 0.10);",
   },
   fontSizes: {
     xl: "36px",

@@ -1,9 +1,9 @@
-import HomeView from "@views/Home"
+import LoadedView from "@views/Loaded"
 
 export default function Home() {
   return (
     <main>
-      <HomeView />
+      <LoadedView />
     </main>
   )
 }
