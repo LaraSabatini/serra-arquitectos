@@ -7,7 +7,7 @@ import Container from "./styles"
 
 function LoadedView() {
   const router = useRouter()
-
+  // a
   return (
     <Container>
       {router.query.logo === undefined && <Logo dimesion="large" />}
