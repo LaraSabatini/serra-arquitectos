@@ -6,15 +6,21 @@ const LogoStyled = styled.div<{ dimesion: "large" | "normal" }>`
     margin: 0;
     display: flex;
     align-items: flex-end;
-    gap: ${props => (props.dimesion === "large" ? "12px" : "4px")};
-    font-size: ${props =>
-      props.dimesion === "large" ? theme.fontSizes.xl : theme.fontSizes.l};
+    gap: 4px;
 
-    font-family: "Light";
-    color: ${theme.colors.black70};
-    b {
-      color: ${theme.colors.black};
+    span {
       font-family: "Regular";
+      font-size: ${theme.fontSizes.m};
+      height: 17px;
+    }
+    color: ${theme.colors.black70};
+    height: 20px;
+
+    b {
+      height: 20px;
+      color: ${theme.colors.black};
+      font-family: "Bold";
+      font-size: ${theme.fontSizes.l};
     }
   }
 
@@ -31,6 +37,20 @@ const LogoStyled = styled.div<{ dimesion: "large" | "normal" }>`
   ${props =>
     props.dimesion === "large" &&
     css`
+      h1 {
+        gap: 8px;
+        height: 36px;
+
+        span {
+          font-size: ${theme.fontSizes.l};
+          height: 23px;
+        }
+        b {
+          height: 36px;
+          font-size: ${theme.fontSizes.xl};
+        }
+      }
+
       &:hover {
         -webkit-animation: text-shadow-drop-bottom 0.5s both;
         animation: text-shadow-drop-bottom 0.5s both;
@@ -42,7 +62,7 @@ const LogoStyled = styled.div<{ dimesion: "large" | "normal" }>`
             text-shadow: 0 0 0 rgba(0, 0, 0, 0);
           }
           100% {
-            text-shadow: 0 10px 5px #2730314d;
+            text-shadow: 0 10px 5px transparent;
           }
         }
         @keyframes text-shadow-drop-bottom {
@@ -50,7 +70,7 @@ const LogoStyled = styled.div<{ dimesion: "large" | "normal" }>`
             text-shadow: 0 0 0 rgba(0, 0, 0, 0);
           }
           100% {
-            text-shadow: 0 10px 5px #2730314d;
+            text-shadow: 0 10px 5px transparent;
           }
         }
       }

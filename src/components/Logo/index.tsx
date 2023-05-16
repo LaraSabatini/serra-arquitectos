@@ -12,11 +12,9 @@ function Logo({ dimesion }: { dimesion: "large" | "normal" }) {
         onMouseOver={() => setIsHovering(!isHovering)}
         onFocus={() => setIsHovering(!isHovering)}
         className="animate__animated animate__fadeIn"
-        // animate__fadeInUp
-        // animate__zoomIn
       >
         <b>SERRA</b>
-        Arquitectos
+        <span>ARQUITECTOS</span>
       </h1>
       {dimesion === "large" && <Underline className="underline" />}
     </LogoStyled>
