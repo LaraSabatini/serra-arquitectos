@@ -26,15 +26,16 @@ const LogoStyled = styled.div<{ dimesion: "large" | "normal" }>`
   height: 60px;
   gap: 5px;
   cursor: pointer;
+  transition: all 0.5s;
 
   ${props =>
     props.dimesion === "large" &&
     css`
       &:hover {
-        -webkit-animation: text-shadow-drop-bottom 0.6s both;
-        animation: text-shadow-drop-bottom 0.6s both;
+        -webkit-animation: text-shadow-drop-bottom 0.5s both;
+        animation: text-shadow-drop-bottom 0.5s both;
         gap: 10px;
-        transition: all 0.6s;
+        transition: all 0.5s;
 
         @-webkit-keyframes text-shadow-drop-bottom {
           0% {

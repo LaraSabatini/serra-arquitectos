@@ -1,8 +1,8 @@
 import React, { useState } from "react"
 import { useRouter } from "next/router"
-import LogoStyled, { Underline } from "./styles"
+import LogoStyled, { Underline } from "../Logo/styles"
 
-function Logo({ dimesion }: { dimesion: "large" | "normal" }) {
+function Logo3({ dimesion }: { dimesion: "large" | "normal" }) {
   const router = useRouter()
 
   const [isHovering, setIsHovering] = useState<boolean>(false)
@@ -11,9 +11,9 @@ function Logo({ dimesion }: { dimesion: "large" | "normal" }) {
       <h1
         onMouseOver={() => setIsHovering(!isHovering)}
         onFocus={() => setIsHovering(!isHovering)}
-        className="animate__animated animate__fadeIn"
-        // animate__fadeInUp
-        // animate__zoomIn
+        className="animate__animated animate__zoomIn"
+        //
+        //
       >
         <b>SERRA</b>
         Arquitectos
@@ -23,4 +23,4 @@ function Logo({ dimesion }: { dimesion: "large" | "normal" }) {
   )
 }
 
-export default Logo
+export default Logo3
