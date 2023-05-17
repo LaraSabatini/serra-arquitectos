@@ -7,10 +7,14 @@ export const changePassword = async (
   encrypted: boolean,
   body: IChangePassword,
 ) => {
-  const res = await axios.put(
-    `${route}/change-password&encrypted=${encrypted}`,
-    body,
-    axiosHeader,
-  )
-  return res
+  try {
+    const res = await axios.put(
+      `${route}/change-password&encrypted=${encrypted}`,
+      body,
+      axiosHeader,
+    )
+    return res.data
+  } catch (err) {
+    return err
+  }
 }

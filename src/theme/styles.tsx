@@ -6,6 +6,7 @@ const GlobalStyle = createGlobalStyle`
     padding: 0;
 
     overflow-x: hidden;
+    font-family: "Regular";
 }
 `
 
