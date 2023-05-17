@@ -28,6 +28,7 @@
       "@helpers/*": ["helpers/*"],
       "@interfaces/*": ["interfaces/*"],
       "@theme/*": ["theme/*"],
+      "@services/*": ["services/*"],
     },
     "plugins": [
       {
