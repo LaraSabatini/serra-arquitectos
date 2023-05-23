@@ -6,7 +6,7 @@ import { route } from "./index"
 export const signIn = async (body: ISignIn) => {
   try {
     const res = await axios.post(`${route}/signIn`, body, axiosHeader)
-    return res.data
+    return res
   } catch (err) {
     return err
   }

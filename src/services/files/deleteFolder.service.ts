@@ -1,8 +1,7 @@
 import axios from "axios"
-import { ISite } from "interfaces/Site"
 import { route } from "./index"
 
-export const uploadSite = async (body: ISite, authToken: string) => {
+export const deleteFolder = async (folderName: string, authToken: string) => {
   const axiosHeader = {
     headers: {
       "Content-Type": "application/json",
@@ -11,7 +10,10 @@ export const uploadSite = async (body: ISite, authToken: string) => {
   }
 
   try {
-    const res = await axios.post(`${route}`, body, axiosHeader)
+    const res = await axios.delete(
+      `${route}/folderName=${folderName}`,
+      axiosHeader,
+    )
     return res
   } catch (err: any) {
     return err.response

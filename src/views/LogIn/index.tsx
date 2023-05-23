@@ -22,14 +22,15 @@ function LoginView() {
       setLoading(true)
       setRequiredError(false)
       setValidationError(false)
-      const req = await signIn(logInData)
+      const req: any = await signIn(logInData)
 
-      if (req.status === 200) {
+      if (req.data.status === 200) {
         localStorage.setItem(
           "session",
           JSON.stringify({
             user: logInData.email,
             logged: true,
+            token: req.headers.get("auth-token"),
           }),
         )
         router.push("/upload")

@@ -29,6 +29,7 @@
       "@interfaces/*": ["interfaces/*"],
       "@theme/*": ["theme/*"],
       "@services/*": ["services/*"],
+      "@contexts/*": ["contexts/*"],
     },
     "plugins": [
       {
