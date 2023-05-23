@@ -19,6 +19,7 @@
       "react/jsx-props-no-spreading": "off",
       "react/react-in-jsx-scope": "off",
       "import/no-cycle": "off",
+      "import/prefer-default-export": "off",
       "prettier/prettier": [
         "error",
         {},
