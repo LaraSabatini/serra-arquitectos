@@ -23,6 +23,7 @@ const Content = styled.div`
   .horizontal {
     display: flex;
     gap: 15px;
+    align-items: center;
   }
 
   .vertical {
@@ -69,7 +70,7 @@ const List = styled.div`
     margin: 0;
 
     display: flex;
-    align-items: center;
+    align-items: flex-start;
     padding: 3px;
     justify-content: space-between;
 
@@ -94,4 +95,45 @@ const Buttons = styled.div`
   justify-content: flex-end;
 `
 
-export { FormContainer, InputContainer, Label, Content, List, Buttons }
+const ModaContent = styled.div`
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  max-height: 400px;
+  overflow: auto;
+`
+
+const ModalInputContainer = styled.div`
+  display: flex;
+  gap: 15px;
+  button {
+    margin-top: 25px;
+  }
+`
+
+const DynamicInfo = styled.div`
+  padding-bottom: 5px;
+  display: flex;
+  gap: 15px;
+  align-items: center;
+  p {
+    margin: 0;
+    width: 180px;
+
+    b {
+      font-family: "Bold";
+    }
+  }
+`
+
+export {
+  FormContainer,
+  InputContainer,
+  Label,
+  Content,
+  List,
+  Buttons,
+  ModalInputContainer,
+  ModaContent,
+  DynamicInfo,
+}
