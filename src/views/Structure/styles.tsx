@@ -35,8 +35,10 @@ const MenuContainer = styled.div`
 
 const SliderContainer = styled.div`
   width: 70%;
+  height: 90vh;
   @media (max-width: 980px) {
     width: 100%;
+    height: 80vh;
     margin-top: 40px;
   }
 `
