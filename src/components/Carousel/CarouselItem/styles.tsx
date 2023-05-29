@@ -1,7 +1,7 @@
 import styled, { css } from "styled-components"
 import theme from "@theme/index"
 
-const CarouselItemStyled = styled.div<{ visible: boolean }>`
+const CarouselItemStyled = styled.a<{ visible: boolean }>`
   height: 100%;
   position: relative;
   display: flex;
