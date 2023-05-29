@@ -1,7 +1,8 @@
 import React from "react"
+import Carousel from "@components/Carousel"
 
 function HomeView() {
-  return <p>HOME</p>
+  return <Carousel />
 }
 
 export default HomeView
