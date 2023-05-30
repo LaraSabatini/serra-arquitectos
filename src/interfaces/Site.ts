@@ -12,3 +12,12 @@ export interface ISite {
   images: string[] | string
   otherFields: { type: string; value: string }[] | string
 }
+
+export interface ISiteCard {
+  id: number
+  title: string
+  code: string
+  type: string[]
+  location: string
+  portrait: string
+}

@@ -2,7 +2,7 @@ import axios from "axios"
 import axiosHeader from "../axiosHeader"
 import { route } from "./index"
 
-export const getSites = async (page: number, category: number) => {
+export const getSites = async (page: number, category: string) => {
   try {
     const res = await axios.get(
       `${route}/page=${page}&category=${category}`,
