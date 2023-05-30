@@ -39,7 +39,7 @@ const MenuItem = styled.div<{ selected: boolean }>`
 `
 
 const SubMenu = styled.div`
-  width: 70%;
+  width: 60%;
   height: fit-content;
 `
 

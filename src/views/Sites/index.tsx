@@ -4,7 +4,7 @@ import { ISite } from "@interfaces/Site"
 import sections from "@data/menu"
 import { getSites } from "@services/sites/getSites.service"
 import Site from "@components/Site"
-import SitesContainer from "./styles"
+import SitesContainer, { CardPlaceholder } from "./styles"
 import IndividualSite from "./Site"
 
 function SitesView() {
@@ -13,6 +13,7 @@ function SitesView() {
   const categoryId = parseInt(router.query.categoria as string, 10)
 
   const [sites, setSites] = useState<ISite[]>()
+  const [loading, setLoading] = useState<boolean>(true)
 
   const getSiteList = async (id: number) => {
     const findFilter = sections[0].subsections.filter(
@@ -22,8 +23,15 @@ function SitesView() {
     if (findFilter.length) {
       const req = await getSites(1, findFilter[0].name)
       setSites(req.data.data)
+      setLoading(false)
     }
   }
+
+  useEffect(() => {
+    if (sites?.length) {
+      setLoading(false)
+    }
+  }, [sites])
 
   useEffect(() => {
     getSiteList(categoryId)
@@ -32,8 +40,20 @@ function SitesView() {
 
   return (
     <SitesContainer>
-      {sites?.length &&
-        router.query.id === undefined &&
+      {loading && (
+        <>
+          <CardPlaceholder />
+          <CardPlaceholder />
+          <CardPlaceholder />
+          <CardPlaceholder />
+          <CardPlaceholder />
+          <CardPlaceholder />
+          <CardPlaceholder />
+          <CardPlaceholder />
+          <CardPlaceholder />
+        </>
+      )}
+      {sites?.length && router.query.id === undefined ? (
         sites.map(site => (
           <Site
             key={site.id}
@@ -44,7 +64,10 @@ function SitesView() {
             location={site.location}
             portrait={JSON.parse(site.images as string)[0]}
           />
-        ))}
+        ))
+      ) : (
+        <div />
+      )}
       {router.query.id !== undefined && <IndividualSite />}
     </SitesContainer>
   )

@@ -7,4 +7,23 @@ const SitesContainer = styled.div`
   align-items: center;
 `
 
+export const CardPlaceholder = styled.div`
+  transition: 0.3s;
+  cursor: pointer;
+
+  width: 282px;
+  height: 282px;
+
+  animation: skeleton-loading 1.5s linear infinite;
+
+  @keyframes skeleton-loading {
+    0% {
+      background-color: #f5f5f5;
+    }
+    100% {
+      background-color: #2730316e;
+    }
+  }
+`
+
 export default SitesContainer
