@@ -8,7 +8,7 @@ export interface ISite {
   location: string
   tasks: string[] | string
   description: string
-  size: number
+  size: string
   images: string[] | string
   otherFields: { type: string; value: string }[] | string
 }

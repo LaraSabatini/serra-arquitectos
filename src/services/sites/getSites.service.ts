@@ -22,3 +22,12 @@ export const getSitesForCarousel = async () => {
     return err.response
   }
 }
+
+export const getSiteById = async (id: number) => {
+  try {
+    const res = await axios.get(`${route}/id=${id}`, axiosHeader)
+    return res
+  } catch (err: any) {
+    return err.response
+  }
+}

@@ -86,7 +86,7 @@ function UploadView({
       location: "",
       tasks: [],
       description: "",
-      size: 0,
+      size: "",
       images: [],
       otherFields: [],
     })
@@ -280,7 +280,7 @@ function UploadView({
                     onChange={e =>
                       setNewSite({
                         ...newSite,
-                        size: parseInt(e.target.value, 10),
+                        size: e.target.value,
                       })
                     }
                     suffix="m²"

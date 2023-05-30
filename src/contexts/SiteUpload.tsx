@@ -12,7 +12,7 @@ const defaultSite = {
   location: "",
   tasks: [],
   description: "",
-  size: 0,
+  size: "",
   images: [],
   otherFields: [],
 }

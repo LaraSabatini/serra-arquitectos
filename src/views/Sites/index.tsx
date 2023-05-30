@@ -30,8 +30,6 @@ function SitesView() {
     // eslint-disable-next-line react-hooks/exhaustive-deps
   }, [router])
 
-  console.log(sites)
-
   return (
     <SitesContainer>
       {sites?.length &&
