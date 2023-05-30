@@ -63,7 +63,7 @@ const Description = styled.div`
     gap: 8px;
   }
 
-  @media (max-width: 980px) {
+  @media (max-width: 1100px) {
     border: none;
     padding: 12px 0;
     width: 100%;

@@ -28,17 +28,18 @@ const MenuContainer = styled.div`
   height: 80vh;
   max-height: 900px;
 
-  @media (max-width: 980px) {
+  @media (max-width: 1100px) {
     display: none;
   }
 `
 
 const SliderContainer = styled.div`
   width: 70%;
-  height: 90vh;
-  @media (max-width: 980px) {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  @media (max-width: 1100px) {
     width: 100%;
-    height: 80vh;
     margin-top: 40px;
   }
 `

@@ -5,12 +5,17 @@ const SitesContainer = styled.div`
   gap: 16px;
   flex-wrap: wrap;
   align-items: center;
+
+  width: 878px;
+
+  @media (max-width: 925px) {
+    width: 580px;
+  }
 `
 
 export const CardPlaceholder = styled.div`
   transition: 0.3s;
   cursor: pointer;
-
   width: 282px;
   height: 282px;
 
