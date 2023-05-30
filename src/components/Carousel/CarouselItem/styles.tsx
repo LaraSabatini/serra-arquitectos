@@ -45,7 +45,7 @@ const Description = styled.div`
 
   background-color: ${theme.colors.black60};
   padding: 12px 20px;
-  width: 200px;
+  width: 250px;
   border: 2px solid rgba(245, 245, 245, 0.6);
   border-radius: 2px;
   z-index: 10;
@@ -54,6 +54,25 @@ const Description = styled.div`
   left: 19px;
   b {
     font-family: "Bold";
+  }
+
+  p {
+    margin: 0;
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+  }
+
+  @media (max-width: 980px) {
+    border: none;
+    padding: 12px 0;
+    width: 100%;
+    bottom: 0;
+    left: 0;
+
+    p {
+      margin-left: 20px;
+    }
   }
 `
 
