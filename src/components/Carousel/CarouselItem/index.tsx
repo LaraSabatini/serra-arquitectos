@@ -21,8 +21,10 @@ function CarouselItem({ id, title, type, portrait, visible }: ICarouselItem) {
       visible={visible}
     >
       <Description>
-        <b>{title}</b>
-        {type.join(" / ")}
+        <p>
+          <b>{title}</b>
+          {type.join(" / ")}
+        </p>
       </Description>
       <img src={portrait} alt={`Portada de obra: ${title}`} />
     </CarouselItemStyled>

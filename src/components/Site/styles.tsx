@@ -5,6 +5,10 @@ const Card = styled.div<{ background: string }>`
   width: 282px;
   height: 282px;
 
+  @media (max-width: 610px) {
+    width: 100%;
+  }
+
   background: url(${props => props.background}) no-repeat top center;
   background-size: cover;
   cursor: pointer;

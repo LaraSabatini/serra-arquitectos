@@ -39,8 +39,10 @@ function SitesView() {
   }, [router])
 
   return (
-    <SitesContainer>
-      {loading && (
+    <SitesContainer
+      visual={sites?.length && router.query.id === undefined ? "cards" : "site"}
+    >
+      {loading && router.query.id === undefined && (
         <>
           <CardPlaceholder />
           <CardPlaceholder />

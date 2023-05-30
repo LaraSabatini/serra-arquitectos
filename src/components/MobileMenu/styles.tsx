@@ -5,7 +5,7 @@ const Container = styled.div`
   display: none;
   position: relative;
 
-  @media (max-width: 980px) {
+  @media (max-width: 1100px) {
     display: flex;
 
     .visible {

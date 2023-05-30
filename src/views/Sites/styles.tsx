@@ -1,16 +1,31 @@
-import styled from "styled-components"
+import styled, { css } from "styled-components"
 
-const SitesContainer = styled.div`
+const SitesContainer = styled.div<{ visual: "cards" | "site" }>`
   display: flex;
   gap: 16px;
   flex-wrap: wrap;
-  align-items: center;
+  height: 100%;
+
+  ${props =>
+    props.visual === "cards"
+      ? css`
+          width: 878px;
+
+          @media (max-width: 925px) {
+            width: 580px;
+          }
+        `
+      : css`
+          width: 100%;
+          @media (max-width: 1100px) {
+            width: 100%;
+          }
+        `}
 `
 
 export const CardPlaceholder = styled.div`
   transition: 0.3s;
   cursor: pointer;
-
   width: 282px;
   height: 282px;
 
