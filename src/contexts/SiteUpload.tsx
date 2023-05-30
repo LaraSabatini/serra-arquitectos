@@ -4,15 +4,17 @@ import { ISite } from "@interfaces/Site"
 import { IFiles } from "@interfaces/Images"
 
 const defaultSite = {
+  title: "",
   code: "",
-  year: 2023,
+  year: "2023",
   principal: "",
   type: [],
   location: "",
   tasks: [],
   description: "",
-  size: 0,
+  size: "",
   images: [],
+  otherFields: [],
 }
 
 export const UploadSiteContext = createContext<IUploadContext>({

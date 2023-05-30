@@ -106,6 +106,7 @@ const MenuTab = styled.div`
   top: 200%;
   transform: translateX(100%);
   transition: transform 0.5s linear;
+  z-index: 10;
 
   display: flex;
   justify-content: space-between;

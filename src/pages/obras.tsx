@@ -1,11 +1,11 @@
 import React from "react"
-import ObrasView from "@views/Obras"
+import SitesView from "@views/Sites"
 import Layout from "@views/Structure"
 
 function Obras() {
   return (
     <Layout>
-      <ObrasView />
+      <SitesView />
     </Layout>
   )
 }

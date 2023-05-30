@@ -1,34 +1,40 @@
 import React, { useState, useEffect } from "react"
+import { getSitesForCarousel } from "@services/sites"
 import CarouselItem from "./CarouselItem"
 import { CarouselContainer } from "./styles"
 
+interface ISiteCarousel {
+  id: number
+  title: string
+  type: string[]
+  portrait: string
+}
+
 function Carousel() {
   const [current, setCurrent] = useState<number>(0)
+  const [sitesArray, setSitesArray] = useState<ISiteCarousel[]>([])
 
-  // Bring last 5 sites uploaded via API
-  const sitesArray = [
-    {
-      id: 1,
-      principal: "ISSyS",
-      type: ["Administrativo", "Salud"],
-      portrait:
-        "https://static.wixstatic.com/media/11a83c_c3e6b956840f45a29d2f790520f3923d~mv2.jpg/v1/fill/w_467,h_519,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/01_%20FRENTE.jpg",
-    },
-    {
-      id: 2,
-      principal: "Centro de Computos",
-      type: ["Administrativo"],
-      portrait:
-        "https://static.wixstatic.com/media/ada591_03b574e14b1246e3a7bc731e98099bce.jpg/v1/fill/w_940,h_614,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/ada591_03b574e14b1246e3a7bc731e98099bce.jpg",
-    },
-    {
-      id: 3,
-      principal: "Centro de Computos",
-      type: ["Culto"],
-      portrait:
-        "https://static.wixstatic.com/media/ada591_60ff245735c84351a28bdef46158deaf.jpg/v1/fill/w_480,h_701,al_c,lg_1,q_80,enc_auto/ada591_60ff245735c84351a28bdef46158deaf.jpg",
-    },
-  ]
+  const getSites = async () => {
+    const req = await getSitesForCarousel()
+
+    const array: ISiteCarousel[] = []
+    req.data.data.forEach(
+      (site: { id: number; title: string; type: string; images: string }) =>
+        array.push({
+          id: site.id,
+          title: site.title,
+          type: JSON.parse(site.type),
+          portrait: JSON.parse(site.images)[0],
+        }),
+    )
+    setSitesArray(array)
+  }
+
+  useEffect(() => {
+    if (sitesArray.length === 0) {
+      getSites()
+    }
+  }, [sitesArray])
 
   useEffect(() => {
     const interval = setInterval(() => {
@@ -45,7 +51,7 @@ function Carousel() {
           key={site.id}
           visible={current === index}
           id={site.id}
-          principal={site.principal}
+          title={site.title}
           type={site.type}
           portrait={site.portrait}
         />
