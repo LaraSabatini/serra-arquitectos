@@ -74,6 +74,7 @@ const Dot = styled.button<{ selected: boolean }>`
 const Data = styled.div`
   margin-top: 20px;
   display: flex;
+
   width: 100%;
   gap: 16px;
   .right {
@@ -81,11 +82,11 @@ const Data = styled.div`
     display: flex;
     flex-direction: column;
     gap: 12px;
-    width: 85%;
+    width: 75%;
   }
 
   .left {
-    width: 15%;
+    width: 25%;
     font-family: "Regular";
 
     p {
@@ -96,6 +97,16 @@ const Data = styled.div`
       font-family: "Bold";
       font-size: 20px;
       box-shadow: inset 0 -0.5em 0 0 ${theme.colors.black10};
+    }
+  }
+
+  @media (max-width: 768px) {
+    flex-direction: column;
+    gap: 0;
+
+    .left,
+    .right {
+      width: 100%;
     }
   }
 `
