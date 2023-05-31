@@ -17,7 +17,8 @@ const CarouselItemStyled = styled.a<{ visible: boolean }>`
   img {
     height: 100%;
     max-width: 100%;
-    object-fit: cover;
+    object-fit: contain;
+
     object-position: center;
 
     border-radius: 5px;

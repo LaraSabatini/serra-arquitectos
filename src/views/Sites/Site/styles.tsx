@@ -43,7 +43,7 @@ const ImageContainer = styled.div`
   img {
     height: 100%;
     max-width: 100%;
-    object-fit: cover;
+    object-fit: contain;
     object-position: center;
   }
 `
@@ -53,6 +53,10 @@ const Dots = styled.div`
   display: flex;
   align-items: center;
   gap: 8px;
+
+  @media (max-width: 500px) {
+    margin-right: 20px;
+  }
 `
 
 const Dot = styled.button<{ selected: boolean }>`

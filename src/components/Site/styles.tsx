@@ -43,6 +43,14 @@ const Card = styled.div<{ background: string }>`
     .data {
       visibility: visible;
     }
+
+    @media (max-width: 500px) {
+      background: url(${props => props.background}) no-repeat top center;
+
+      .data {
+        visibility: hidden;
+      }
+    }
   }
 
   .data {
