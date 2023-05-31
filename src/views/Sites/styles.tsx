@@ -9,8 +9,9 @@ const SitesContainer = styled.div<{ visual: "cards" | "site" }>`
   ${props =>
     props.visual === "cards"
       ? css`
-          width: 878px;
-
+          @media (max-width: 1400px) {
+            width: 878px;
+          }
           @media (max-width: 925px) {
             width: 580px;
           }
