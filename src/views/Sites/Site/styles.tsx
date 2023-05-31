@@ -109,6 +109,11 @@ const Data = styled.div`
       width: 100%;
     }
   }
+
+  @media (max-width: 500px) {
+    width: 95%;
+    align-self: center;
+  }
 `
 
 const DataItem = styled.p`
