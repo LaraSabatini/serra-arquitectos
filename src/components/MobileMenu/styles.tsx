@@ -106,13 +106,14 @@ const MenuTab = styled.div`
   top: 200%;
   transform: translateX(100%);
   transition: transform 0.5s linear;
-  z-index: 10;
+  z-index: 15;
 
   display: flex;
   justify-content: space-between;
 
   @media (max-width: 500px) {
     width: 90vw;
+    padding-left: 100px;
   }
 `
 

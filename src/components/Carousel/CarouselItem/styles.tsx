@@ -32,6 +32,12 @@ const CarouselItemStyled = styled.a<{ visible: boolean }>`
       filter: grayscale(0%);
     }
   }
+
+  @media (max-width: 450px) {
+    img {
+      border-radius: 0;
+    }
+  }
 `
 
 const Description = styled.div`

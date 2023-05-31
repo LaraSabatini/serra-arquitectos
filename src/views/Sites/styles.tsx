@@ -4,7 +4,7 @@ const SitesContainer = styled.div<{ visual: "cards" | "site" }>`
   display: flex;
   gap: 16px;
   flex-wrap: wrap;
-  height: 100%;
+  align-items: flex-start;
 
   ${props =>
     props.visual === "cards"
@@ -15,12 +15,15 @@ const SitesContainer = styled.div<{ visual: "cards" | "site" }>`
           @media (max-width: 925px) {
             width: 580px;
           }
+
+          @media (max-width: 500px) {
+            width: 100%;
+            justify-content: center;
+            gap: 12px;
+          }
         `
       : css`
           width: 100%;
-          @media (max-width: 1100px) {
-            width: 100%;
-          }
         `}
 `
 
