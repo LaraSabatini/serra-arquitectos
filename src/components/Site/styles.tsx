@@ -8,6 +8,14 @@ const Card = styled.div<{ background: string }>`
   @media (max-width: 500px) {
     width: 171px;
     height: 171px;
+
+    &:hover {
+      background: url(${props => props.background}) no-repeat top center;
+
+      .data {
+        visibility: hidden;
+      }
+    }
   }
 
   @media (max-width: 380px) {
