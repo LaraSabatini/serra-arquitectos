@@ -33,6 +33,16 @@ export const CardPlaceholder = styled.div`
   width: 282px;
   height: 282px;
 
+  @media (max-width: 380px) {
+    width: 150px;
+    height: 150px;
+  }
+
+  @media (max-width: 500px) {
+    width: 171px;
+    height: 171px;
+  }
+
   animation: skeleton-loading 1.5s linear infinite;
 
   @keyframes skeleton-loading {

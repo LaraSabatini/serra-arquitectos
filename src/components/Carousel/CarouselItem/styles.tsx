@@ -31,6 +31,11 @@ const CarouselItemStyled = styled.a<{ visible: boolean }>`
     &:hover {
       -webkit-filter: grayscale(0%);
       filter: grayscale(0%);
+
+      @media (max-width: 500px) {
+        -webkit-filter: grayscale(100%);
+        filter: grayscale(100%);
+      }
     }
   }
 

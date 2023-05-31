@@ -40,7 +40,11 @@ function SitesView() {
 
   return (
     <SitesContainer
-      visual={sites?.length && router.query.id === undefined ? "cards" : "site"}
+      visual={
+        (sites?.length && router.query.id === undefined) || loading
+          ? "cards"
+          : "site"
+      }
     >
       {loading && router.query.id === undefined && (
         <>
