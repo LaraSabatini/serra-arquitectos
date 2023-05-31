@@ -15,6 +15,12 @@ const SitesContainer = styled.div<{ visual: "cards" | "site" }>`
           @media (max-width: 925px) {
             width: 580px;
           }
+
+          @media (max-width: 500px) {
+            width: 100%;
+            justify-content: center;
+            gap: 12px;
+          }
         `
       : css`
           width: 100%;

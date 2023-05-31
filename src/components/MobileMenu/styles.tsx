@@ -113,6 +113,7 @@ const MenuTab = styled.div`
 
   @media (max-width: 500px) {
     width: 90vw;
+    padding-left: 100px;
   }
 `
 

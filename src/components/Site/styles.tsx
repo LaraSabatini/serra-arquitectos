@@ -5,8 +5,14 @@ const Card = styled.div<{ background: string }>`
   width: 282px;
   height: 282px;
 
-  @media (max-width: 610px) {
-    width: 100%;
+  @media (max-width: 500px) {
+    width: 171px;
+    height: 171px;
+  }
+
+  @media (max-width: 380px) {
+    width: 150px;
+    height: 150px;
   }
 
   background: url(${props => props.background}) no-repeat top center;
