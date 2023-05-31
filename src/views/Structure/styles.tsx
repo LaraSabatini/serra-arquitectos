@@ -8,6 +8,10 @@ const ViewContainer = styled.div`
   display: flex;
   flex-direction: column;
   align-items: flex-start;
+
+  @media (max-width: 450px) {
+    width: 100%;
+  }
 `
 
 const Head = styled.div`
@@ -15,6 +19,11 @@ const Head = styled.div`
   display: flex;
   align-items: flex-end;
   justify-content: space-between;
+
+  @media (max-width: 450px) {
+    width: 95%;
+    margin: 0 auto;
+  }
 `
 
 const Content = styled.div`
@@ -36,12 +45,15 @@ const MenuContainer = styled.div`
 const SliderContainer = styled.div`
   width: 70%;
   display: flex;
-  align-items: center;
-  justify-content: center;
+  align-items: flex-start;
 
   @media (max-width: 1100px) {
     width: 100%;
     margin-top: 40px;
+  }
+
+  @media (max-width: 450px) {
+    width: 100vw;
   }
 `
 

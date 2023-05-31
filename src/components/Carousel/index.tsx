@@ -1,7 +1,6 @@
 import React, { useState, useEffect } from "react"
-import { getSitesForCarousel } from "@services/sites"
 import CarouselItem from "./CarouselItem"
-import { CarouselContainer } from "./styles"
+import { CarouselContainer, CarouselPreview, Image } from "./styles"
 
 interface ISiteCarousel {
   id: number
@@ -12,29 +11,22 @@ interface ISiteCarousel {
 
 function Carousel() {
   const [current, setCurrent] = useState<number>(0)
-  const [sitesArray, setSitesArray] = useState<ISiteCarousel[]>([])
-
-  const getSites = async () => {
-    const req = await getSitesForCarousel()
-
-    const array: ISiteCarousel[] = []
-    req.data.data.forEach(
-      (site: { id: number; title: string; type: string; images: string }) =>
-        array.push({
-          id: site.id,
-          title: site.title,
-          type: JSON.parse(site.type),
-          portrait: JSON.parse(site.images)[0],
-        }),
-    )
-    setSitesArray(array)
-  }
-
-  useEffect(() => {
-    if (sitesArray.length === 0) {
-      getSites()
-    }
-  }, [sitesArray])
+  const sitesArray: ISiteCarousel[] = [
+    {
+      id: 19,
+      title: "ISSyS",
+      type: ["Administrativo", "Salud"],
+      portrait:
+        "https://static.wixstatic.com/media/11a83c_c3e6b956840f45a29d2f790520f3923d~mv2.jpg/v1/fill/w_467,h_519,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/01_%20FRENTE.jpg",
+    },
+    {
+      id: 25,
+      title: "Centro de Computos Rio Limay",
+      type: ["Administrativo"],
+      portrait:
+        "https://static.wixstatic.com/media/ada591_03b574e14b1246e3a7bc731e98099bce.jpg/v1/fill/w_980,h_640,al_c,q_85,enc_auto/ada591_03b574e14b1246e3a7bc731e98099bce.jpg",
+    },
+  ]
 
   useEffect(() => {
     const interval = setInterval(() => {
@@ -56,6 +48,16 @@ function Carousel() {
           portrait={site.portrait}
         />
       ))}
+      <CarouselPreview>
+        {sitesArray.map((site, index) => (
+          <Image
+            current={current === index}
+            key={site.id * 3}
+            src={site.portrait}
+            alt={site.title}
+          />
+        ))}
+      </CarouselPreview>
     </CarouselContainer>
   )
 }

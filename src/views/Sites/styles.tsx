@@ -4,7 +4,7 @@ const SitesContainer = styled.div<{ visual: "cards" | "site" }>`
   display: flex;
   gap: 16px;
   flex-wrap: wrap;
-  height: 100%;
+  align-items: flex-start;
 
   ${props =>
     props.visual === "cards"
