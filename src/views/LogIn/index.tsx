@@ -24,7 +24,7 @@ function LoginView() {
       setValidationError(false)
       const req: any = await signIn(logInData)
 
-      if (req.data.status === 200) {
+      if (req.data?.status === 200) {
         localStorage.setItem(
           "session",
           JSON.stringify({
