@@ -27,6 +27,13 @@ const Container = styled.div`
     margin: 0;
     padding-bottom: 4px;
   }
+  padding-bottom: 50px;
 `
 
-export { Container }
+const TextContainer = styled.div`
+  ul {
+    margin-top: 4px;
+  }
+`
+
+export { Container, TextContainer }
