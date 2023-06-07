@@ -4,6 +4,7 @@ import Partners from "./Partners"
 import Studio from "./Studio"
 import Processes from "./Processes"
 import Distinctions from "./Distinctions"
+import Services from "./Services"
 
 function AboutUsView() {
   const router = useRouter()
@@ -16,6 +17,7 @@ function AboutUsView() {
       {categoryId === 201 && <Studio />}
       {categoryId === 203 && <Processes />}
       {categoryId === 204 && <Distinctions />}
+      {categoryId === 205 && <Services />}
     </>
   )
 }
