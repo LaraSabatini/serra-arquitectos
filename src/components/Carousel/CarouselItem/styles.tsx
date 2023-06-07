@@ -24,8 +24,8 @@ const CarouselItemStyled = styled.a<{ visible: boolean }>`
     border-radius: 5px;
     cursor: pointer;
 
-    -webkit-filter: grayscale(100%);
-    filter: grayscale(100%);
+    -webkit-filter: grayscale(60%);
+    filter: grayscale(60%);
     transition: 0.3s;
 
     &:hover {
@@ -33,8 +33,8 @@ const CarouselItemStyled = styled.a<{ visible: boolean }>`
       filter: grayscale(0%);
 
       @media (max-width: 500px) {
-        -webkit-filter: grayscale(100%);
-        filter: grayscale(100%);
+        -webkit-filter: grayscale(60%);
+        filter: grayscale(60%);
       }
     }
   }

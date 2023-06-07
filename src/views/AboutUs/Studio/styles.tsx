@@ -22,7 +22,6 @@ const Container = styled.div`
   }
 
   @media (max-width: 1100px) {
-    border: 1px solid green;
     height: 70vh;
   }
 
@@ -51,6 +50,26 @@ const Container = styled.div`
     padding-bottom: 4px;
   }
   padding-bottom: 50px;
+
+  iframe {
+    width: 100%;
+    height: 90%;
+    border: none;
+    -webkit-filter: grayscale(60%);
+    filter: grayscale(60%);
+  }
+
+  .contact {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+
+    padding-bottom: 12px;
+
+    p {
+      padding-bottom: 0px;
+    }
+  }
 `
 
 const TextContainer = styled.div`
