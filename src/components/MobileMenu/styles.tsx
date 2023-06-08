@@ -117,4 +117,18 @@ const MenuTab = styled.div`
   }
 `
 
-export { Container, Button, MenuTab }
+const SocialContainer = styled.div`
+  position: absolute;
+  width: 100px;
+  top: 50%;
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+
+  a {
+    text-decoration: none;
+    color: ${theme.colors.black70};
+  }
+`
+
+export { Container, Button, MenuTab, SocialContainer }

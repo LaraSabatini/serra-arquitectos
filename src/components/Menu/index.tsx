@@ -1,8 +1,9 @@
 import React, { useState } from "react"
 import { useRouter } from "next/router"
+import Link from "next/link"
 import sections from "@data/menu"
 import { Items, MenuItem, SubMenu } from "@components/sharedStyles"
-import Container from "./styles"
+import Container, { SocialContainer } from "./styles"
 
 function Menu() {
   const router = useRouter()
@@ -79,6 +80,15 @@ function Menu() {
           </Items>
         </SubMenu>
       )}
+      <SocialContainer>
+        <Link href="https://www.linkedin.com/company/serra-arquitectos/">
+          LinkedIn
+        </Link>
+        <Link href="https://www.instagram.com/serraarquitectos/">
+          Instagram
+        </Link>
+        <Link href="mailto:tecnica@serra-arquitectos.com.ar">Email</Link>
+      </SocialContainer>
     </Container>
   )
 }
