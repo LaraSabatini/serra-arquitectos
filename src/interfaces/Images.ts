@@ -1,5 +1,6 @@
 export interface IFiles {
   name: string
   uri: string
-  file: File
+  file?: File
+  new?: boolean
 }

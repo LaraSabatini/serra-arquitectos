@@ -1,12 +1,18 @@
-import React, { useState, useRef, ChangeEvent, useContext } from "react"
-import { UploadSiteContext } from "@contexts/SiteUpload"
+import React, {
+  useContext,
+  useState,
+  useRef,
+  ChangeEvent,
+  useEffect,
+} from "react"
+import { EditSiteContext } from "@contexts/SiteEdit"
 import { IFiles } from "@interfaces/Images"
-import { Modal, Button, Tooltip } from "antd"
 import {
   InboxOutlined,
   DeleteFilled,
   PaperClipOutlined,
 } from "@ant-design/icons"
+import { Modal, Button, Tooltip } from "antd"
 import {
   FilesContent,
   DraggableArea,
@@ -15,10 +21,10 @@ import {
   ModalContent,
   Images,
   ImageInCarousel,
-} from "./styles"
+} from "../../styles"
 
 function Files() {
-  const { images, setImages } = useContext(UploadSiteContext)
+  const { siteEdited, images, setImages } = useContext(EditSiteContext)
 
   const [currentImage, setCurrentImage] = useState<IFiles | null>(null)
 
@@ -57,6 +63,7 @@ function Files() {
         name: finalName,
         uri: URL.createObjectURL(file),
         file: newFile,
+        new: true,
       })
     })
 
@@ -92,6 +99,30 @@ function Files() {
       hiddenImageInput.current.click()
     }
   }
+
+  const transformImages = () => {
+    if (siteEdited?.images.length) {
+      const originalImages =
+        typeof siteEdited?.images === "string"
+          ? JSON.parse(siteEdited?.images as string)
+          : siteEdited?.images
+
+      const imagesArray: IFiles[] = []
+      originalImages.forEach((img: string) => {
+        imagesArray.push({
+          name: img.split("/")[img.split("/").length - 1],
+          uri: img,
+          new: false,
+        })
+      })
+      setImages(imagesArray)
+    }
+  }
+
+  useEffect(() => {
+    transformImages()
+    // eslint-disable-next-line react-hooks/exhaustive-deps
+  }, [])
 
   return (
     <FilesContent>

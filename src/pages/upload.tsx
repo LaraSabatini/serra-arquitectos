@@ -1,8 +1,7 @@
 import React, { useEffect, useState } from "react"
 import { useRouter } from "next/router"
 import LayoutView from "@views/Structure"
-import UploadView from "@views/Upload"
-import UploadSiteProvider from "@contexts/SiteUpload"
+import UploadSite from "@views/Upload"
 
 function Upload() {
   const router = useRouter()
@@ -32,11 +31,9 @@ function Upload() {
   return (
     <div>
       {isLogged && (
-        <UploadSiteProvider>
-          <LayoutView>
-            <UploadView sessionData={sessionData} />
-          </LayoutView>
-        </UploadSiteProvider>
+        <LayoutView>
+          <UploadSite sessionData={sessionData} />
+        </LayoutView>
       )}
     </div>
   )

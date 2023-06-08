@@ -17,3 +17,15 @@ export const uploadSite = async (body: ISite, authToken: string) => {
     return err.response
   }
 }
+
+export const editSite = async (body: ISite, authToken: string) => {
+  const axiosHeader = {
+    headers: {
+      "Content-Type": "application/json",
+      "Auth-Token": `${authToken}`,
+    },
+  }
+
+  const res = await axios.put(`${route}`, body, axiosHeader)
+  return res
+}
