@@ -10,7 +10,7 @@ const LogoStyled = styled.div<{ dimesion: "large" | "normal" }>`
 
     span {
       font-family: "Regular";
-      font-size: ${theme.fontSizes.m};
+      font-size: 20px;
       height: 17px;
     }
     color: ${theme.colors.black70};
@@ -20,7 +20,7 @@ const LogoStyled = styled.div<{ dimesion: "large" | "normal" }>`
       height: 20px;
       color: ${theme.colors.black};
       font-family: "Bold";
-      font-size: ${theme.fontSizes.l};
+      font-size: 24px;
     }
   }
 
@@ -29,7 +29,8 @@ const LogoStyled = styled.div<{ dimesion: "large" | "normal" }>`
   justify-content: flex-end;
   flex-direction: column;
 
-  height: 60px;
+  height: 40px;
+  margin-bottom: 16px;
   gap: 5px;
   cursor: pointer;
   transition: all 0.5s;
@@ -37,6 +38,7 @@ const LogoStyled = styled.div<{ dimesion: "large" | "normal" }>`
   ${props =>
     props.dimesion === "large" &&
     css`
+      height: 60px;
       h1 {
         gap: 8px;
         height: 36px;

@@ -19,9 +19,6 @@ const MenuItem = styled.div<{ selected: boolean }>`
     css`
       font-family: "Bold";
       color: ${theme.colors.black};
-      p {
-        box-shadow: inset 0 -0.5em 0 0 ${theme.colors.black10};
-      }
     `}
 
   p {
@@ -29,6 +26,10 @@ const MenuItem = styled.div<{ selected: boolean }>`
     padding-left: 2px;
     padding-right: 5px;
     line-height: 16px;
+
+    span {
+      font-family: "Regular";
+    }
 
     &:hover {
       box-shadow: inset 0 -0.5em 0 0 ${theme.colors.black10};
