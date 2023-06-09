@@ -20,8 +20,16 @@
     "isolatedModules": true,
     "noEmit": true,
     "jsx": "preserve",
+    "baseUrl": "./src",
     "paths": {
-      "@/*": ["./src/*"]
+      "@components/*": ["components/*"],
+      "@views/*": ["views/*"],
+      "@data/*": ["data/*"],
+      "@helpers/*": ["helpers/*"],
+      "@interfaces/*": ["interfaces/*"],
+      "@theme/*": ["theme/*"],
+      "@services/*": ["services/*"],
+      "@contexts/*": ["contexts/*"],
     },
     "plugins": [
       {

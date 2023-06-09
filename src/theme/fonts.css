@@ -20,6 +20,13 @@
 }
 
 @font-face {
+    font-family: 'Thin-Italic';
+    src: url('../fonts/HelveticaNeueLTStd-ThExO.otf') format("opentype");
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
     font-family: 'Light-Italic';
     src: url('../fonts/HelveticaNeueLTStd-UltLtExO.otf') format("opentype");
     font-weight: normal;
