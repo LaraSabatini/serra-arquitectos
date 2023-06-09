@@ -31,3 +31,12 @@ export const getSiteById = async (id: number) => {
     return err.response
   }
 }
+
+export const getSiteByCode = async (code: string) => {
+  try {
+    const res = await axios.get(`${route}/code=${code}`, axiosHeader)
+    return res
+  } catch (err: any) {
+    return err.response
+  }
+}
