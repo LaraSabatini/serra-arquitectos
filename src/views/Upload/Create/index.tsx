@@ -154,8 +154,8 @@ function UploadView({
 
     const body: ISite = {
       ...newSite,
-      tasks: tasksArray.length === 0 ? [""] : JSON.stringify(tasksArray),
-      images: imagesArray.length === 0 ? [""] : JSON.stringify(imagesArray),
+      tasks: tasksArray.length === 0 ? "[]" : JSON.stringify(tasksArray),
+      images: imagesArray.length === 0 ? "[]" : JSON.stringify(imagesArray),
       otherFields: JSON.stringify(newSite.otherFields),
       type: JSON.stringify(newSite.type),
     }
