@@ -4,6 +4,7 @@ import { ISite } from "@interfaces/Site"
 import sections from "@data/menu"
 import { getSites } from "@services/sites/getSites.service"
 import Site from "@components/Site"
+import AllSites from "./AllSites"
 import SitesContainer, { CardPlaceholder } from "./styles"
 import IndividualSite from "./Site"
 
@@ -39,43 +40,49 @@ function SitesView() {
   }, [router])
 
   return (
-    <SitesContainer
-      visual={
-        (sites?.length && router.query.id === undefined) || loading
-          ? "cards"
-          : "site"
-      }
-    >
-      {loading && router.query.id === undefined && (
-        <>
-          <CardPlaceholder />
-          <CardPlaceholder />
-          <CardPlaceholder />
-          <CardPlaceholder />
-          <CardPlaceholder />
-          <CardPlaceholder />
-          <CardPlaceholder />
-          <CardPlaceholder />
-          <CardPlaceholder />
-        </>
-      )}
-      {sites?.length && router.query.id === undefined ? (
-        sites.map(site => (
-          <Site
-            key={site.id}
-            id={site.id as number}
-            title={site.title}
-            code={site.code}
-            type={JSON.parse(site.type as string)}
-            location={site.location}
-            portrait={JSON.parse(site.images as string)[0]}
-          />
-        ))
+    <div>
+      {categoryId !== 113 ? (
+        <SitesContainer
+          visual={
+            (sites?.length && router.query.id === undefined) || loading
+              ? "cards"
+              : "site"
+          }
+        >
+          {loading && router.query.id === undefined && (
+            <>
+              <CardPlaceholder />
+              <CardPlaceholder />
+              <CardPlaceholder />
+              <CardPlaceholder />
+              <CardPlaceholder />
+              <CardPlaceholder />
+              <CardPlaceholder />
+              <CardPlaceholder />
+              <CardPlaceholder />
+            </>
+          )}
+          {sites?.length && router.query.id === undefined ? (
+            sites.map(site => (
+              <Site
+                key={site.id}
+                id={site.id as number}
+                title={site.title}
+                code={site.code}
+                type={JSON.parse(site.type as string)}
+                location={site.location}
+                portrait={JSON.parse(site.images as string)[0]}
+              />
+            ))
+          ) : (
+            <div />
+          )}
+          {router.query.id !== undefined && <IndividualSite />}
+        </SitesContainer>
       ) : (
-        <div />
+        <AllSites />
       )}
-      {router.query.id !== undefined && <IndividualSite />}
-    </SitesContainer>
+    </div>
   )
 }
 

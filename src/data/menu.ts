@@ -73,6 +73,26 @@ const sections: {
       },
       {
         id: 109,
+        name: "Viviendas colectivas",
+        route: "obras",
+      },
+      {
+        id: 110,
+        name: "Viviendas individuales",
+        route: "obras",
+      },
+      {
+        id: 111,
+        name: "Planes de vivienda",
+        route: "obras",
+      },
+      {
+        id: 112,
+        name: "Planeamiento",
+        route: "obras",
+      },
+      {
+        id: 113,
         name: "Todas las obras",
         route: "obras",
       },

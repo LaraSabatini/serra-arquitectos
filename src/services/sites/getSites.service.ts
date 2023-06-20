@@ -14,6 +14,15 @@ export const getSites = async (page: number, category: string) => {
   }
 }
 
+export const getAllSites = async () => {
+  try {
+    const res = await axios.get(`${route}/all`, axiosHeader)
+    return res
+  } catch (err: any) {
+    return err.response
+  }
+}
+
 export const getSitesForCarousel = async () => {
   try {
     const res = await axios.get(`${route}`, axiosHeader)
