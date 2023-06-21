@@ -25,29 +25,44 @@ function AllSites() {
       title: "Código",
       dataIndex: "code",
       key: "code",
-      width: "1%",
+      width: "100px",
     },
     {
       title: "Obra",
       dataIndex: "title",
       key: "title",
-      width: "40%",
+      width: "250px",
+    },
+    {
+      title: "Categoria",
+      dataIndex: "type",
+      key: "type",
+      width: "250px",
+      render: (text: string) => (
+        <p>
+          {JSON.parse(text).length > 1
+            ? `${JSON.parse(text)[0]}, ${JSON.parse(text)[1]}`
+            : `${JSON.parse(text)}`}
+        </p>
+      ),
     },
     {
       title: "Año",
       dataIndex: "year",
       key: "year",
+      width: "150px",
     },
     {
       title: "Comitente",
       dataIndex: "principal",
       key: "principal",
-      width: "25%",
+      width: "370px",
     },
     {
       title: "Superficie",
       dataIndex: "size",
       key: "size",
+      width: "100px",
       render: (text: string) => (
         <p>
           {parseInt(text as string, 10)
@@ -72,11 +87,12 @@ function AllSites() {
                 router.push(`obras?categoria=${filter[0].id}&id=${record.id}`)
               }
             },
+            style: { cursor: record.images !== "[]" ? "pointer" : "auto" },
           }
         }}
         dataSource={sites}
         columns={columns}
-        pagination={{ pageSize: 5 }}
+        pagination={{ pageSize: 6 }}
       />
     </div>
   )
