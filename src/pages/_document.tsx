@@ -26,10 +26,11 @@ export default class MyDocument extends Document {
             rel="stylesheet"
             href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css"
           />
-          {/* <link
-              rel="icon"
-              href=""
-            /> */}
+          <meta
+            name="description"
+            content="Diseño arquitectónico de calidad desde 1975. Ofrecemos servicios completos de planificación, equipamiento público y privado, viviendas y diseño especializado. Nuestro equipo altamente profesional y multidisciplinario trabaja en toda Argentina, brindando consultoría, arquitectura e ingeniería para proyectos urbanísticos y arquitectónicos. Cumplimos plazos y garantizamos resultados."
+          />
+          <link rel="icon" href="./favicon.png" />
         </Head>
         <body>
           <Main />
