@@ -2,7 +2,7 @@ import React, { useState, useContext } from "react"
 import dayjs from "dayjs"
 import { useRouter } from "next/router"
 import { EditSiteContext } from "@contexts/SiteEdit"
-import { uploadFile } from "@services/files"
+import { uploadFile, createFolder } from "@services/files"
 import sections from "@data/menu"
 import { ISite } from "interfaces/Site"
 import { editSite, getSiteByCode } from "@services/sites/index"
@@ -139,6 +139,10 @@ function EditSiteView({
 
     if (!validation) {
       setStep(2)
+      await createFolder(
+        { folderName: `OP-${siteEdited?.code}` },
+        sessionData.token,
+      )
     } else {
       setRequiredError(true)
     }

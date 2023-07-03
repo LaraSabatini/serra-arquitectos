@@ -23,9 +23,10 @@ function IndividualSite() {
 
   const getSiteData = async () => {
     const req = await getSiteById(parseInt(router.query.id as string, 10))
+
     setSite({
       ...req.data.data[0],
-      images: JSON.parse(req.data.data[0].images),
+      images: JSON.parse(req.data.data[0]?.images),
       tasks:
         req.data.data[0].tasks !== ""
           ? JSON.parse(req.data.data[0].tasks)
