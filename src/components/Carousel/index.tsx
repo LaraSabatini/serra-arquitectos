@@ -13,18 +13,76 @@ function Carousel() {
   const [current, setCurrent] = useState<number>(0)
   const sitesArray: ISiteCarousel[] = [
     {
-      id: 19,
-      title: "ISSyS",
-      type: ["Administrativo", "Salud"],
-      portrait:
-        "https://static.wixstatic.com/media/11a83c_c3e6b956840f45a29d2f790520f3923d~mv2.jpg/v1/fill/w_467,h_519,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/01_%20FRENTE.jpg",
+      id: 18,
+      title: "Plaza San Miguel de Garicoits",
+      type: ["Deportivo + Recreativo"],
+      portrait: "./187.jpg",
     },
     {
-      id: 25,
-      title: "Centro de Computos Rio Limay",
+      id: 14,
+      title: "Iglesia de Dios Padre",
+      type: ["Culto"],
+      portrait: "./205.jpg",
+    },
+    {
+      id: 6,
+      title: "Ciudad Judicial",
       type: ["Administrativo"],
-      portrait:
-        "https://static.wixstatic.com/media/ada591_03b574e14b1246e3a7bc731e98099bce.jpg/v1/fill/w_980,h_640,al_c,q_85,enc_auto/ada591_03b574e14b1246e3a7bc731e98099bce.jpg",
+      portrait: "./272.jpg",
+    },
+    {
+      id: 75,
+      title: "Edificio Viviendas Camargo",
+      type: ["Viviendas Colectivas"],
+      portrait: "./285.jpg",
+    },
+    {
+      id: 151,
+      title: "Conjunto de Viviendas ProCreAr, Santa Rosa",
+      type: ["Planes de vivienda"],
+      portrait: "./377.jpg",
+    },
+    {
+      id: 62,
+      title: "Centro de interpretación ambiental Villa Traful",
+      type: ["Turismo"],
+      portrait: "./378.jpg",
+    },
+    {
+      id: 384,
+      title: "Terminal de pasajeros y torre de control del aeropuerto",
+      type: ["Transporte"],
+      portrait: "./384.jpg",
+    },
+    {
+      id: 53,
+      title: "Instituto Penitenciario Chalican",
+      type: ["Seguridad"],
+      portrait: "./423.jpg",
+    },
+    {
+      id: 122,
+      title: "Oficinas IFF",
+      type: ["Administrativo"],
+      portrait: "./433.jpg",
+    },
+    {
+      id: 123,
+      title: "ISSyS Comodoro Rivadaria",
+      type: ["Administrativo"],
+      portrait: "./434.jpg",
+    },
+    {
+      id: 132,
+      title: "Conjunto de Viviendas Pro.Cre.Ar Santa Rosa",
+      type: ["Planes de vivienda"],
+      portrait: "./443.2.png",
+    },
+    {
+      id: 143,
+      title: "Centro de Convenciones Cafayate",
+      type: ["Turismo"],
+      portrait: "./454.png",
     },
   ]
 

@@ -2,7 +2,7 @@ import React, { useState, useContext } from "react"
 import dayjs from "dayjs"
 import { useRouter } from "next/router"
 import { EditSiteContext } from "@contexts/SiteEdit"
-import { uploadFile } from "@services/files"
+import { uploadFile, createFolder } from "@services/files"
 import sections from "@data/menu"
 import { ISite } from "interfaces/Site"
 import { editSite, getSiteByCode } from "@services/sites/index"
@@ -139,6 +139,10 @@ function EditSiteView({
 
     if (!validation) {
       setStep(2)
+      await createFolder(
+        { folderName: `OP-${siteEdited?.code}` },
+        sessionData.token,
+      )
     } else {
       setRequiredError(true)
     }
@@ -157,12 +161,13 @@ function EditSiteView({
 
       const filterNewImages = images.filter(img => img.new)
 
-      const imagesArray: string[] = filterNewImages.map(
+      const imagesArray: string[] = images.map(
         image =>
           `${process.env.NEXT_PUBLIC_API_URL}/OP-${siteEdited.code}/${image.name}`,
       )
 
-      const filesArray = filterNewImages.map(image => image.file)
+      const filesArray: any[] = []
+      filterNewImages.forEach(image => filesArray.push(image.file))
 
       if (filesArray.length) {
         const req = await uploadFile(
@@ -174,11 +179,12 @@ function EditSiteView({
       }
       const body: ISite = {
         ...siteEdited,
-        tasks: tasks.length === 0 ? [""] : JSON.stringify(tasks),
-        images: imagesArray.length === 0 ? [""] : JSON.stringify(imagesArray),
+        tasks: tasks.length === 0 ? "[]" : JSON.stringify(tasks),
+        images: imagesArray.length === 0 ? "[]" : JSON.stringify(imagesArray),
         otherFields: JSON.stringify(siteEdited.otherFields),
         type: JSON.stringify(siteEdited.type),
       }
+
       const updateReq = await editSite(body, sessionData.token)
 
       updateSiteSuccess = updateReq.data.status === 201

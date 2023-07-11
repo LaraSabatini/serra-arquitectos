@@ -2,7 +2,7 @@ import styled, { css } from "styled-components"
 import theme from "@theme/index"
 
 const CarouselItemStyled = styled.a<{ visible: boolean }>`
-  height: 100%;
+  height: 700px;
   position: relative;
   display: flex;
   align-items: center;
@@ -17,7 +17,7 @@ const CarouselItemStyled = styled.a<{ visible: boolean }>`
   img {
     height: 100%;
     max-width: 100%;
-    object-fit: contain;
+    object-fit: cover;
 
     object-position: center;
 
@@ -40,6 +40,8 @@ const CarouselItemStyled = styled.a<{ visible: boolean }>`
   }
 
   @media (max-width: 450px) {
+    height: 300px;
+
     img {
       border-radius: 0;
     }
