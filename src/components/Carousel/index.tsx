@@ -76,7 +76,7 @@ function Carousel() {
       id: 132,
       title: "Conjunto de Viviendas Pro.Cre.Ar Santa Rosa",
       type: ["Planes de vivienda"],
-      portrait: "./443.2.png",
+      portrait: "./443-2.png",
     },
     {
       id: 143,
