@@ -1,4 +1,4 @@
-export const route = `${process.env.NEXT_PUBLIC_API_URL}/files`
+export const route = `${process.env.NEXT_PUBLIC_API_URL}/fileManagement`
 
 export * from "./upload.service"
 export * from "./get.service"

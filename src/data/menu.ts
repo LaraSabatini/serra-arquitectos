@@ -38,7 +38,7 @@ const sections: {
       },
       {
         id: 105,
-        name: "Insustrial",
+        name: "Industrial",
         route: "obras",
       },
       {
