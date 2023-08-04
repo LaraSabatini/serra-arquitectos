@@ -17,7 +17,7 @@ function CarouselItem({ id, title, type, portrait, visible }: ICarouselItem) {
 
   return (
     <CarouselItemStyled
-      href={`http://localhost:3000/obras?id=${id}&categoria=${filterType[0]?.id}`}
+      href={`https://serra-arquitectos.vercel.app/obras?id=${id}&categoria=${filterType[0]?.id}`}
       visible={visible}
     >
       <Description>
