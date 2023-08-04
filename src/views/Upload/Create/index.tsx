@@ -138,7 +138,7 @@ function UploadView({
 
     const imagesArray: string[] = images.map(
       image =>
-        `${process.env.NEXT_PUBLIC_API_URL}/OP-${newSite.code}/${image.name}`,
+        `${process.env.NEXT_PUBLIC_API_URL}/fileManagement/files/OP-${newSite.code}/${image.name}`,
     )
 
     const filesArray = images.map(image => image.file)
