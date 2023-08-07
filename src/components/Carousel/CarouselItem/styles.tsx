@@ -67,7 +67,7 @@ const Description = styled.div`
 
   background-color: ${theme.colors.black60};
   padding: 12px 20px;
-  width: 250px;
+  width: 300px;
   border: 2px solid rgba(245, 245, 245, 0.6);
   border-radius: 2px;
   z-index: 10;
