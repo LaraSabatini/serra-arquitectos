@@ -6,6 +6,7 @@ interface ISiteCarousel {
   id: number
   title: string
   type: string[]
+  op: string
   portrait: string
 }
 
@@ -13,76 +14,74 @@ function Carousel() {
   const [current, setCurrent] = useState<number>(0)
   const sitesArray: ISiteCarousel[] = [
     {
-      id: 18,
-      title: "Plaza San Miguel de Garicoits",
-      type: ["Deportivo + Recreativo"],
-      portrait: "./187.webp",
-    },
-    {
-      id: 14,
-      title: "Iglesia de Dios Padre",
-      type: ["Culto"],
-      portrait: "./205.webp",
-    },
-    {
-      id: 6,
-      title: "Ciudad Judicial",
-      type: ["Administrativo"],
-      portrait: "./272.webp",
+      id: 132,
+      title: "Conjunto de Viviendas Pro.Cre.Ar Santa Rosa",
+      type: ["Planes de vivienda"],
+      op: "Proyecto y Dirección de Obra",
+      portrait: "./443-2.webp",
     },
     {
       id: 75,
       title: "Edificio Viviendas Camargo",
       type: ["Viviendas Colectivas"],
+      op: "Proyecto",
       portrait: "./285.webp",
     },
     {
-      id: 151,
-      title: "Conjunto de Viviendas ProCreAr, Santa Rosa",
-      type: ["Planes de vivienda"],
-      portrait: "./377.webp",
+      id: 6,
+      title: "Ciudad Judicial",
+      type: ["Administrativo"],
+      op: "Proyecto",
+      portrait: "./272.webp",
     },
     {
-      id: 62,
-      title: "Centro de interpretación ambiental Villa Traful",
-      type: ["Turismo"],
-      portrait: "./378.webp",
+      id: 6,
+      title: "Estación Terminal de Omnibus",
+      type: ["Transporte"],
+      op: "Proyecto",
+      portrait: "./167.webp",
     },
     {
       id: 384,
       title: "Terminal de pasajeros y torre de control del aeropuerto",
       type: ["Transporte"],
+      op: "Proyecto",
       portrait: "./384.webp",
+    },
+    {
+      id: 62,
+      title: "Centro de interpretación ambiental Villa Traful",
+      type: ["Turismo"],
+      op: "Proyecto y Asistencia Técnica de Obra",
+      portrait: "./378.webp",
     },
     {
       id: 53,
       title: "Instituto Penitenciario Chalican",
       type: ["Seguridad"],
+      op: "Proyecto y Dirección de Obra",
       portrait: "./423.webp",
     },
     {
       id: 122,
       title: "Oficinas IFF",
       type: ["Administrativo"],
+      op: "Anteproyecto",
       portrait: "./433.webp",
-    },
-    {
-      id: 123,
-      title: "ISSyS Comodoro Rivadaria",
-      type: ["Administrativo"],
-      portrait: "./434.webp",
-    },
-    {
-      id: 132,
-      title: "Conjunto de Viviendas Pro.Cre.Ar Santa Rosa",
-      type: ["Planes de vivienda"],
-      portrait: "./443-2.webp",
     },
     {
       id: 143,
       title: "Centro de Convenciones Cafayate",
       type: ["Turismo"],
+      op: "Dirección de Obra",
       portrait: "./454.webp",
+    },
+    {
+      id: 123,
+      title: "ISSyS Comodoro Rivadaria",
+      type: ["Administrativo"],
+      op: "Proyecto y Asistencia Técnica de Obra",
+      portrait: "./434.webp",
     },
   ]
 
@@ -101,6 +100,7 @@ function Carousel() {
           key={site.id}
           visible={current === index}
           id={site.id}
+          op={site.op}
           title={site.title}
           type={site.type}
           portrait={site.portrait}

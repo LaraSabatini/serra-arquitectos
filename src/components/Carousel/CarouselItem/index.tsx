@@ -6,11 +6,19 @@ interface ICarouselItem {
   id: number
   title: string
   type: string[]
+  op: string
   portrait: string
   visible: boolean
 }
 
-function CarouselItem({ id, title, type, portrait, visible }: ICarouselItem) {
+function CarouselItem({
+  id,
+  title,
+  type,
+  op,
+  portrait,
+  visible,
+}: ICarouselItem) {
   const filterType = sections[0].subsections.filter(
     subsection => subsection.name === type[0],
   )
@@ -23,7 +31,7 @@ function CarouselItem({ id, title, type, portrait, visible }: ICarouselItem) {
       <Description>
         <p>
           <b>{title}</b>
-          {type.join(" / ")}
+          {type.join(" / ")} - {op}
         </p>
       </Description>
       <img src={portrait} alt={`Portada de obra: ${title}`} />
