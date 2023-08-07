@@ -5,14 +5,27 @@ import sections from "@data/menu"
 import { Table } from "antd"
 import { getAllSites } from "@services/sites/getSites.service"
 
+type TablePaginationPosition =
+  | "topLeft"
+  | "topCenter"
+  | "topRight"
+  | "bottomLeft"
+  | "bottomCenter"
+  | "bottomRight"
+
 function AllSites() {
   const router = useRouter()
 
-  const [sites, setSites] = useState<ISite[]>()
+  const [sites, setSites] = useState<ISite[]>([])
+  const [amount, setAmount] = useState<number>(1)
+  const top: TablePaginationPosition | "none" = "none"
+  const bottom: TablePaginationPosition | "none" = "none"
 
   const getSiteList = async () => {
     const req = await getAllSites()
     setSites(req.data.data)
+
+    setAmount(req.data.data.length)
   }
 
   useEffect(() => {
@@ -40,9 +53,7 @@ function AllSites() {
       width: "250px",
       render: (text: string) => (
         <p>
-          {JSON.parse(text).length > 1
-            ? `${JSON.parse(text)[0]}, ${JSON.parse(text)[1]}`
-            : `${JSON.parse(text)}`}
+          {text.replaceAll("[", "").replaceAll("]", "").replaceAll('"', "")}
         </p>
       ),
     },
@@ -92,7 +103,14 @@ function AllSites() {
         }}
         dataSource={sites}
         columns={columns}
-        pagination={{ pageSize: 6 }}
+        style={{ height: "90vh", overflowX: "auto" }}
+        pagination={{
+          pageSize: amount,
+          position: [
+            top as TablePaginationPosition,
+            bottom as TablePaginationPosition,
+          ],
+        }}
       />
     </div>
   )

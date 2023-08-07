@@ -2,7 +2,8 @@ import styled, { css } from "styled-components"
 import theme from "@theme/index"
 
 const CarouselItemStyled = styled.a<{ visible: boolean }>`
-  height: 700px;
+  height: 100vh;
+  margin-top: -56px;
   position: relative;
   display: flex;
   align-items: center;
@@ -16,12 +17,11 @@ const CarouselItemStyled = styled.a<{ visible: boolean }>`
 
   img {
     height: 100%;
-    max-width: 100%;
+    max-width: 108%;
     object-fit: cover;
 
     object-position: center;
 
-    border-radius: 5px;
     cursor: pointer;
 
     -webkit-filter: grayscale(60%);
@@ -44,6 +44,14 @@ const CarouselItemStyled = styled.a<{ visible: boolean }>`
 
     img {
       border-radius: 0;
+    }
+  }
+  @media (max-width: 1100px) {
+    margin-top: -10px;
+    height: 88vh;
+
+    img {
+      max-width: 100%;
     }
   }
 `

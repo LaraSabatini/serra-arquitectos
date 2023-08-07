@@ -103,14 +103,17 @@ function IndividualSite() {
             <DataItem>
               <b>Tareas realizadas:</b>
               {site?.tasks.map(item => (
-                <p className="task">• {item}</p>
+                <p key={item} className="task">
+                  • {item}
+                </p>
               ))}
             </DataItem>
           )}
-          <DataItem>
-            <b>Descripción:</b>{" "}
-            {site?.description === "" ? "-" : site?.description}
-          </DataItem>
+          {site?.description !== "" && (
+            <DataItem>
+              <b>Descripción:</b> {site?.description}
+            </DataItem>
+          )}
           <DataItem>
             <b>Superficie total:</b>{" "}
             {parseInt(site?.size as string, 10)
@@ -121,7 +124,7 @@ function IndividualSite() {
           {site?.otherFields !== "" &&
             typeof site?.otherFields !== "string" &&
             site?.otherFields.map(field => (
-              <DataItem>
+              <DataItem key={field.value}>
                 <b>{field.type}: </b>
                 {field.value.replace("m2", "m²")}
               </DataItem>

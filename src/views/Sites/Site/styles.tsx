@@ -36,7 +36,6 @@ const ImageContainer = styled.div`
   justify-content: center;
   width: 100%;
   height: 100%;
-  background: rgba(39, 48, 49, 0.03);
 
   border-radius: 5px;
 

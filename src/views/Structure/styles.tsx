@@ -18,7 +18,7 @@ const ViewContainer = styled.div`
 const Head = styled.div`
   width: 100%;
   display: flex;
-  align-items: flex-end;
+  align-items: center;
   justify-content: space-between;
 
   @media (max-width: 450px) {

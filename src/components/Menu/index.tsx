@@ -74,7 +74,13 @@ function Menu() {
                   parseInt(router.query.categoria as string, 10) === option.id
                 }
               >
-                <p>{option.name}</p>
+                {option.name === "Todas las obras" ? (
+                  <p>
+                    <b>{option.name}</b>
+                  </p>
+                ) : (
+                  <p>{option.name}</p>
+                )}
               </MenuItem>
             ))}
           </Items>
