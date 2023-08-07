@@ -41,7 +41,7 @@ function SitesView() {
 
   return (
     <div>
-      {categoryId !== 113 ? (
+      {categoryId !== 116 ? (
         <SitesContainer
           visual={
             (sites?.length && router.query.id === undefined) || loading

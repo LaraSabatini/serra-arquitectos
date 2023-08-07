@@ -21,6 +21,10 @@ const MenuItem = styled.div<{ selected: boolean }>`
       color: ${theme.colors.black};
     `}
 
+  b {
+    font-family: "Bold";
+  }
+
   p {
     margin: 0;
     padding-left: 2px;
