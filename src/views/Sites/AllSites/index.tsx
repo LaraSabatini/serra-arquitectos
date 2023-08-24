@@ -1,4 +1,5 @@
 import React, { useState, useEffect } from "react"
+import { LinkOutlined } from "@ant-design/icons"
 import { useRouter } from "next/router"
 import { ISite } from "@interfaces/Site"
 import sections from "@data/menu"
@@ -24,7 +25,6 @@ function AllSites() {
   const getSiteList = async () => {
     const req = await getAllSites()
     setSites(req.data.data)
-
     setAmount(req.data.data.length)
   }
 
@@ -39,6 +39,12 @@ function AllSites() {
       dataIndex: "code",
       key: "code",
       width: "100px",
+      render: (text: string, data: any) => (
+        <p style={{ display: "flex", gap: "4px", alignItems: "center" }}>
+          {text}
+          {JSON.parse(data.images).length > 0 && <LinkOutlined />}
+        </p>
+      ),
     },
     {
       title: "Obra",
