@@ -40,12 +40,13 @@ const CarouselItemStyled = styled.a<{ visible: boolean }>`
   }
 
   @media (max-width: 450px) {
-    height: 300px;
+    height: 50vh !important;
 
     img {
       border-radius: 0;
     }
   }
+
   @media (max-width: 1100px) {
     margin-top: -10px;
     height: 88vh;
