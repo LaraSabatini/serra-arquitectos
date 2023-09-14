@@ -23,7 +23,7 @@ function RestorePassword() {
       setLoading(true)
 
       const req = await sendRestorePasswordEmail({ recipients: [recipient] })
-      if (req.status === 201) {
+      if (req === "Created") {
         setRequestStatus("success")
       } else {
         setRequestStatus("error")
