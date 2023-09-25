@@ -1,7 +1,7 @@
 import styled from "styled-components"
 import theme from "@theme/index"
 
-const Card = styled.div<{ background: string }>`
+const Card = styled.div<{ background?: string }>`
   width: 282px;
   height: 282px;
 
@@ -10,8 +10,6 @@ const Card = styled.div<{ background: string }>`
     height: 171px;
 
     &:hover {
-      background: url(${props => props.background}) no-repeat top center;
-
       .data {
         visibility: hidden;
       }
@@ -23,7 +21,6 @@ const Card = styled.div<{ background: string }>`
     height: 150px;
   }
 
-  background: url(${props => props.background}) no-repeat top center;
   background-size: cover;
   cursor: pointer;
 
@@ -31,7 +28,6 @@ const Card = styled.div<{ background: string }>`
   filter: grayscale(60%);
 
   &:hover {
-    transition: 0.3s;
     background: linear-gradient(
         180deg,
         rgba(0, 0, 0, 0.343) 0%,
@@ -45,8 +41,6 @@ const Card = styled.div<{ background: string }>`
     }
 
     @media (max-width: 500px) {
-      background: url(${props => props.background}) no-repeat top center;
-
       .data {
         visibility: hidden;
       }

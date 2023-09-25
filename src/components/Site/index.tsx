@@ -8,7 +8,13 @@ function Site({ id, title, code, type, portrait }: ISiteCard) {
 
   return (
     <Card
-      background={portrait}
+      // background={portrait}
+      style={{
+        background: `url(${portrait}) no-repeat top center`,
+        backgroundSize: "cover",
+        filter: "grayscale(60%)",
+        WebkitFilter: "grayscale(60%)",
+      }}
       onClick={() => {
         router.query.id = `${id}`
         router.push(router)
