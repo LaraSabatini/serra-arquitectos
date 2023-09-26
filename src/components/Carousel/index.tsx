@@ -67,7 +67,7 @@ function Carousel() {
       title: "Estación Terminal de Omnibus",
       type: ["Transporte"],
       op: "Proyecto",
-      portrait: "./167.webp",
+      portrait: "./455.webp",
     },
     {
       id: 3893,
