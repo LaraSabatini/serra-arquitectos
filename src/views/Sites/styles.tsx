@@ -28,7 +28,7 @@ const SitesContainer = styled.div<{ visual: "cards" | "site" }>`
 `
 
 export const CardPlaceholder = styled.div`
-  transition: 0.3s;
+  /* transition: 0.3s; */
   cursor: pointer;
   width: 282px;
   height: 282px;
