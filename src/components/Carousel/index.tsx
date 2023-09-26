@@ -35,7 +35,7 @@ function Carousel() {
       portrait: "./433.webp",
     },
     {
-      id: 53,
+      id: 503,
       title: "Iglesia de Dios Padre",
       type: ["Culto"],
       op: "Proyecto y Dirección de Obra",
@@ -70,7 +70,7 @@ function Carousel() {
       portrait: "./167.webp",
     },
     {
-      id: 6,
+      id: 3893,
       title: "Ciudad Judicial",
       type: ["Administrativo"],
       op: "Proyecto",
@@ -98,7 +98,8 @@ function Carousel() {
     }, 1500)
 
     return () => clearInterval(interval)
-  }, [sitesArray.length])
+    // eslint-disable-next-line react-hooks/exhaustive-deps
+  }, [])
 
   return (
     <CarouselContainer>

@@ -52,8 +52,8 @@ const Card = styled.div<{ background?: string }>`
     font-family: "Regular";
 
     padding: 24px 20px;
-    width: 250px;
-    height: 250px;
+    width: 242px;
+    height: 235px;
     color: ${theme.colors.white};
     display: flex;
     flex-direction: column;
@@ -65,6 +65,8 @@ const Card = styled.div<{ background?: string }>`
     .title {
       font-family: "Bold";
     }
+
+    background-color: #00000030;
   }
 `
 
