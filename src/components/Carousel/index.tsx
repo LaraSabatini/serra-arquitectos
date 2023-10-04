@@ -14,7 +14,7 @@ function Carousel() {
   const [current, setCurrent] = useState<number>(0)
   const sitesArray: ISiteCarousel[] = [
     {
-      id: 123,
+      id: 3,
       title: "ISSyS Comodoro Rivadaria",
       type: ["Administrativo"],
       op: "Proyecto y Asistencia Técnica de Obra",
@@ -35,14 +35,14 @@ function Carousel() {
       portrait: "./433.webp",
     },
     {
-      id: 503,
+      id: 14,
       title: "Iglesia de Dios Padre",
       type: ["Culto"],
       op: "Proyecto y Dirección de Obra",
       portrait: "./205.webp",
     },
     {
-      id: 53,
+      id: 27,
       title: "Instituto Penitenciario Chalican",
       type: ["Seguridad"],
       op: "Proyecto y Dirección de Obra",
@@ -56,21 +56,21 @@ function Carousel() {
       portrait: "./378.webp",
     },
     {
-      id: 384,
+      id: 53,
       title: "Terminal de pasajeros y torre de control del aeropuerto",
       type: ["Transporte"],
       op: "Proyecto",
       portrait: "./384.webp",
     },
     {
-      id: 6,
+      id: 59,
       title: "Estación Terminal de Omnibus",
       type: ["Transporte"],
       op: "Proyecto",
       portrait: "./455.webp",
     },
     {
-      id: 3893,
+      id: 6,
       title: "Ciudad Judicial",
       type: ["Administrativo"],
       op: "Proyecto",
