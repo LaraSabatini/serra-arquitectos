@@ -25,7 +25,7 @@ function CarouselItem({
 
   return (
     <CarouselItemStyled
-      href={`https://serra-arquitectos.vercel.app/obras?id=${id}&categoria=${filterType[0]?.id}`}
+      href={`https://serra-arquitectos.com.ar/obras?id=${id}&categoria=${filterType[0]?.id}`}
       visible={visible}
     >
       <Description>
