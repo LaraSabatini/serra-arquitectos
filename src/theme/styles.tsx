@@ -7,6 +7,7 @@ const GlobalStyle = createGlobalStyle`
 
     overflow-x: hidden;
     font-family: "Regular";
+    height: 100vh;
 }
 `
 

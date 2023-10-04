@@ -37,7 +37,7 @@ function MobileMenu() {
               key={section.id}
               onClick={() => {
                 if (menuOpened === section.id) {
-                  setMenuOpened(null)
+                  // setMenuOpened(null)
                   setOptions([])
                 } else {
                   setMenuOpened(section.id)
@@ -78,6 +78,7 @@ function MobileMenu() {
                     router.push(`${option.route}?categoria=${option.id}`)
                     setMenuOpened(null)
                     setOptions([])
+                    setOpenMenu(false)
                   }}
                   selected={
                     parseInt(router.query.categoria as string, 10) === option.id
