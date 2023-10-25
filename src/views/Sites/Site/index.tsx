@@ -62,7 +62,7 @@ function IndividualSite() {
         type="button"
         onClick={() => {
           delete router.query.id
-          router.push(router)
+          router.back()
         }}
       >
         <LeftOutlined />
