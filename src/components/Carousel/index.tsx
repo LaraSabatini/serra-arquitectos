@@ -18,14 +18,14 @@ function Carousel() {
       title: "ISSyS Comodoro Rivadaria",
       type: ["Administrativo"],
       op: "Proyecto y Asistencia Técnica de Obra",
-      portrait: "https://www.serra-arquitectos.com.ar/OP-454/01.jpeg",
+      portrait: "./434.webp",
     },
     {
       id: 143,
       title: "Centro de Convenciones Cafayate",
       type: ["Turismo"],
       op: "Dirección de Obra",
-      portrait: "./454.webp",
+      portrait: "https://www.serra-arquitectos.com.ar/OP-454/01.jpeg",
     },
     {
       id: 122,
