@@ -32,8 +32,7 @@ export const nicolasSerra = {
   name: "Nicolás Serra",
   work: "Arquitecto - Socio",
   email: "nicolas.serra@serra-arquitectos.com.ar",
-  portrait:
-    "https://static.wixstatic.com/media/ada591_2f27e980cd164edfbfc5e09c44412246.png/v1/fill/w_575,h_408,al_c,lg_1,q_85,enc_auto/ada591_2f27e980cd164edfbfc5e09c44412246.png",
+  portrait: "https://www.serra-arquitectos.com.ar/socios/Nicolas.JPG",
   data: [
     {
       title: "Estudios Cursados",
@@ -57,8 +56,7 @@ export const gonzaloSerra = {
   name: "Gonzalo Serra",
   work: "Arquitecto - Socio",
   email: "gonzalo.serra@serra-arquitectos.com.ar",
-  portrait:
-    "https://static.wixstatic.com/media/ada591_e6a1fa943cef4f47bf3a1b2ce494fe93.png/v1/fill/w_567,h_408,al_c,lg_1,q_85,enc_auto/ada591_e6a1fa943cef4f47bf3a1b2ce494fe93.png",
+  portrait: "https://www.serra-arquitectos.com.ar/socios/Gonzalo.jpeg",
   data: [
     {
       title: "Estudios Cursados",
@@ -74,6 +72,30 @@ export const gonzaloSerra = {
       title: "Actividades Civiles",
       value:
         "Es miembro del Consejo Profesional de Arquitectura y Urbanismo y del Colegio de Arquitectos de la Provincia de Buenos Aires.\nEn el año 2000 es socio fundador de la firma Urbatec Construcciones y Servicios S.R.L. que forma parte del Grupo\nPresidente de la Comisión Directiva (2005-2007) de la Asociación de Ex Alumnos del Instituto Libre de Segunda Enseñanza\nIntegra como vocal el Consejo Directivo de la Junta de Estudios Históricos de la Basílica del Pilar (2007).",
+    },
+  ],
+}
+
+export const mateoSerra = {
+  name: "Mateo Serra",
+  work: "Arquitecto - Socio",
+  email: "mateo.serra@serra-arquitectos.com.ar",
+  portrait: "https://www.serra-arquitectos.com.ar/socios/Mateo.jpg",
+  data: [
+    {
+      title: "Estudios Cursados",
+      value:
+        "Mateo Serra realizó sus estudios secundarios en el Goethe Schule, donde obtuvo el Abitur (Bachillerato Alemán) junto con el título de Bachiller en Ciencias Naturales. Posteriormente ingresó a la Facultad de Arquitectura, Diseño y Urbanismo de la Universidad de Buenos Aires, donde completó la carrera de Arquitectura en 2022. En 2023 amplió su formación académica en la Escuela de Negocios de Real Estate, en el área de desarrollo estratégico de proyectos inmobiliarios.",
+    },
+    {
+      title: "Actuación Profesional",
+      value:
+        "Desde 2017 integra el estudio Serra Arquitectos, donde se desempeña como director de obra y proyectista. A lo largo de su trayectoria participó en proyectos de diversa escala, desde viviendas unifamiliares hasta conjuntos urbanos e instituciones, adquiriendo una sólida experiencia en diseño, dirección de obra y coordinación de equipos. Desde 2023 también desarrolla tareas docentes como ayudante de cátedra ad honorem en la materia Arquitectura I de la Universidad de Buenos Aires.",
+    },
+    {
+      title: "Actividades Civiles",
+      value:
+        "Además de su labor académica y profesional, mantiene un activo interés por el intercambio cultural y la formación integral. Su manejo de los idiomas español, alemán e inglés le ha permitido vincularse en entornos multiculturales y participar de experiencias que trascienden lo estrictamente disciplinar.",
     },
   ],
 }
