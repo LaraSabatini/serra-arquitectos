@@ -1,6 +1,11 @@
 import React from "react"
 import { useRouter } from "next/router"
-import { fernandoSerra, nicolasSerra, gonzaloSerra } from "@data/partners"
+import {
+  fernandoSerra,
+  nicolasSerra,
+  gonzaloSerra,
+  mateoSerra,
+} from "@data/partners"
 import Card from "./Card"
 import Partner from "./Partner"
 import { CardsContainer, SectionContainer } from "./styles"
@@ -30,6 +35,12 @@ function Partners() {
             name={gonzaloSerra.name}
             work={gonzaloSerra.work}
             email={gonzaloSerra.email}
+          />
+          <Card
+            portrait={mateoSerra.portrait}
+            name={mateoSerra.name}
+            work={mateoSerra.work}
+            email={mateoSerra.email}
           />
         </CardsContainer>
       ) : (

@@ -32,7 +32,7 @@ export const nicolasSerra = {
   name: "Nicolás Serra",
   work: "Arquitecto - Socio",
   email: "nicolas.serra@serra-arquitectos.com.ar",
-  portrait: "https://www.serra-arquitectos.com.ar/socios/Nicolas.JPG",
+  portrait: "https://www.serra-arquitectos.com.ar/socios/nicolas.png",
   data: [
     {
       title: "Estudios Cursados",
@@ -56,7 +56,7 @@ export const gonzaloSerra = {
   name: "Gonzalo Serra",
   work: "Arquitecto - Socio",
   email: "gonzalo.serra@serra-arquitectos.com.ar",
-  portrait: "https://www.serra-arquitectos.com.ar/socios/Gonzalo.jpeg",
+  portrait: "https://www.serra-arquitectos.com.ar/socios/gonzalo.png",
   data: [
     {
       title: "Estudios Cursados",
@@ -80,7 +80,7 @@ export const mateoSerra = {
   name: "Mateo Serra",
   work: "Arquitecto - Socio",
   email: "mateo.serra@serra-arquitectos.com.ar",
-  portrait: "https://www.serra-arquitectos.com.ar/socios/Mateo.jpg",
+  portrait: "https://www.serra-arquitectos.com.ar/socios/mateo.png",
   data: [
     {
       title: "Estudios Cursados",
