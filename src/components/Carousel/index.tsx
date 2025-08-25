@@ -25,7 +25,7 @@ function Carousel() {
       title: "Centro de Convenciones Cafayate",
       type: ["Turismo"],
       op: "Dirección de Obra",
-      portrait: "./454.webp",
+      portrait: "https://www.serra-arquitectos.com.ar/OP-454/01.jpeg",
     },
     {
       id: 122,
