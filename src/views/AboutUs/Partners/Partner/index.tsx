@@ -1,5 +1,10 @@
 import React, { useState, useEffect } from "react"
-import { fernandoSerra, nicolasSerra, gonzaloSerra } from "@data/partners"
+import {
+  fernandoSerra,
+  nicolasSerra,
+  gonzaloSerra,
+  mateoSerra,
+} from "@data/partners"
 import { useRouter } from "next/router"
 import { LeftOutlined } from "@ant-design/icons"
 import {
@@ -17,7 +22,7 @@ function Partner() {
   const [currentPartner, setCurrentPartner] = useState(fernandoSerra)
 
   const searchPartner = () => {
-    const partnerArray = [fernandoSerra, nicolasSerra, gonzaloSerra]
+    const partnerArray = [fernandoSerra, nicolasSerra, gonzaloSerra, mateoSerra]
     const filterPartners = partnerArray.filter(item => item.name === partner)
 
     setCurrentPartner(filterPartners[0])

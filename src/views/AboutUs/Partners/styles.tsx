@@ -4,8 +4,12 @@ const CardsContainer = styled.div`
   display: flex;
   gap: 16px;
   flex-wrap: wrap;
-  justify-content: center;
+  justify-content: flex-start;
   margin-top: 100px;
+
+  @media (max-width: 450px) {
+    justify-content: center;
+  }
 `
 
 const SectionContainer = styled.div`
