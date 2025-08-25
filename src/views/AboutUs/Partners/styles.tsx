@@ -6,6 +6,7 @@ const CardsContainer = styled.div`
   flex-wrap: wrap;
   justify-content: flex-start;
   margin-top: 100px;
+  padding-bottom: 60px;
 
   @media (max-width: 450px) {
     justify-content: center;
