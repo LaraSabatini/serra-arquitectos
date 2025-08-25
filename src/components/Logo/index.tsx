@@ -8,14 +8,25 @@ function Logo({ dimesion }: { dimesion: "large" | "normal" }) {
   const [isHovering, setIsHovering] = useState<boolean>(false)
   return (
     <LogoStyled dimesion={dimesion} onClick={() => router.push("/home")}>
-      <h1
-        onMouseOver={() => setIsHovering(!isHovering)}
-        onFocus={() => setIsHovering(!isHovering)}
-        className="animate__animated animate__fadeIn"
-      >
-        <b>SERRA</b>
-        <span>ARQUITECTOS</span>
-      </h1>
+      {dimesion === "large" ? (
+        <img
+          onMouseOver={() => setIsHovering(!isHovering)}
+          onFocus={() => setIsHovering(!isHovering)}
+          className="animate__animated animate__fadeIn"
+          width="300px"
+          alt="logo serra arquitectos"
+          src="https://www.serra-arquitectos.com.ar/logo/horizontal.png"
+        />
+      ) : (
+        <img
+          onMouseOver={() => setIsHovering(!isHovering)}
+          onFocus={() => setIsHovering(!isHovering)}
+          className="animate__animated animate__fadeIn"
+          width="100px"
+          alt="logo serra arquitectos"
+          src="https://www.serra-arquitectos.com.ar/logo/vertical.png"
+        />
+      )}
       {dimesion === "large" && <Underline className="underline" />}
     </LogoStyled>
   )
