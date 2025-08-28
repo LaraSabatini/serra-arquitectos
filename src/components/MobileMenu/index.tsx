@@ -97,7 +97,7 @@ function MobileMenu() {
           <Link href="https://www.instagram.com/serraarquitectos/">
             Instagram
           </Link>
-          <Link href="mailto:tecnica@serra-arquitectos.com.ar">Email</Link>
+          <Link href="mailto:contacto@serra-arquitectos.com.ar">Email</Link>
         </SocialContainer>
       </MenuTab>
     </Container>

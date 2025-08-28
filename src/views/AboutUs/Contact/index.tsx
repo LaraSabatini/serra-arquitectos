@@ -25,7 +25,7 @@ function Contact() {
       </div>
       <div className="contact">
         <MailOutlined />
-        <p>tecnica@serra-arquitectos.com.ar</p>
+        <p>contacto@serra-arquitectos.com.ar</p>
       </div>
       <iframe
         title="Ubicacion"
