@@ -6,6 +6,7 @@
     ],
     "rules": {
       "@typescript-eslint/no-floating-promises": "off",
+      "@next/next/no-img-element": "off",
       "no-nested-ternary": "off",
       "avoid-implicit-dependencies": "off",
       "react/function-component-definition": [
