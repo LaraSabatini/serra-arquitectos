@@ -69,34 +69,26 @@ function EditSiteView({
     setEmptySearch(false)
     const req = await getSiteByCode(value)
     if (req.data.data.length) {
-      const otherFields =
-        req.data.data[0].otherFields === ""
-          ? []
-          : JSON.parse(req.data.data[0].otherFields)
-
-      const tasksList =
-        req.data.data[0].tasks === "" ? [] : JSON.parse(req.data.data[0].tasks)
-
-      const originalImages =
-        req.data.data[0].images === ""
-          ? []
-          : JSON.parse(req.data.data[0].images)
+      const raw = req.data.data[0]
+      const otherFields = Array.isArray(raw.otherFields) ? raw.otherFields : []
+      const tasksList = Array.isArray(raw.tasks) ? raw.tasks : []
+      const originalImages = Array.isArray(raw.images) ? raw.images : []
 
       setSiteSelected({
-        ...req.data.data[0],
+        ...raw,
         originalImages,
         tasks: tasksList,
-        type: JSON.parse(req.data.data[0].type),
+        type: raw.type as string[],
         otherFields,
       })
       setSiteEdited({
-        ...req.data.data[0],
+        ...raw,
         originalImages,
         tasks: tasksList,
-        type: JSON.parse(req.data.data[0].type),
+        type: raw.type as string[],
         otherFields,
       })
-      setCurrentDynamicInfo(otherFields)
+      setCurrentDynamicInfo(otherFields[0] ?? { type: "", value: "" })
       setTasks(tasksList)
     } else {
       setEmptySearch(true)
