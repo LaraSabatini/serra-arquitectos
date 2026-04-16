@@ -72,18 +72,15 @@ function EditSiteView({
       const raw = req.data.data[0]
       const otherFields = Array.isArray(raw.otherFields) ? raw.otherFields : []
       const tasksList = Array.isArray(raw.tasks) ? raw.tasks : []
-      const originalImages = Array.isArray(raw.images) ? raw.images : []
 
       setSiteSelected({
         ...raw,
-        originalImages,
         tasks: tasksList,
         type: raw.type as string[],
         otherFields,
       })
       setSiteEdited({
         ...raw,
-        originalImages,
         tasks: tasksList,
         type: raw.type as string[],
         otherFields,
