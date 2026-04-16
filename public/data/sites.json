@@ -1,0 +1,4357 @@
+[
+  {
+    "id": 3,
+    "title": "ISSyS",
+    "code": "426",
+    "year": "2021",
+    "principal": "ISSyS",
+    "type": ["Administrativo", "Salud"],
+    "location": "Comodoro Rivadavia",
+    "tasks": [
+      "Realización de Anteproyecto de  licitación, Proyecto Ejecutivo e  Asistencia Técnica durante la construcción de las obras.",
+      "Análisis de la información y estudios Previos, Anteproyecto y Proyecto completo de Arquitectura y especialidades: estructuras, inst. sanitaria, temo mecánica, incendio, seguridad y paisajismo."
+    ],
+    "description": "",
+    "size": "4380",
+    "images": [
+      "https://www.serra-arquitectos.com.ar/OP-434/01-FRENTE.webp",
+      "https://www.serra-arquitectos.com.ar/OP-434/02-LATERAL.webp",
+      "https://www.serra-arquitectos.com.ar/OP-434/03-RECEPCION.webp",
+      "https://www.serra-arquitectos.com.ar/OP-434/04-ALBERGUE.webp"
+    ],
+    "otherFields": []
+  },
+  {
+    "id": 4,
+    "title": "Consulado de España en Buenos Aires",
+    "code": "318",
+    "year": "2003",
+    "principal": "Estado Español",
+    "type": ["Administrativo"],
+    "location": "Guido 1770. Buenos Aires.",
+    "tasks": "",
+    "description": "Refacción completa, ampliación y vinculaciones para edificio Anexo\r\nSobre un edificio existente se llevo a cabo la adaptacion del mismo para adecuarlo al programa de necesidades del Consulado.\r\nEl edificio tiene como características ser de máxima seguridad tanto física como técnica.\r\nIncluye Ingeniería Estructural, Sanitaria, Incendio, Gas, Termomecánica, Electricidad y Señalización.",
+    "size": "1000",
+    "images": [
+      "https://www.serra-arquitectos.com.ar/OP-318/ada591_262f386e4bb445e89c6a8bdaf9638882.webp",
+      "https://www.serra-arquitectos.com.ar/OP-318/ada591_4a77ee697388475899680168a77d1214.webp",
+      "https://www.serra-arquitectos.com.ar/OP-318/ada591_d346c89788864d3b97a07bd0b127ac51.webp",
+      "https://www.serra-arquitectos.com.ar/OP-318/ada591_dc57707947e843deb9ce5437740b2e2f.webp",
+      "https://www.serra-arquitectos.com.ar/OP-318/ada591_fab3b9ad1bce4deda514c40b7c2ccea4.webp",
+      "https://www.serra-arquitectos.com.ar/OP-318/ada591_ff211b64bb20408d94d017ed0a3cc90c.webp"
+    ],
+    "otherFields": []
+  },
+  {
+    "id": 5,
+    "title": "Oficinas Carlos Pellegrini",
+    "code": "291",
+    "year": "1998",
+    "principal": "Inverko S.A.",
+    "type": ["Administrativo"],
+    "location": "Carlos Pellegrini 1141. Buenos Aires.",
+    "tasks": ["Proyecto y Direccion de Obras."],
+    "description": "",
+    "size": "5200",
+    "images": [
+      "https://www.serra-arquitectos.com.ar/OP-291/OP-291-2.webp",
+      "https://www.serra-arquitectos.com.ar/OP-291/OP-291-perspectiva-2.webp",
+      "https://www.serra-arquitectos.com.ar/OP-291/OP-291-perspectiva.webp"
+    ],
+    "otherFields": []
+  },
+  {
+    "id": 6,
+    "title": "Ciudad Judicial",
+    "code": "272",
+    "year": "1996",
+    "principal": "BPT Properties LP\r\nDragados y Construcciones.\r\nDycasa.\r\nComercial del Plata Construcciones.\r\nMaipú Inversora.\r\nSade S.A.\r\n\r\nBanco Central Hispanoamericano",
+    "type": ["Administrativo"],
+    "location": "Puerto Madero, Ciudad de Buenos Aires",
+    "tasks": ["Anteproyecto"],
+    "description": "Edificio para el Centro Judicial de la Nación (Primera licitación).\r\nPuerto Madero, Manzanas 5M, 1Q, 1T y 1S. Capital Federal.\r\nAnteproyecto para la licitación Pública Nacional e Internacional para el Desarrollo del Centro Judicial, organizada por la Corporación Antiguo Puerto Madero SA",
+    "size": "420000",
+    "images": [
+      "https://www.serra-arquitectos.com.ar/OP-272/ada591_1e4ffc82198246d886dfcabce65ad89b.webp",
+      "https://www.serra-arquitectos.com.ar/OP-272/ada591_34b822e7131048859ac757731f25b5ce.webp",
+      "https://www.serra-arquitectos.com.ar/OP-272/ada591_3dc8268722874d8ea5006359724925ce.webp",
+      "https://www.serra-arquitectos.com.ar/OP-272/ada591_5bd5fd5feacb4e2dbb3c5764eed240c9.webp",
+      "https://www.serra-arquitectos.com.ar/OP-272/ada591_5f91a54a9da44ee78b7c1e00e30c0437.webp",
+      "https://www.serra-arquitectos.com.ar/OP-272/ada591_7989bd8e676e40d08b7e4113251aa6ce.webp",
+      "https://www.serra-arquitectos.com.ar/OP-272/ada591_8527059cf7494feb872bec0c80d9e6dd.webp",
+      "https://www.serra-arquitectos.com.ar/OP-272/ada591_e98c8cb19acc4de9bb944e25ced057fa.webp"
+    ],
+    "otherFields": [
+      {
+        "type": "Predio",
+        "value": "5,26 has"
+      },
+      {
+        "type": "Sup. Centro Judicial",
+        "value": "248.500 m2"
+      },
+      {
+        "type": "Sup. ampliación futura",
+        "value": "171.500 m²"
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "title": "Centro de Exposiciones Costa Salguero",
+    "code": "293",
+    "year": "1998",
+    "principal": "Centro Costa Salguero",
+    "type": ["Comercial"],
+    "location": "Av. Costanera R. Obligado y J. Salguero. Ciudad de Buenos Aires",
+    "tasks": ["Proyecto y Supervicion de Obra"],
+    "description": "",
+    "size": "4500",
+    "images": [
+      "https://www.serra-arquitectos.com.ar/OP-293/ada591_60ff245735c84351a28bdef46158deaf.webp",
+      "https://www.serra-arquitectos.com.ar/OP-293/ada591_66c05666964c475ca3cb347260357fd1.webp",
+      "https://www.serra-arquitectos.com.ar/OP-293/ada591_676429b061764b44b7bebfaa5e6fe2ad.webp",
+      "https://www.serra-arquitectos.com.ar/OP-293/ada591_8cb1233f8b394b2ea618153cc5c9a2b7.webp",
+      "https://www.serra-arquitectos.com.ar/OP-293/ada591_8cd62b0d834742c388fe0228a34931d0.webp"
+    ],
+    "otherFields": []
+  },
+  {
+    "id": 8,
+    "title": "Centro de Computos Rio Limay",
+    "code": "251",
+    "year": "1994",
+    "principal": "Telefónica de Argentina S.A.",
+    "type": ["Administrativo"],
+    "location": "Osvaldo Cruz y Luzuriaga. Ciudad de Buenos Aires",
+    "tasks": ["Proyecto y Direccíon de Obra"],
+    "description": "Los trabajos comprenden: El desarrollo del proyecto completo y la direccion de las obras.\r\nSobre un edificio existente se llevo a cabo la adaptacion del mismo para adecuarlo al programa de necesidades del centro de computos.\r\nEl edificio tiene como características ser de máxima seguridad tanto física como técnica.",
+    "size": "3574",
+    "images": [
+      "https://www.serra-arquitectos.com.ar/OP-251/ada591_01ef77aaf044472dbca4300d67d35334.webp",
+      "https://www.serra-arquitectos.com.ar/OP-251/ada591_03b574e14b1246e3a7bc731e98099bce.webp",
+      "https://www.serra-arquitectos.com.ar/OP-251/ada591_42f88c32a9e94cd6aa52986f5b46f334.webp",
+      "https://www.serra-arquitectos.com.ar/OP-251/ada591_9c2148af514b46b499cf3d363ca68526.webp",
+      "https://www.serra-arquitectos.com.ar/OP-251/ada591_ef4a27a30d214fc99f1017670eddb148.webp"
+    ],
+    "otherFields": []
+  },
+  {
+    "id": 9,
+    "title": "Telepuerto Internacional",
+    "code": "244",
+    "year": "1994",
+    "principal": "Tiba",
+    "type": ["Administrativo"],
+    "location": "Predio ATC, Figueroa Alcorta,  Buenos Aires.",
+    "tasks": ["Proyecto y Direccion de Obras"],
+    "description": "Estación retrasmisora de señales satelitales",
+    "size": "294",
+    "images": [
+      "https://www.serra-arquitectos.com.ar/OP-244/ada591_12deb6d2903647fa9167529972923a67.webp",
+      "https://www.serra-arquitectos.com.ar/OP-244/ada591_c72f9f865f4c410196ff901fe12c1f9e.webp",
+      "https://www.serra-arquitectos.com.ar/OP-244/ada591_f6ce9a0f349f428ea081f0ce21a18ded.webp"
+    ],
+    "otherFields": []
+  },
+  {
+    "id": 10,
+    "title": "Centro de computos nuevo Banco Italiano",
+    "code": "73",
+    "year": "1969",
+    "principal": "Nuevo Banco Italiano",
+    "type": ["Administrativo"],
+    "location": "Venezuela 540. Ciudad de Buenos Aires",
+    "tasks": ["Proyecto y Direccion de Obra"],
+    "description": "El estudio se encargo de la expansión que tenía programada el Nuevo Banco Italiano para la incorporación de una computadora administrativa, en un terreno de amplias dimensiones ubicado en Venezuela 540 (próximo a la Casa Matriz), donde se alojó el Centro de Procesamiento de Datos.\r\nSe resolvió emplazar el edifcio en el fondo del predio, dentro del volúmen edificable que permite la Municipalidad; de este modo, la expansión futura sobre el resto del terreno puede desarrollarse libremente sin entorpecer el funcionamiento del sector actual.\r\nSe encaró el proyecto con una gran mayoría de elementos de montaje en seco",
+    "size": "1100",
+    "images": [
+      "https://www.serra-arquitectos.com.ar/OP-73/ada591_b54d2a7896a04e688c9696fbc937744e.webp"
+    ],
+    "otherFields": []
+  },
+  {
+    "id": 11,
+    "title": "Edificio polifuncional Banco Provincia de Buenos Aires",
+    "code": "174",
+    "year": "1980",
+    "principal": "Banco de la Provincia de Buenos Aires",
+    "type": ["Administrativo"],
+    "location": "Guanahani 510/580,  Buenos Aires.",
+    "tasks": ["Estudios de factibilidad, Proyecto y Direccion de Obras"],
+    "description": "Refuncionalización y ampliación de un edificio para funciones generales del banco, Depósitos sectorizados, Talleres, Vehículos, Centro de Cómputos, Archivos.",
+    "size": "50000",
+    "images": [
+      "https://www.serra-arquitectos.com.ar/OP-174/ada591_0afbec262e514f8cb819e5ab2cc90df3.webp",
+      "https://www.serra-arquitectos.com.ar/OP-174/ada591_70cf5aceeeef48cbbe6dabaca9a30b56.webp",
+      "https://www.serra-arquitectos.com.ar/OP-174/ada591_a990a2c119f24025b37ec03d1c5397d5.webp"
+    ],
+    "otherFields": []
+  },
+  {
+    "id": 12,
+    "title": "Iglesia Alpha 2000",
+    "code": "298",
+    "year": "1999",
+    "principal": "RIVA S.A.",
+    "type": ["Culto"],
+    "location": "Gral. Perón, Pcia. de Buenos Aires.",
+    "tasks": ["Anteproyecto"],
+    "description": "El acceso al templo, se realiza a través de un atrio de 9 metros de altura libre, donde se encuentra la librería, y al que se accede desde una escalinata de 45 m de ancho, enmarcada por dos torres que alcanzan la altura de 88 metros.\r\n\r\nEl templo propiamente dicho consta de un gran espacio unificador de planta circular con capacidad de aproximadamente de 18.300 personas sentadas, cubierto de una cúpula de 107 metros de diámetro. Las capacidades se distribuyen de la siguiente manera: planta general, 14.000 personas sentadas, palco 1° piso, 3.200 personas sentadas y palco 2° piso 1.100 personas sentadas. Perimetralmente tiene dos niveles de galerías donde se ubicarán los pastores y ministros.\r\n\r\nEl escenario es un espacio semicircular de aproximadamente 32 metros de diámetro, con un espacio posterior de vidrio –el baptisterio con las tres piletas bautismales- de 33 metros por 34 metros. En el exterior del baptisterio, se encuentra una fuente que define la composición.\r\n\r\nEn el subsuelo se ubican los servicios sanitarios y las salas de maquinas, accediendo desde el atrio y desde el interior del templo por ascensores para discapacitados. Con referencia a los servicios sanitarios se aclara que se han proyectado las cantidades requeridas por las normas vigentes, que difieren con lo solicitado en las bases. Debajo del escenario, se ubican los vestuarios y salas de máquinas de las piletas bautismales.\r\n\r\nEl edificio posee cuatro salidas de emergencia desde el interior del templo y una salida desde el sector de los baños.",
+    "size": "24148",
+    "images": [
+      "https://www.serra-arquitectos.com.ar/OP-298/ada591_35bad486a2874e329f59dfef25a9a28c.webp",
+      "https://www.serra-arquitectos.com.ar/OP-298/ada591_35c5f9cdeb914b4da1d02fd5a8df85e1.webp",
+      "https://www.serra-arquitectos.com.ar/OP-298/ada591_948a9295f380469a98492686432adb92.webp",
+      "https://www.serra-arquitectos.com.ar/OP-298/ada591_b708821a47b94e85871f11e15d732ff2.webp"
+    ],
+    "otherFields": [
+      {
+        "type": "Sup. Templo",
+        "value": "19.792 m2"
+      },
+      {
+        "type": "Sup. Total Viviendas",
+        "value": "4.356 m2"
+      },
+      {
+        "type": "Sup. Estac. Descub",
+        "value": "21.471 m2"
+      },
+      {
+        "type": "Capac Templo",
+        "value": "18.300 pers. sentadas"
+      },
+      {
+        "type": "Cant. viviendas",
+        "value": "48"
+      },
+      {
+        "type": "Cant autos",
+        "value": "540"
+      },
+      {
+        "type": "Cant. Ómnibus",
+        "value": "48"
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "title": "Abadia Hermanas Adoratrices",
+    "code": "247",
+    "year": "1994",
+    "principal": "Hnas. Adoratrices de Schönstatt",
+    "type": ["Culto"],
+    "location": "Misiones entre Chacabuco y Castelli, Florencio Varela. Pcia. de Buenos Aires.",
+    "tasks": ["Proyecto"],
+    "description": "",
+    "size": "3500",
+    "images": [
+      "https://www.serra-arquitectos.com.ar/OP-247/ada591_821bbe96b2c0432b9c6830553c41c797.webp",
+      "https://www.serra-arquitectos.com.ar/OP-247/ada591_9f52d110bfc843a18c6328e70b1f666a.webp",
+      "https://www.serra-arquitectos.com.ar/OP-247/ada591_c7e542c1e0ce444c9b061235c53974dc.webp"
+    ],
+    "otherFields": [
+      {
+        "type": "Cant. habitaciones",
+        "value": "18"
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "title": "Iglesia de Dios Padre",
+    "code": "205",
+    "year": "1983",
+    "principal": "Instituto Secular de Schoenstatt, Hnas de María]",
+    "type": ["Culto"],
+    "location": "Misiones 901, Florencio Varela, Pcia. de Buenos Aires",
+    "tasks": ["Proyecto y Direccion de Obras"],
+    "description": "La Iglesia de Dios Padre constituye el hito del Complejo religioso de Nuevo Schönstatt, perteneciente a las Hermanas de María, en Florencio Varela, Provincia de Buenos Aires.\r\n\r\nSe implanto la Iglesia como centro vinculante de los distintos puntos religiosos del predio, relacionando la Casa de Retiros con el Santuario y el Cementerio, el atrio verde y el Altar del Peregrino.\r\n\r\nSe adopto un partido de Iglesia en “Cruz Latina”, para 500 personas sentadas, conteniendo un amplio prebisterio en la intersección de la nave central, con dos naves laterales, toda la composición exterior gira alrededor de un eje vertical que es el campanario de 40 metros de altura.\r\n\r\nEl triángulo esta presente en todo el diseño de la volumetria, apoyándose siempre en un cuadrado, en la idea que el triangulo-simbolo de la divinidad y la santísima trinidad- apoyado en el cuadrado -símbolo del mundo y de lo permanente- son las figuras que mas profundamente apelan a las almas cuando se quiere representar a Dios Padre.\r\n\r\nCada función interior se ha correspondido con una volumetría única, diferente del resto, pero al mismo tiempo, integrada al todo.\r\n\r\nEn las naves laterales se procuró establecer una cotidiana abstracción de la realidad por medio de la desaparición de los signos convencionales de viga y columna.\r\n\r\nEn cambio, en la nave central el triángulo del Padre preside desde arriba un espacio que se expansiona lateralmente bajo las dos paredes laterales que \"saltan\", en un alarde de modernidad, treinta y tres metros sin apoyo, dando al conjunto una fluidez espacial atípica en edificios religiosos.\r\n\r\nLa escala del espacio formado, est  en relación a lo Trascendente y se manifiesta iluminado por una luz filtrada que proviene de lo alto, a traves de lucernarios ubicados estratégicamente que enfatizan distintos puntos de la composición, como el altar, los confesionarios, la sacristía, el recordatorio del Padre y las escaleras.",
+    "size": "2750",
+    "images": [
+      "https://www.serra-arquitectos.com.ar/OP-205/OP-205-1.webp",
+      "https://www.serra-arquitectos.com.ar/OP-205/OP-205-2.webp",
+      "https://www.serra-arquitectos.com.ar/OP-205/OP-205-3.webp",
+      "https://www.serra-arquitectos.com.ar/OP-205/OP-205-4.webp",
+      "https://www.serra-arquitectos.com.ar/OP-205/OP-205-5.webp",
+      "https://www.serra-arquitectos.com.ar/OP-205/OP-205-6.webp",
+      "https://www.serra-arquitectos.com.ar/OP-205/OP-205-8.webp",
+      "https://www.serra-arquitectos.com.ar/OP-205/OP-206-7.webp"
+    ],
+    "otherFields": []
+  },
+  {
+    "id": 15,
+    "title": "Plaza El Soberbio",
+    "code": "363",
+    "year": "2012",
+    "principal": "Ministerio de Turismo de la Nación\r\nUnidad Ejecutora de Préstamos Internacionales (UEPI). Programa de mejora de la competitividad del sector",
+    "type": ["Deportivo + Recreativo"],
+    "location": "El Soberbio, Provincia de Misiones",
+    "tasks": [
+      "Relevamiento, análisis de la información y estudios Previos, Anteproyecto y Proyecto completo de Arquitectura y especialidades, estructuras, inst. sanitaria, incendio y paisajismo"
+    ],
+    "description": "",
+    "size": "9514",
+    "images": [
+      "https://www.serra-arquitectos.com.ar/OP-363/600-01.jpg",
+      "https://www.serra-arquitectos.com.ar/OP-363/600-02.jpg",
+      "https://www.serra-arquitectos.com.ar/OP-363/600-03.jpg",
+      "https://www.serra-arquitectos.com.ar/OP-363/600-04.jpg",
+      "https://www.serra-arquitectos.com.ar/OP-363/600-05.jpg",
+      "https://www.serra-arquitectos.com.ar/OP-363/600-06.jpg",
+      "https://www.serra-arquitectos.com.ar/OP-363/600-07.jpg"
+    ],
+    "otherFields": []
+  },
+  {
+    "id": 16,
+    "title": "Pilar Golf",
+    "code": "263",
+    "year": "1996",
+    "principal": "Piero S.A. / Pilar Golf Club",
+    "type": ["Deportivo + Recreativo"],
+    "location": "Pilar Golf Club, Pcia de Buenos Aires.",
+    "tasks": ["Anteproyecto"],
+    "description": "",
+    "size": "3300",
+    "images": [
+      "https://www.serra-arquitectos.com.ar/OP-263/ada591_0c58925e50cf44ebae441c1e85bed168.webp",
+      "https://www.serra-arquitectos.com.ar/OP-263/ada591_6d57025bd0414909973be2b65dd26b17.webp",
+      "https://www.serra-arquitectos.com.ar/OP-263/ada591_ec8e0046736348a5b183ea76d066f691.webp",
+      "https://www.serra-arquitectos.com.ar/OP-263/ada591_fbdde7413ebd484489c32ba9d6e0b4ab.webp"
+    ],
+    "otherFields": []
+  },
+  {
+    "id": 17,
+    "title": "Pileta CNSI",
+    "code": "194",
+    "year": "1980",
+    "principal": "Club Nautico San Isidro",
+    "type": ["Deportivo + Recreativo"],
+    "location": "Isla Sarandí, San Isidro, Pcia de Buenos Aires.",
+    "tasks": ["Proyecto y Supervicion de Obras"],
+    "description": "",
+    "size": "2300",
+    "images": [
+      "https://www.serra-arquitectos.com.ar/OP-194/ada591_0f0655e787ce49258c6d5df210cd749e.webp",
+      "https://www.serra-arquitectos.com.ar/OP-194/ada591_390d27bfe0f347a2b6a2729344fada37.webp",
+      "https://www.serra-arquitectos.com.ar/OP-194/ada591_39b3ab574c8d4a89826bfdca13ce5686.webp"
+    ],
+    "otherFields": [
+      {
+        "type": "Sup. Solárium",
+        "value": "3 Ha"
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "title": "Plaza San Miguel de Garicoits",
+    "code": "187",
+    "year": "1980",
+    "principal": "Municipalidad de la Ciudad de Buenos Aires",
+    "type": ["Deportivo + Recreativo"],
+    "location": "Av. Álvarez Thomas, Arredondo, Delgado, Calabria, Ciudad Autónoma de Buenos Aires",
+    "tasks": ["Proyecto y Direccion de Obras"],
+    "description": "",
+    "size": "11900",
+    "images": [
+      "https://www.serra-arquitectos.com.ar/OP-187/ada591_2a77caf9c6a14d3eb588a3bf68d6346b.webp",
+      "https://www.serra-arquitectos.com.ar/OP-187/ada591_bdcd6b3e08bc42a3936b6fe483d009c6.webp",
+      "https://www.serra-arquitectos.com.ar/OP-187/ada591_cdefd2ab150a40678badc1910ef1d8cf.webp",
+      "https://www.serra-arquitectos.com.ar/OP-187/ada591_df7ce1b4b3a242c0b650ddd774533765.webp"
+    ],
+    "otherFields": []
+  },
+  {
+    "id": 19,
+    "title": "Polideportivo Alberdi",
+    "code": "186",
+    "year": "1980",
+    "principal": "Municipalidad de la Ciudad de Buenos Aires",
+    "type": ["Deportivo + Recreativo"],
+    "location": "Chascomús y Tellier, Ciudad Autónoma de Buenos Air...",
+    "tasks": ["Proyecto y Direccion de Obras"],
+    "description": "",
+    "size": "83600",
+    "images": [
+      "https://www.serra-arquitectos.com.ar/OP-186/ada591_08e6284e36eb45c18510bab678b650e1.webp",
+      "https://www.serra-arquitectos.com.ar/OP-186/ada591_136535b11f7147b89267ea1f6c8b7680.webp",
+      "https://www.serra-arquitectos.com.ar/OP-186/ada591_3e9fab71c09e4fdbadfc7ffe9e5b3398.webp",
+      "https://www.serra-arquitectos.com.ar/OP-186/ada591_8a3c30eb5136454496268390912a1c2f.webp"
+    ],
+    "otherFields": [
+      {
+        "type": "Sup Cubierta",
+        "value": "1.000 m2"
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "title": "Plaza Falcon",
+    "code": "184",
+    "year": "1980",
+    "principal": "Municipalidad de la Ciudad de Buenos Aires",
+    "type": ["Deportivo + Recreativo"],
+    "location": "Laguna y Ramon Falcon, Ciudad Autónoma de Buenos Aires",
+    "tasks": ["Proyecto y Direccion de Obras"],
+    "description": "",
+    "size": "7000",
+    "images": [
+      "https://www.serra-arquitectos.com.ar/OP-184/ada591_3f02f37dc8fb4161977e931be39c07f1.webp",
+      "https://www.serra-arquitectos.com.ar/OP-184/ada591_4f861a24ba11494898eaaa0ad7082d41.webp",
+      "https://www.serra-arquitectos.com.ar/OP-184/ada591_9b9581cf52f54f3481625b28acd60664.webp",
+      "https://www.serra-arquitectos.com.ar/OP-184/ada591_cae1dac99a3844d59033fc5c28a46e8d.webp"
+    ],
+    "otherFields": []
+  },
+  {
+    "id": 21,
+    "title": "Plaza Lonardi",
+    "code": "183",
+    "year": "1980",
+    "principal": "Municipalidad de la Ciudad de Buenos Aires",
+    "type": ["Deportivo + Recreativo"],
+    "location": "Ladines y Bolivia, Ciudad Autónoma de Buenos Aires",
+    "tasks": ["Proyecto y Direccion de Obras"],
+    "description": "",
+    "size": "11500",
+    "images": [
+      "https://www.serra-arquitectos.com.ar/OP-183/ada591_00751b1ccd4d4376ab12e094a25fb3a3.webp",
+      "https://www.serra-arquitectos.com.ar/OP-183/ada591_470dc7fb90254cfb924c95f58381df45.webp",
+      "https://www.serra-arquitectos.com.ar/OP-183/ada591_4ec6484e05d64aacbe611cc52bd2d228.webp",
+      "https://www.serra-arquitectos.com.ar/OP-183/ada591_50a366fa3fb8489289601e5ce06dcfc2.webp",
+      "https://www.serra-arquitectos.com.ar/OP-183/ada591_7e97b0cfd7274eaeb49a4e713a6eec8c.webp",
+      "https://www.serra-arquitectos.com.ar/OP-183/ada591_9442795e7d114f8bb3c6c18850533e8c.webp",
+      "https://www.serra-arquitectos.com.ar/OP-183/ada591_a3dd9637748141cf80db209181fe2c39.webp",
+      "https://www.serra-arquitectos.com.ar/OP-183/ada591_f800911de7ad4803842415a57c1a19a4.webp",
+      "https://www.serra-arquitectos.com.ar/OP-183/ada591_fde890021bd146e7b413d1863ac35276.webp"
+    ],
+    "otherFields": []
+  },
+  {
+    "id": 22,
+    "title": "Polideportivo Chivilicoy",
+    "code": "182",
+    "year": "1980",
+    "principal": "Municipalidad de la Ciudad de Buenos Aires",
+    "type": ["Deportivo + Recreativo"],
+    "location": "Mercedes, Chivilcoy, M. Cervantes, Coronel Díaz, Camarones y Chascomús, Ciudad Autónoma de Buenos Aires.",
+    "tasks": ["Proyecto y Direccion de Obras"],
+    "description": "",
+    "size": "11200",
+    "images": [
+      "https://www.serra-arquitectos.com.ar/OP-182/ada591_295c260bf23840a1b7c8d95f014192a7.webp",
+      "https://www.serra-arquitectos.com.ar/OP-182/ada591_45334c1f11a64d088e041cc7f048f704.webp",
+      "https://www.serra-arquitectos.com.ar/OP-182/ada591_87e5fb8c17ef4f8cb5a03a00281b2fd9.webp",
+      "https://www.serra-arquitectos.com.ar/OP-182/ada591_c28e85819ac046b89b4c1a7059c0ed17.webp",
+      "https://www.serra-arquitectos.com.ar/OP-182/ada591_cc7dde8e257e4a7293bcf60a9c563e78.webp",
+      "https://www.serra-arquitectos.com.ar/OP-182/ada591_cdb5e43d9dd049bb80b08d92da3f7223.webp"
+    ],
+    "otherFields": [
+      {
+        "type": "Sup. Cubierta Polideportivo",
+        "value": "1500m2"
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "title": "Plaza Udine",
+    "code": "182 Bis",
+    "year": "1980",
+    "principal": "Municipalidad de la Ciudad de Buenos Aires",
+    "type": ["Deportivo + Recreativo"],
+    "location": "Mercedes, Chivilcoy, M. Cervantes, Coronel Díaz, Camarones y Chascomús, Ciudad Autónoma de Buenos Aires.",
+    "tasks": ["Proyecto y Direccion de Obras"],
+    "description": "",
+    "size": "9000",
+    "images": [
+      "https://www.serra-arquitectos.com.ar/OP-182-bis/ada591_2cb33663f57d42e3b93472f49dfdae92.webp",
+      "https://www.serra-arquitectos.com.ar/OP-182-bis/ada591_4523a764722549baaacc1d60f19b0f6b.webp",
+      "https://www.serra-arquitectos.com.ar/OP-182-bis/ada591_49e2236d49084212ad09b270d31874ad.webp",
+      "https://www.serra-arquitectos.com.ar/OP-182-bis/ada591_913e0701104f406692bb18e74e07a08a.webp"
+    ],
+    "otherFields": []
+  },
+  {
+    "id": 24,
+    "title": "Plaza Olleros",
+    "code": "181",
+    "year": "1980",
+    "principal": "Municipalidad de la Ciudad de Buenos Aires",
+    "type": ["Deportivo + Recreativo"],
+    "location": "Olleros entre Av. Libertador y L.M. Campos, Ciudad Autónoma de Buenos Aires.",
+    "tasks": ["Proyecto y Direccion de Obras"],
+    "description": "",
+    "size": "13000",
+    "images": [
+      "https://www.serra-arquitectos.com.ar/OP-181/ada591_0d435412afc34a90b94b274d92f25e27.webp",
+      "https://www.serra-arquitectos.com.ar/OP-181/ada591_63dd861b638e4b69bf242f17caff450e.webp"
+    ],
+    "otherFields": []
+  },
+  {
+    "id": 25,
+    "title": "Plaza Aramburu",
+    "code": "179",
+    "year": "1980",
+    "principal": "Municipalidad de la Ciudad de Buenos Aires",
+    "type": ["Deportivo + Recreativo"],
+    "location": "Bogotá, Calcena, Donato Álvarez y Avellaneda, Ciudad Autónoma de Buenos Aires.",
+    "tasks": ["Proyecto y Direccion de Obras"],
+    "description": "",
+    "size": "16000",
+    "images": [
+      "https://www.serra-arquitectos.com.ar/OP-179/ada591_e1d62200a33f446595eb9e5e081c5a61.webp",
+      "https://www.serra-arquitectos.com.ar/OP-179/ada591_f3295c8600184e74b3c6d240ae00ebe3.webp"
+    ],
+    "otherFields": []
+  },
+  {
+    "id": 26,
+    "title": "Sede Central de Segba",
+    "code": "250-2",
+    "year": "1998",
+    "principal": "SEGBA",
+    "type": ["Administrativo"],
+    "location": "Catalinas Norte. Ciudad de Buenos Aires.",
+    "tasks": ["Anteproyecto total y proyecto de la 1era etapa."],
+    "description": "Primer premio en el Concurso Nacional de Anteproyectos.\r\n\r\nEl edificio está destinado a las oficinas centrales de la empresa Servicios Eléctricos del Gran Buenos Aires, con un total de 86.000 m2 a ejecutarse en dos etapas, 58.000 m2 la 1a y 28.000 m2 la 2a.\r\n\r\nEl partido adoptado identifica claramente los volúmenes funcionales netos y los de servicios, conformados por las circulaciones verticales, montantes y sanitarios.\r\n\r\nLas dos etapas se articulan mediante un sistema que facilita una lectura unitaria del conjunto en cualquiera de las fases de desarrollo.\r\n\r\nLas circulaciones verticales resuelven accesos diferenciados de personal general y jerárquico y articulan el conjunto.\r\n\r\nSe adoptó el criterio de máximas superficies de piso y menor altura posible, resultando un edificio de 20 plantas sobre el nivel acceso. El área funcional de cada nivel se presenta como una planta salón de gran flexibilidad con 1.700 m2 para la 1a etapa y 850 m2 para la 2a\r\n\r\nEstas superficies permiten que las gerencias en promedio no ocupen más de 2, 5 plantas para la 1a Etapa y no supera las 2 plantas con el edificio completo. Ello redunda en una optimización de las vinculaciones internas, reduciendo el desplazamiento del personal y el uso de los medios mecánicos verticales.\r\n\r\nLos amplios espacios de oficinas se hallan regidos por un sistema modular que coordina la trama estructural con la de servicios y particiones a partir de un módulo básico de 1,48 x 1,48 m. Ello facilita tanto las organización de oficina paisaje como la de sectores de oficinas cerradas, priorizando una amplia flexibilidad en la conformación de los espacios funcionales.\r\n\r\nLa forma y tamaño de las plantas reducen las superficies expuestas a las condiciones ambientales permitiendo un uso racional de la energía de acondicionamiento térmico, manteniendo no obstante una adecuada iluminación natural desde el perímetro vidriado de dichos volúmenes.\r\n\r\nLa estructura resistente conforma módulos cuadrados de 8,88 mts evitando esfuerzos innecesarios para las funciones a albergar y una razonable economía de medios.",
+    "size": "86000",
+    "images": [
+      "https://www.serra-arquitectos.com.ar/OP-250-2/ada591_4eb21bc469ff48b0894a26639d6b58be.webp",
+      "https://www.serra-arquitectos.com.ar/OP-250-2/ada591_5dafafd448d6463cada7f3035360f555.webp",
+      "https://www.serra-arquitectos.com.ar/OP-250-2/ada591_6d99397686a645119933aec60d244e2b.webp",
+      "https://www.serra-arquitectos.com.ar/OP-250-2/ada591_7822eccbc6aa4202ad0359f67dab5710.webp",
+      "https://www.serra-arquitectos.com.ar/OP-250-2/ada591_79260364a07b449d8973e7ebf25eece0.webp",
+      "https://www.serra-arquitectos.com.ar/OP-250-2/ada591_c603ed37b58041769e1daa6030e45bc9.webp"
+    ],
+    "otherFields": [
+      {
+        "type": "Sup. bruta oficinas",
+        "value": "53600m2"
+      },
+      {
+        "type": "Talleres y servicios",
+        "value": "4300m2"
+      },
+      {
+        "type": "Sala de maquinas",
+        "value": "4000m2"
+      },
+      {
+        "type": "Circulaciones verticales y SS",
+        "value": "13400m2"
+      },
+      {
+        "type": "Estacionamientos",
+        "value": "10700m2"
+      }
+    ]
+  },
+  {
+    "id": 27,
+    "title": "Instituto Penitenciario Chalican",
+    "code": "423",
+    "year": "2021",
+    "principal": "JUMI SRL.",
+    "type": ["Seguridad"],
+    "location": "Chalican, Jujuy",
+    "tasks": [
+      "Realización de Anteproyecto de licitación, Proyecto Ejecutivo y Asistencia Técnica durante la construcción de las obras."
+    ],
+    "description": "",
+    "size": "0",
+    "images": [
+      "https://www.serra-arquitectos.com.ar/OP-423/Aerea-conjunto.webp",
+      "https://www.serra-arquitectos.com.ar/OP-423/Planta-Aerea.webp",
+      "https://www.serra-arquitectos.com.ar/OP-423/WhatsApp-img.webp"
+    ],
+    "otherFields": []
+  },
+  {
+    "id": 28,
+    "title": "Centro Penitenciario",
+    "code": "397",
+    "year": "2018",
+    "principal": "Gobierno de la Ciudad de Buenos Aires",
+    "type": ["Seguridad"],
+    "location": "Marcos Paz, Provincia de Buenos Aires",
+    "tasks": [
+      "Servicios de consultoría para la realización de la inspección de obra, asesoramiento e informes para la construcción del CPF V"
+    ],
+    "description": "",
+    "size": "73000",
+    "images": ["https://www.serra-arquitectos.com.ar/OP-397/397.jpeg"],
+    "otherFields": []
+  },
+  {
+    "id": 29,
+    "title": "Complejo Penitenciario",
+    "code": "395",
+    "year": "2018",
+    "principal": "ACIFA SRL, GINSA, ARCA construcciones,\r\nCARBO S.A construcciones y GeC S.A\r\nPara  gobierno Provincial - Ministerio de Infraestructuras y Servicios Públicos",
+    "type": ["Seguridad"],
+    "location": "Corrientes",
+    "tasks": [
+      "Realización de Anteproyecto de licitación, Proyecto Ejecutivo y Asistencia Técnica durante la construcción de las obras."
+    ],
+    "description": "",
+    "size": "16500",
+    "images": [
+      "https://www.serra-arquitectos.com.ar/OP-395/20210325_115537.jpg",
+      "https://www.serra-arquitectos.com.ar/OP-395/20210325_115600.jpg",
+      "https://www.serra-arquitectos.com.ar/OP-395/20210325_115641.jpg",
+      "https://www.serra-arquitectos.com.ar/OP-395/20210325_121409.jpg",
+      "https://www.serra-arquitectos.com.ar/OP-395/20210325_121826.jpg",
+      "https://www.serra-arquitectos.com.ar/OP-395/20210325_123904.jpg",
+      "https://www.serra-arquitectos.com.ar/OP-395/395.jpg",
+      "https://www.serra-arquitectos.com.ar/OP-395/Aerea-conjunto.jpeg",
+      "https://www.serra-arquitectos.com.ar/OP-395/Aerea-Implantacion.jpeg",
+      "https://www.serra-arquitectos.com.ar/OP-395/Aerea.jpg",
+      "https://www.serra-arquitectos.com.ar/OP-395/DSC_4921-edit.jpg",
+      "https://www.serra-arquitectos.com.ar/OP-395/DSC_6008-edit.jpg",
+      "https://www.serra-arquitectos.com.ar/OP-395/DSC_6110-edit.jpg",
+      "https://www.serra-arquitectos.com.ar/OP-395/DSC_6117-edit.jpg",
+      "https://www.serra-arquitectos.com.ar/OP-395/DSC_6149-edit.jpg",
+      "https://www.serra-arquitectos.com.ar/OP-395/Planta-Aerea.jpeg",
+      "https://www.serra-arquitectos.com.ar/OP-395/WhatsApp-Image-2019-04-16.jpeg",
+      "https://www.serra-arquitectos.com.ar/OP-395/WhatsApp-Image-2019-04-16-2.jpeg",
+      "https://www.serra-arquitectos.com.ar/OP-395/WhatsApp-Image-2019-04-16-3.jpeg",
+      "https://www.serra-arquitectos.com.ar/OP-395/WhatsApp-Image-2019-04-16-4.jpeg",
+      "https://www.serra-arquitectos.com.ar/OP-395/WhatsApp-Image-2021-10-07.jpeg"
+    ],
+    "otherFields": [
+      {
+        "type": "Cantidad de celdas",
+        "value": "336"
+      }
+    ]
+  },
+  {
+    "id": 30,
+    "title": "Penal de Colonia Pinto",
+    "code": "394",
+    "year": "2018",
+    "principal": "Comintel. Para Gobierno provincial – Ministerio de Justicia y Derechos Humanos",
+    "type": ["Seguridad"],
+    "location": "Colonia Pinto, Provincia de Santiago del Estero",
+    "tasks": [
+      "Realización de Anteproyecto de licitación, Proyecto Ejecutivo y Asistencia Técnica durante la construcción de las obras"
+    ],
+    "description": "",
+    "size": "17126",
+    "images": [
+      "https://www.serra-arquitectos.com.ar/OP-394/02-Aerea.webp",
+      "https://www.serra-arquitectos.com.ar/OP-394/03-Nocturna.webp",
+      "https://www.serra-arquitectos.com.ar/OP-394/04-Jardin-interior.webp",
+      "https://www.serra-arquitectos.com.ar/OP-394/04-Puesto-de-control.webp",
+      "https://www.serra-arquitectos.com.ar/OP-394/05-Patio-interior escuela.webp",
+      "https://www.serra-arquitectos.com.ar/OP-394/06-Patio-sector-Alojamiento.webp",
+      "https://www.serra-arquitectos.com.ar/OP-394/06.webp",
+      "https://www.serra-arquitectos.com.ar/OP-394/Patio-sector-Alojamiento-2.jpg",
+      "https://www.serra-arquitectos.com.ar/OP-394/10-Modulo-aloj.webp",
+      "https://www.serra-arquitectos.com.ar/OP-394/11-Interior-de-celda.webp",
+      "https://www.serra-arquitectos.com.ar/OP-394/13-Circulacion-ext.webp",
+      "https://www.serra-arquitectos.com.ar/OP-394/Circulacion-ext-2.jpg",
+      "https://www.serra-arquitectos.com.ar/OP-394/8-Ventanas-alojamiento.webp",
+      "https://www.serra-arquitectos.com.ar/OP-394/9-Galeria.webp",
+      "https://www.serra-arquitectos.com.ar/OP-394/DSC_4186.webp",
+      "https://www.serra-arquitectos.com.ar/OP-394/DSC_4539.webp",
+      "https://www.serra-arquitectos.com.ar/OP-394/WhatsApp-Image-2019-03-21.jpeg",
+      "https://www.serra-arquitectos.com.ar/OP-394/WhatsApp-Image-2019-03-22-2.jpeg"
+    ],
+    "otherFields": [
+      {
+        "type": "Cantidad de celdas",
+        "value": "312"
+      }
+    ]
+  },
+  {
+    "id": 31,
+    "title": "Complejo Penitenciario",
+    "code": "393",
+    "year": "2018",
+    "principal": "UTE Mapal, Ing Julio Nacusi Construcciones S.R.L y Suyai S.R.L - Para  gobierno Provincial - Ministerio de Infraestructuras y Servicios Públicos",
+    "type": ["Seguridad"],
+    "location": "San Juan",
+    "tasks": ["Anteproyecto de Licitación de Proyecto y Precio"],
+    "description": "",
+    "size": "34491",
+    "images": [
+      "https://www.serra-arquitectos.com.ar/OP-393/393-1.jpg",
+      "https://www.serra-arquitectos.com.ar/OP-393/393.jpg"
+    ],
+    "otherFields": [
+      {
+        "type": "Cantidad de celdas",
+        "value": "620"
+      }
+    ]
+  },
+  {
+    "id": 32,
+    "title": "Centro de Custodia de Menores y Jóvenes en conflicto con la Ley",
+    "code": "387",
+    "year": "2016",
+    "principal": "RIVA S.A. - Para el Ministerio de Gobierno",
+    "type": ["Seguridad"],
+    "location": "Paso Blanco, Corregimiento de Pacora, Distrito de Panama - Panama",
+    "tasks": [
+      "Realización del proyecto ejecutivo completo sobre la base del Lay Out  de Licitación efectuado por el Ministerio de Seguridad"
+    ],
+    "description": "",
+    "size": "5100",
+    "images": ["https://www.serra-arquitectos.com.ar/OP-387/387_PNG.webp"],
+    "otherFields": [
+      {
+        "type": "Cantidad de internos",
+        "value": "180"
+      }
+    ]
+  },
+  {
+    "id": 33,
+    "title": "Reubicación y Construcción de los Nuevos Establecimientos Penitenciarios de Perú",
+    "code": "379",
+    "year": "2014",
+    "principal": "PROINVERSION - Agencia de Promoción de la Inversión privada del Ministerio de Economía y Finanzas del Peru.Comité Pro Desarrollo en el Proceso de Promoción de la Inversión Privada del Proyecto “Reubicación de Establecimientos Penitenciarios”",
+    "type": ["Seguridad"],
+    "location": "Perú",
+    "tasks": [
+      "Asesorar técnica y económicamente al Comitente y ejecutar la documentación necesaria sobre la Reubicación y construcción de Establecimientos Penitenciarios del Perú, abarcando las localizaciones y sus requisitos, las características programáticas, capacidades, aspectos técnicos, superficies y costos de construcción, operación y mantenimiento."
+    ],
+    "description": "",
+    "size": "0",
+    "images": ["https://www.serra-arquitectos.com.ar/OP-379/379_PNG.webp"],
+    "otherFields": [
+      {
+        "type": "Asociados",
+        "value": "Deloitte & Touche SRL (Perú) - Deloitte Advisory S.L (España)"
+      }
+    ]
+  },
+  {
+    "id": 34,
+    "title": "Establecimiento de reclusión de orden nacional (ERON) de cuarta generación. Popayán",
+    "code": "374",
+    "year": "2013",
+    "principal": "Corporación Andina de Fomento (CAF) - En cooperación con el Ministerio de Justicia y del Derecho",
+    "type": ["Seguridad"],
+    "location": "Popayán, Colombia",
+    "tasks": [
+      "Realización de la Documentación de Anteproyecto para licitar la obra bajo la modalidad de concesión.",
+      "Las tareas incluyen la realización de las distintas etapas (readecuación del programa funcional y técnico, diseño preliminar y anteproyecto) incluyendo las siguientes especialidades: Ingeniería estructural y de movimiento de suelos; Instalaciones eléctricas, Instalaciones Sanitarias y gas; Instalaciones Contra incendio; Instalaciones de Seguridad y comunicaciones; Pavimentos y cordones.",
+      "Cómputo y presupuesto",
+      "Complejo compuesto por dos establecimientos penitenciarios: Edificios Externos (Dirección y Administración, cocina, lavandería, Servicios Generales, Accesos, Viviendas personal)",
+      "Áreas Comunes Internas (Administración, Hospital, Talleres, Gimnasio, sector visitas, etc.)",
+      "Sectores de Alojamiento"
+    ],
+    "description": "",
+    "size": "490000",
+    "images": [
+      "https://www.serra-arquitectos.com.ar/OP-374/600-01.jpg",
+      "https://www.serra-arquitectos.com.ar/OP-374/600-02.jpg",
+      "https://www.serra-arquitectos.com.ar/OP-374/600-03.jpg",
+      "https://www.serra-arquitectos.com.ar/OP-374/600-04.jpg",
+      "https://www.serra-arquitectos.com.ar/OP-374/600-05.jpg",
+      "https://www.serra-arquitectos.com.ar/OP-374/600-06.jpg",
+      "https://www.serra-arquitectos.com.ar/OP-374/600-07.jpg",
+      "https://www.serra-arquitectos.com.ar/OP-374/600-08.jpg",
+      "https://www.serra-arquitectos.com.ar/OP-374/600-07.jpg",
+      "https://www.serra-arquitectos.com.ar/OP-374/600-08.jpg",
+      "https://www.serra-arquitectos.com.ar/OP-374/600-09.jpg",
+      "https://www.serra-arquitectos.com.ar/OP-374/600-10.jpg",
+      "https://www.serra-arquitectos.com.ar/OP-374/940x500.jpg"
+    ],
+    "otherFields": [
+      {
+        "type": "Capacidad internos (M) - Establecimiento 1",
+        "value": "2.004"
+      },
+      {
+        "type": "Capacidad internos (F) - Establecimiento 1",
+        "value": "161"
+      },
+      {
+        "type": "Capacidad internos - Establecimiento 2",
+        "value": "3.593"
+      },
+      {
+        "type": "Sup. Cubierta",
+        "value": "77005 m2"
+      }
+    ]
+  },
+  {
+    "id": 35,
+    "title": "Complejo penitenciario Provincial Nº1",
+    "code": "362",
+    "year": "2011",
+    "principal": "CONORVIAL",
+    "type": ["Seguridad"],
+    "location": "Salta",
+    "tasks": [
+      "Anteproyecto de arquitectura para la presentación de Iniciativa Privada."
+    ],
+    "description": "Complejo Penitenciario compuesto por: Edificios de apoyo U. de varones procesados, U. de varones condenados, U. de varones condenados R Especial, U. de autodisciplina, U. de Mujeres, Sector viv. personal penitenciario. Futura ampliación",
+    "size": "974600",
+    "images": [
+      "https://www.serra-arquitectos.com.ar/OP-362/600-01.jpg",
+      "https://www.serra-arquitectos.com.ar/OP-362/600-02.jpg",
+      "https://www.serra-arquitectos.com.ar/OP-362/600-03.jpg",
+      "https://www.serra-arquitectos.com.ar/OP-362/600-04.jpg",
+      "https://www.serra-arquitectos.com.ar/OP-362/940x500.jpg"
+    ],
+    "otherFields": [
+      {
+        "type": "Cantidad de internos",
+        "value": "1.128"
+      },
+      {
+        "type": "Superficie cubierta",
+        "value": "46.741 m2"
+      }
+    ]
+  },
+  {
+    "id": 36,
+    "title": "Establecimiento Penitenciario Talca",
+    "code": "354",
+    "year": "2010",
+    "principal": "Ministerio de Obras Públicas Dirección General de Obras Públicas. Gobierno de Chile",
+    "type": ["Seguridad"],
+    "location": "Región VII del Maule, Pcia. de Talca, Comuna Talca, CHILE.",
+    "tasks": [
+      "Proyecto completo del complejo incluyendo especialidades de: Ing. Estructural, Electricidad e Iluminación, Sanitaria, Incendio, Gas, Termomecánica, Seguridad, Vial, Señalización, Paisajismo, Equipamiento, Manual de mantenimiento."
+    ],
+    "description": "Complejo compuesto por: Edificios Externos (Dirección y Administración, Servicios Generales, Accesos, Viviendas personal) Áreas Comunes Internas (Administración, Hospital, Cocina central, Talleres y Gimnasio) Sectores de Alojamiento y capacidad internos: Hombres imputados: 480, Hombres condenados: 2.256, Mujeres imputadas/condenadas.162, Reclusión Especial: 175",
+    "size": "276489",
+    "images": [
+      "https://www.serra-arquitectos.com.ar/OP-354/ada591_10dd70bf78af4ed3bbeceea111b68146.webp",
+      "https://www.serra-arquitectos.com.ar/OP-354/ada591_4c1abdf693f64e43bb683c56a04613b2.webp",
+      "https://www.serra-arquitectos.com.ar/OP-354/ada591_a643ea4174344f7eb743e6a81278f6a1.webp",
+      "https://www.serra-arquitectos.com.ar/OP-354/ada591_ac26a83f234748ad836e123956ebbd1c.webp",
+      "https://www.serra-arquitectos.com.ar/OP-354/ada591_cec06f675ca047a59b903ab0c3caae09.webp"
+    ],
+    "otherFields": [
+      {
+        "type": "Total Internos",
+        "value": "3.073"
+      },
+      {
+        "type": "Total Varones",
+        "value": "2.911"
+      },
+      {
+        "type": "Total Mujeres",
+        "value": "162"
+      },
+      {
+        "type": "Sup. Cubierta",
+        "value": "71.592 m2"
+      },
+      {
+        "type": "Asociados con estudios",
+        "value": "Iglesis - Prat, Luis Corvalán"
+      }
+    ]
+  },
+  {
+    "id": 37,
+    "title": "Complejo Penitenciario",
+    "code": "352",
+    "year": "2010",
+    "principal": "SAPEM, Rovella Carranza, Alquimac, Green SA UTE",
+    "type": ["Seguridad"],
+    "location": "Pampa de las Salinas, paraje La Botija, Depto. de Ayacucho. Provincia de San Luis.",
+    "tasks": [
+      "Proyecto de licitación de arquitectura e ingeniería.",
+      "Incluye: Ing. estructural, eléctricas e iluminación, sanitaria, incendio, gas, termo-mecánica, seguridad, vial, señalética, paisajismo."
+    ],
+    "description": "Asociados con CORVALAN - IGLESIS PRAT",
+    "size": "400000",
+    "images": [
+      "https://www.serra-arquitectos.com.ar/OP-352/7358.jpg",
+      "https://www.serra-arquitectos.com.ar/OP-352/7379.jpg",
+      "https://www.serra-arquitectos.com.ar/OP-352/1301.jpg",
+      "https://www.serra-arquitectos.com.ar/OP-352/1296.jpg",
+      "https://www.serra-arquitectos.com.ar/OP-352/1302.jpg",
+      "https://www.serra-arquitectos.com.ar/OP-352/1307-2.jpg",
+      "https://www.serra-arquitectos.com.ar/OP-352/1322-2.jpg",
+      "https://www.serra-arquitectos.com.ar/OP-352/1323.jpg",
+      "https://www.serra-arquitectos.com.ar/OP-352/1340-2.jpg",
+      "https://www.serra-arquitectos.com.ar/OP-352/1362.jpg",
+      "https://www.serra-arquitectos.com.ar/OP-352/1364.jpg",
+      "https://www.serra-arquitectos.com.ar/OP-352/1365-2.jpg",
+      "https://www.serra-arquitectos.com.ar/OP-352/1386-2.jpg",
+      "https://www.serra-arquitectos.com.ar/OP-352/1401.jpg",
+      "https://www.serra-arquitectos.com.ar/OP-352/1439.jpg",
+      "https://www.serra-arquitectos.com.ar/OP-352/_MG_1923.webp",
+      "https://www.serra-arquitectos.com.ar/OP-352/7421.jpg",
+      "https://www.serra-arquitectos.com.ar/OP-352/serra1.webp",
+      "https://www.serra-arquitectos.com.ar/OP-352/DSC_2041.webp",
+      "https://www.serra-arquitectos.com.ar/OP-352/GOPR0154c.jpg",
+      "https://www.serra-arquitectos.com.ar/OP-352/Panoramica-Final.jpg",
+      "https://www.serra-arquitectos.com.ar/OP-352/Planta_Conjunto9.jpg"
+    ],
+    "otherFields": [
+      {
+        "type": "Sup. Cubierta",
+        "value": "16.244 m2"
+      },
+      {
+        "type": "Cantidad Internos",
+        "value": "228"
+      }
+    ]
+  },
+  {
+    "id": 38,
+    "title": "Establecimiento Penitenciario Talca",
+    "code": "349",
+    "year": "2009",
+    "principal": "Ministerio de Justicia Gendarmería de Chile. Dirección de Arquitectura. Coordinación General de Concesiones.",
+    "type": ["Seguridad"],
+    "location": "Región VII del Maule, Pcia. de Talca, Comuna Talca, CHILE.",
+    "tasks": [
+      "Proyecto completo del complejo incluyendo especialidades de: Ing. Estructural, Electricidad e Iluminación, Sanitaria, Incendio, Gas, Termomecánica, Seguridad, Vial, Señalización, Paisajismo, Equipamiento"
+    ],
+    "description": "Complejo compuesto por: Edificios Externos (Dirección y Administración, Servicios Generales, Accesos, Viviendas personal) Áreas Comunes Internas (Administración, Hospital, Cocina central, Talleres y Gimnasio) Asociados con CORVALAN - IGLESIS PRAT",
+    "size": "276489",
+    "images": [
+      "https://www.serra-arquitectos.com.ar/OP-349/ada591_43175cd7a6ab4dd18edcdeba7e2a9e34.webp",
+      "https://www.serra-arquitectos.com.ar/OP-349/ada591_45ee7ad8bd8842099ff0618e206cbd1c.webp",
+      "https://www.serra-arquitectos.com.ar/OP-349/ada591_580be5325e1c42e09c455f08426ff0c7.webp",
+      "https://www.serra-arquitectos.com.ar/OP-349/ada591_b1d60ad518534cd29f2de5e2289dbf7d.webp"
+    ],
+    "otherFields": [
+      {
+        "type": "Total Internos",
+        "value": "1.866"
+      },
+      {
+        "type": "Total Varones",
+        "value": "1.758"
+      },
+      {
+        "type": "Total Mujeres",
+        "value": "108"
+      },
+      {
+        "type": "Sup. Cubierta",
+        "value": "59.000 m2"
+      },
+      {
+        "type": "Asociados con estudios",
+        "value": "Iglesis - Prat, Luis Corvalán"
+      },
+      {
+        "type": "Hombres imputados",
+        "value": "314"
+      },
+      {
+        "type": "Hombres condenados",
+        "value": "1.276"
+      },
+      {
+        "type": "Mujeres imputadas/condenadas",
+        "value": "314"
+      },
+      {
+        "type": "Aislados incomunicados",
+        "value": "48"
+      },
+      {
+        "type": "Comunidad terapéutica",
+        "value": "24"
+      },
+      {
+        "type": "Reclusión Especial",
+        "value": "96"
+      }
+    ]
+  },
+  {
+    "id": 39,
+    "title": "Ampliación Instituto Correccional de Mujeres U3",
+    "code": "346",
+    "year": "2008",
+    "principal": "NIRO Para el Ministerio de Justicia, Seguridad y Derechos Humanos de la Nación",
+    "type": ["Seguridad"],
+    "location": "Ezeiza, Provincia de Buenos Aires.",
+    "tasks": [
+      "Proyecto ejecutivo sobre la base del Anteproyecto de licitación efectuado por el Ministerio."
+    ],
+    "description": "Nuevo Módulo de alojamiento y nuevo sector anexo para Drogodependientes con áreas de alojamiento, programas y servicios.",
+    "size": "0",
+    "images": [
+      "https://www.serra-arquitectos.com.ar/OP-346/ada591_3de6f75ee5b24c7698b60d804a183503.webp",
+      "https://www.serra-arquitectos.com.ar/OP-346/ada591_3de95e15819d492897ea2ce881ea1e36.webp",
+      "https://www.serra-arquitectos.com.ar/OP-346/ada591_6e944adec5984953a33b1e08f6d47bf5.webp",
+      "https://www.serra-arquitectos.com.ar/OP-346/ada591_b3d1f99f84dd4444999cf15348d5767a.webp"
+    ],
+    "otherFields": [
+      {
+        "type": "Nuevo Pabellón",
+        "value": "16 celdas"
+      },
+      {
+        "type": "Nuevo Anexo",
+        "value": "40 celdas"
+      },
+      {
+        "type": "Superficie Cubierta",
+        "value": "3.000 m2"
+      }
+    ]
+  },
+  {
+    "id": 40,
+    "title": "Complejo Penitenciario Federal de Agote ",
+    "code": "345",
+    "year": "2008",
+    "principal": "Ministerio de Justicia y Derechos Humanos de la Nación - Secretaría de Justicia Subsecretaría de Asuntos Penitenciarios - Programa Nacional de Infraestructura Penitenciaria. ACARA.",
+    "type": ["Seguridad"],
+    "location": "Mercedes, Pcia. de Buenos Aires",
+    "tasks": [
+      "Plan de Conjunto y Proyecto Completo del Complejo.",
+      "Incluye especialidades de ingeniería Estructural, Electricidad e Iluminación, Sanitaria, Incendio, Gas, Termomecánica, Seguridad, Vial, Señalización, Paisajismo y Equipamiento.",
+      "Sistema de operación Penitenciaria y Memoria de personal",
+      "Manual de operación y mantenimiento Cómputo, presupuesto detallado y análisis de precios"
+    ],
+    "description": "El Complejo está compuesto por: Edificios fuera del Complejo (viviendas y casino de Oficiales y Suboficiales). Áreas centralizadas y de apoyo, (Servicios Generales, Talleres industriales y Centro Agroindustrial). 5 Institutos: Prisión Federal I (U36) - Prisión Federal II (U37). Instituto Federal de Tratamientos Especializados (U38)Establ. Federal Semiabierto (U39) - Inst. Federal de Autodisciplina (U40)",
+    "size": "2130000",
+    "images": [
+      "https://www.serra-arquitectos.com.ar/OP-345/ada591_0e31674b1c4f49be8f4f1bccec3d8c29.webp",
+      "https://www.serra-arquitectos.com.ar/OP-345/ada591_26e3588170414662b5d6b8f5fe299ff8.webp",
+      "https://www.serra-arquitectos.com.ar/OP-345/ada591_49aaa11c1f9e47a1aff7a8b7d666d62f.webp",
+      "https://www.serra-arquitectos.com.ar/OP-345/ada591_4e87c22eff94475d9d54f404f3a4fe3f.webp",
+      "https://www.serra-arquitectos.com.ar/OP-345/ada591_51a2dd37482d4b958e17347d1994fd80.webp",
+      "https://www.serra-arquitectos.com.ar/OP-345/ada591_b195dd0abe624d869324ac686d0bb610.webp"
+    ],
+    "otherFields": [
+      {
+        "type": "Sup. Cubierta",
+        "value": "84.300 m2"
+      },
+      {
+        "type": "Cantidad de Internos",
+        "value": "1.584"
+      },
+      {
+        "type": "Asociado",
+        "value": "Estudio Antonini Schon Zemborain (ASZ)"
+      }
+    ]
+  },
+  {
+    "id": 41,
+    "title": "Ampliación Centro Federal de detención de Mujeres ",
+    "code": "343",
+    "year": "2008",
+    "principal": "NIRO - Para el Ministerio de Justicia, Seguridad y Derechos Humanos de la Nación",
+    "type": ["Seguridad"],
+    "location": "Ezeiza, Provincia de Buenos Aires.",
+    "tasks": [
+      "Proyecto ejecutivo sobre la base del Anteproyecto de licitación efectuado por el Ministerio."
+    ],
+    "description": "Nuevo pabellón para internas y nuevo anexo para madres con hijos.",
+    "size": "1890",
+    "images": [
+      "https://www.serra-arquitectos.com.ar/OP-343/ada591_226b3e5d205c4202b6c4e67ea223a6b4.webp",
+      "https://www.serra-arquitectos.com.ar/OP-343/ada591_694550731cda4f03bda1d9b211ad5ce4.webp",
+      "https://www.serra-arquitectos.com.ar/OP-343/ada591_b49a2f3a977a4f8ca160fb8ceaeb9878.webp",
+      "https://www.serra-arquitectos.com.ar/OP-343/ada591_c25a843e09c74ee381dc9db84b6f0e96.webp"
+    ],
+    "otherFields": [
+      {
+        "type": "Pabellón",
+        "value": "24 internas"
+      },
+      {
+        "type": "Madres anexo",
+        "value": "30 internas"
+      }
+    ]
+  },
+  {
+    "id": 42,
+    "title": "Centro Federal Penitenciario Noroeste Argentino I",
+    "code": "342",
+    "year": "2008",
+    "principal": "Para el Ministerio de Justicia, Seguridad y Derechos Humanos de la Nación. RIVA S.A.",
+    "type": ["Seguridad"],
+    "location": "Güemes – Provincia de Salta",
+    "tasks": [
+      "Realización del proyecto ejecutivo completo sobre la base del Anteproyecto de Licitación efectuado por el Ministerio Complejo Penitenciario compuesto por: Sectores Comunes al Conjunto"
+    ],
+    "description": "",
+    "size": "500000",
+    "images": [
+      "https://www.serra-arquitectos.com.ar/OP-342/DSC01369_JPG.webp",
+      "https://www.serra-arquitectos.com.ar/OP-342/DSC02189_JPG.webp",
+      "https://www.serra-arquitectos.com.ar/OP-342/DSC03971_JPG.webp",
+      "https://www.serra-arquitectos.com.ar/OP-342/DSC04613_JPG.webp",
+      "https://www.serra-arquitectos.com.ar/OP-342/inauguracion-carcel-salta1.webp",
+      "https://www.serra-arquitectos.com.ar/OP-342/Salta-Mujeres.webp",
+      "https://www.serra-arquitectos.com.ar/OP-342/SECTOR-MUJERES-PABELLON-MADRES_JPG.webp"
+    ],
+    "otherFields": [
+      {
+        "type": "Instituto de varones",
+        "value": "288 int"
+      },
+      {
+        "type": "Instituto de mujeres",
+        "value": "200 int"
+      },
+      {
+        "type": "Sup. Cubierta total",
+        "value": "26.000 m2"
+      },
+      {
+        "type": "Cant. internos total",
+        "value": "488"
+      }
+    ]
+  },
+  {
+    "id": 43,
+    "title": "Relocalizacion y ampliación del complejo penitenciario N° 1 Trelew",
+    "code": "340",
+    "year": "2007",
+    "principal": "Gobierno de la Provincia del Chubut. Secretaría de Infraestructura, Planeamiento y Servicios Públicos",
+    "type": ["Seguridad"],
+    "location": "Rawson, Provincia de Chubut.",
+    "tasks": [
+      "Proyecto de licitación de arquitectura e ingeniería de la 1ª etapa, comprendiendo: Ing. estructural, eléctricas e iluminación, sanitaria, incendio, gas, termo-mecánica, seguridad, vial, señalética, paisajismo."
+    ],
+    "description": "Complejo Penitenciario total, compuesto por sectores comunes y 5 Institutos:\r\n\r\nMayores Procesados 280 internos.\r\n\r\nMayores Condenados 280 internos\r\n\r\nMujeres Mayores y Menores, procesadas y condenadas 92 internos, Jóvenes Adultos procesados y condenados 80 internos.\r\n\r\nInstituto abierto varones mayores condenados 24 internos.\r\n\r\nPrimera etapa:\r\n\r\nInstituto Mayores Procesados y áreas comunes del conjunto.\r\nAsociados con arq. Cuneo Paterlino.",
+    "size": "659752",
+    "images": [
+      "https://www.serra-arquitectos.com.ar/OP-340/ada591_ace7f80b5f53438ebbf38dfa563a70ae.webp"
+    ],
+    "otherFields": [
+      {
+        "type": "Sup. Cubierta total",
+        "value": "39.627 m2"
+      },
+      {
+        "type": "Cant. internos total",
+        "value": "756"
+      },
+      {
+        "type": "Plazas no funcionales",
+        "value": "88"
+      },
+      {
+        "type": "Plazas totales",
+        "value": "844"
+      },
+      {
+        "type": "Sup cubierta 1ª etapa",
+        "value": "14.551 m2"
+      },
+      {
+        "type": "Cant. internos 1ª etapa",
+        "value": "280"
+      },
+      {
+        "type": "Plazas no funcionales",
+        "value": "28"
+      },
+      {
+        "type": "Plazas totales",
+        "value": "308"
+      }
+    ]
+  },
+  {
+    "id": 44,
+    "title": "Establecimiento Penitenciario de Alta complejidad: Concepción",
+    "code": "316",
+    "year": "2002",
+    "principal": "Vinci Construction, Grands Projets",
+    "type": ["Seguridad"],
+    "location": "Sector El Manzano, Concepción, VIII Región. Chile",
+    "tasks": ["Proyecto de licitación"],
+    "description": "Complejo Penitenciario para hombres imputados y condenados, reclusión especial, comunidad terapéutica y mujeres.\r\n\r\nIncluye ingeniería estructural, eléctricas e iluminación, sanitaria, incendio, gas, termomecánica, vial, señalética, paisajismo.\r\nAsociados con arq. Luis Corvalán y Vinicio Montalvo",
+    "size": "101700",
+    "images": [
+      "https://www.serra-arquitectos.com.ar/OP-316/ada591_23d1ed4cec4946958342abd59fdd381a.webp",
+      "https://www.serra-arquitectos.com.ar/OP-316/ada591_9cd6c9b52c9d49c4a5ffe7a6a86fecb3.webp",
+      "https://www.serra-arquitectos.com.ar/OP-316/ada591_ea1f8eef18cf4ac4b01fd2a3f427b69b.webp"
+    ],
+    "otherFields": [
+      {
+        "type": "Sup. cubierta",
+        "value": "32.267 m2"
+      },
+      {
+        "type": "Cant. Internos",
+        "value": "1.201"
+      },
+      {
+        "type": "Cant. Celdas",
+        "value": "987"
+      }
+    ]
+  },
+  {
+    "id": 45,
+    "title": "Establecimiento Penitenciario de Alta complejidad: Antofagasta",
+    "code": "315",
+    "year": "2002",
+    "principal": "Vinci Construction, Grands Projets",
+    "type": ["Seguridad"],
+    "location": "Sector La Negra, Salar el Carmen Antofagasta, II Región. Chile",
+    "tasks": ["Proyecto de licitación de arquitectura e ingeniería."],
+    "description": "Complejo Penitenciario para hombres imputados y condenados, reclusión especial, comunidad terapéutica y mujeres.\r\n\r\nIncluye ingeniería estructural, eléctricas e iluminación, sanitaria, incendio, gas, termomecánica, vial, señalética, paisajismo.\r\nAsociados con arq. Luis Corvalán y Vinicio Montalvo",
+    "size": "404000",
+    "images": [
+      "https://www.serra-arquitectos.com.ar/OP-315/ada591_29488c5383184bb5b6726368261d7e3e.webp",
+      "https://www.serra-arquitectos.com.ar/OP-315/ada591_33c6c626372a4abca5f296746c468204.webp",
+      "https://www.serra-arquitectos.com.ar/OP-315/ada591_e5c1271a7aee4ed59159358f7220a0c2.webp",
+      "https://www.serra-arquitectos.com.ar/OP-315/ada591_f60888f3a0ad462ea3409bb501700e32.webp"
+    ],
+    "otherFields": [
+      {
+        "type": "Sup. cubierta",
+        "value": "32.207 m2"
+      },
+      {
+        "type": "Cant. internos",
+        "value": "1.227"
+      },
+      {
+        "type": "Cant. celdas",
+        "value": "963"
+      }
+    ]
+  },
+  {
+    "id": 46,
+    "title": "Establecimiento Penitenciario de Alta complejidad: Alto Hospicio ",
+    "code": "313",
+    "year": "2001",
+    "principal": "Dragados",
+    "type": ["Seguridad"],
+    "location": "Alto Hospicio, I Región. Chile",
+    "tasks": ["Proyecto de licitación de arquitectura e ingeniería."],
+    "description": "Complejo Penitenciario para hombres imputados y condenados, reclusión especial, comunidad terapéutica y mujeres.\r\n\r\nIncluye ingenieria estructural, eléctricas e iluminación, sanitaria, incendio, gas, termomecánica, vial, señalética, paisajismo.\r\nAsociados con arq. Luis Corvalán y Vinicio Montalvo",
+    "size": "250000",
+    "images": [
+      "https://www.serra-arquitectos.com.ar/OP-313/ada591_12960582a2264ff5bb645a55bb263e93.webp",
+      "https://www.serra-arquitectos.com.ar/OP-313/ada591_b13cff4910054de2ad894378aca681b9.webp",
+      "https://www.serra-arquitectos.com.ar/OP-313/ada591_cedd945907c048318983696f29b08950.webp",
+      "https://www.serra-arquitectos.com.ar/OP-313/ada591_f3c44b1f3e7b40be934a78bbbe15901b.webp"
+    ],
+    "otherFields": [
+      {
+        "type": "Sup. cubierta",
+        "value": "47.076 m2"
+      },
+      {
+        "type": "Cant. internos",
+        "value": "1.706"
+      },
+      {
+        "type": "Cant. celdas",
+        "value": "1.576"
+      }
+    ]
+  },
+  {
+    "id": 47,
+    "title": "Establecimiento Penitenciario de Alta complejidad: Rancagua ",
+    "code": "311",
+    "year": "2001",
+    "principal": "Dragados",
+    "type": ["Seguridad"],
+    "location": "Rancagua, IV Región. Chile",
+    "tasks": ["Proyecto de licitación de arquitectura e ingeniería."],
+    "description": "Complejo Penitenciario para hombres imputados y condenados, reclusión especial, comunidad terapéutica y mujeres.\r\n\r\nIncluye ingenieria estructural, eléctricas e iluminación, sanitaria, incendio, gas, termomecánica, vial, señalética, paisajismo.\r\nAsociados con arq. Luis Corvalán y Vinicio Montalvo\r\n\r\n",
+    "size": "274800",
+    "images": [
+      "https://www.serra-arquitectos.com.ar/OP-311/ada591_03cfc887df864134ad535adcf4e4e109.webp",
+      "https://www.serra-arquitectos.com.ar/OP-311/ada591_2a44852f88e74efd8a572d0e29cdb070.webp",
+      "https://www.serra-arquitectos.com.ar/OP-311/ada591_6ba7fcb24c064a72a3e6b6b2da5625e7.webp",
+      "https://www.serra-arquitectos.com.ar/OP-311/ada591_c6878262955348899bcc82cd46d9ab65.webp"
+    ],
+    "otherFields": [
+      {
+        "type": "Sup. cubierta",
+        "value": "51.125 m2"
+      },
+      {
+        "type": "Cant. internos",
+        "value": "1691"
+      },
+      {
+        "type": "Cant. celdas",
+        "value": "1515"
+      }
+    ]
+  },
+  {
+    "id": 48,
+    "title": "Museo Cueva de las Manos, Perito Moreno",
+    "code": "382",
+    "year": "2015",
+    "principal": "Ministerio de Turismo de la Nación Unidad Ejecutora de Préstamos Internacionales (UEPI) - Programa de mejora de la competitividad del sector",
+    "type": ["Cultura + Esparcimiento"],
+    "location": "Av. San Martin Nº 1501 esq. Rivadavia, Ciudad de Perito Moreno, Provincia de Santa Cruz",
+    "tasks": [
+      "Relevamiento, análisis de la información y estudios Previos, Anteproyecto y Proyecto completo de Arquitectura y especialidades: estructuras, Inst. sanitaria, temomecánica, incendio y paisajismo.",
+      "Realización del estudio de impacto ambiental y del informe económico"
+    ],
+    "description": "",
+    "size": "480",
+    "images": [
+      "https://www.serra-arquitectos.com.ar/OP-382/600-01.jpg",
+      "https://www.serra-arquitectos.com.ar/OP-382/600-02.jpg",
+      "https://www.serra-arquitectos.com.ar/OP-382/600-03.jpg",
+      "https://www.serra-arquitectos.com.ar/OP-382/600-04.jpg",
+      "https://www.serra-arquitectos.com.ar/OP-382/600-05.jpg",
+      "https://www.serra-arquitectos.com.ar/OP-382/940x500.jpg"
+    ],
+    "otherFields": [
+      {
+        "type": "Superficie total",
+        "value": "846 m2"
+      }
+    ]
+  },
+  {
+    "id": 49,
+    "title": "Aeropuerto de Jujuy",
+    "code": "396",
+    "year": "2018",
+    "principal": "ORSNA",
+    "type": ["Transporte"],
+    "location": "Ciudad de Perico, Provincia de Jujuy",
+    "tasks": [
+      "Contratación de servicios para la realización de tareas de colaboración en la fiscalización de la obra “NUEVA TERMINAL DE PASAJEROS” del Aeropuerto Internacional de Jujuy"
+    ],
+    "description": "",
+    "size": "10700",
+    "images": [
+      "https://www.serra-arquitectos.com.ar/OP-396/20200109_171012.webp",
+      "https://www.serra-arquitectos.com.ar/OP-396/20200109_171214.webp",
+      "https://www.serra-arquitectos.com.ar/OP-396/WhatsApp-Image-2019-11-11-1.jpeg",
+      "https://www.serra-arquitectos.com.ar/OP-396/WhatsApp-Image-2019-11-11-2.jpeg",
+      "https://www.serra-arquitectos.com.ar/OP-396/WhatsApp-Image-2019-11-11-3.jpeg",
+      "https://www.serra-arquitectos.com.ar/OP-396/WhatsApp-Image-2019-11-11.jpeg",
+      "https://www.serra-arquitectos.com.ar/OP-396/WhatsApp-Image-2020-05-08-.jpeg",
+      "https://www.serra-arquitectos.com.ar/OP-396/WhatsApp-Image-2020-06-12.jpeg"
+    ],
+    "otherFields": []
+  },
+  {
+    "id": 50,
+    "title": "Nueva Terminal de Pasajeros Aeropuerto Internacional Comodoro Rivadavia",
+    "code": "391",
+    "year": "2017",
+    "principal": "O.R.S.N.A (Organismo Regulador del Sistema Nacional de Aeropuertos)",
+    "type": ["Transporte"],
+    "location": "Comodoro Rivadavia – Provincia de Chubut",
+    "tasks": ["Colaboración con la fiscalización de la obra."],
+    "description": "",
+    "size": "6500",
+    "images": [
+      "https://www.serra-arquitectos.com.ar/OP-391/20190410_125750.webp",
+      "https://www.serra-arquitectos.com.ar/OP-391/20190410_163241.webp",
+      "https://www.serra-arquitectos.com.ar/OP-391/20190411_094752.webp",
+      "https://www.serra-arquitectos.com.ar/OP-391/20190411_104912.webp",
+      "https://www.serra-arquitectos.com.ar/OP-391/IMG_8042.webp",
+      "https://www.serra-arquitectos.com.ar/OP-391/IMG_8044-_1_.webp",
+      "https://www.serra-arquitectos.com.ar/OP-391/IMG_8047-_1_.webp",
+      "https://www.serra-arquitectos.com.ar/OP-391/IMG_8052.webp",
+      "https://www.serra-arquitectos.com.ar/OP-391/IMG_8058.webp",
+      "https://www.serra-arquitectos.com.ar/OP-391/IMG_8065-1.webp",
+      "https://www.serra-arquitectos.com.ar/OP-391/IMG_8186.webp",
+      "https://www.serra-arquitectos.com.ar/OP-391/IMG_8193.webp",
+      "https://www.serra-arquitectos.com.ar/OP-391/IMG_8195.webp",
+      "https://www.serra-arquitectos.com.ar/OP-391/IMG_8797.webp",
+      "https://www.serra-arquitectos.com.ar/OP-391/IMG_8799.webp",
+      "https://www.serra-arquitectos.com.ar/OP-391/IMG_8800.webp",
+      "https://www.serra-arquitectos.com.ar/OP-391/IMG_8802.webp",
+      "https://www.serra-arquitectos.com.ar/OP-391/IMG_8806.webp",
+      "https://www.serra-arquitectos.com.ar/OP-391/img-8047-1.webp",
+      "https://www.serra-arquitectos.com.ar/OP-391/img-8052.webp"
+    ],
+    "otherFields": []
+  },
+  {
+    "id": 51,
+    "title": "Terminal de pasajeros y torre de control del aeropuerto",
+    "code": "385",
+    "year": "2015",
+    "principal": "O.R.S.N.A. (Organismo Regulador del Sistema Nacional de Aeropuertos)",
+    "type": ["Transporte"],
+    "location": "Av. Buenos Aires a 2 km de la Ruta Provincial 11, Provincia de Buenos Aires",
+    "tasks": [
+      "Relevamiento, análisis de la información y estudios Previos, Anteproyecto y Proyecto completo de Arquitectura"
+    ],
+    "description": "",
+    "size": "210000",
+    "images": [
+      "https://www.serra-arquitectos.com.ar/OP-385/600-01.jpg",
+      "https://www.serra-arquitectos.com.ar/OP-385/600-02.jpg",
+      "https://www.serra-arquitectos.com.ar/OP-385/600-03.jpg",
+      "https://www.serra-arquitectos.com.ar/OP-385/600-04.jpg",
+      "https://www.serra-arquitectos.com.ar/OP-385/600-05.jpg",
+      "https://www.serra-arquitectos.com.ar/OP-385/940x500.jpg"
+    ],
+    "otherFields": [
+      {
+        "type": "Especidalidades",
+        "value": "estructuras, Inst. sanitaria, temomecánica, incendio y paisajismo. Realización del estudio de impacto ambiental y del informe económico"
+      },
+      {
+        "type": "Superficie total",
+        "value": "4.300 m2"
+      },
+      {
+        "type": "Sup. uso del suelo",
+        "value": "41.330 m2"
+      }
+    ]
+  },
+  {
+    "id": 53,
+    "title": "Terminal de pasajeros y torre de control del aeropuerto,",
+    "code": "384",
+    "year": "2015",
+    "principal": "O.R.S.N.A. (Organismo Regulador del Sistema Nacional de Aeropuertos)",
+    "type": ["Transporte"],
+    "location": "Ruta Nacional 34, Km 1.423, Aeropuerto Gral. Enrique Mosconi, Provincia de Salta",
+    "tasks": [
+      "Relevamiento, análisis de la información y estudios Previos, Anteproyecto y Proyecto completo de Arquitectura y Especialidades: estructuras, Inst. sanitaria, temomecánica, incendio y paisajismo.",
+      "Realización del estudio de impacto ambiental y del informe económico"
+    ],
+    "description": "",
+    "size": "180000",
+    "images": [
+      "https://www.serra-arquitectos.com.ar/OP-384/600-01.jpg",
+      "https://www.serra-arquitectos.com.ar/OP-384/600-02.jpg",
+      "https://www.serra-arquitectos.com.ar/OP-384/600-03.jpg",
+      "https://www.serra-arquitectos.com.ar/OP-384/600-04.jpg",
+      "https://www.serra-arquitectos.com.ar/OP-384/600-05.jpg",
+      "https://www.serra-arquitectos.com.ar/OP-384/940x500.jpg"
+    ],
+    "otherFields": [
+      {
+        "type": "Superficie total",
+        "value": "3.850 m2"
+      },
+      {
+        "type": "Sup. uso del suelo",
+        "value": "31.114 m2"
+      }
+    ]
+  },
+  {
+    "id": 54,
+    "title": "Playas de estacionamiento servicio de acarreo",
+    "code": "380-5",
+    "year": "2015",
+    "principal": "BRD. S.A.",
+    "type": ["Transporte"],
+    "location": "Calle Guzmán, Corrientes y J. Newbery. Ciudad Autónoma de Buenos Aires",
+    "tasks": [
+      "Proyecto de licitación de los Edificios de servicios y las playas de estacionamiento."
+    ],
+    "description": "",
+    "size": "3756",
+    "images": [
+      "https://www.serra-arquitectos.com.ar/OP-380-5/600-01.jpg",
+      "https://www.serra-arquitectos.com.ar/OP-380-5/600-02.jpg",
+      "https://www.serra-arquitectos.com.ar/OP-380-5/600-03.jpg",
+      "https://www.serra-arquitectos.com.ar/OP-380-5/600-04.jpg",
+      "https://www.serra-arquitectos.com.ar/OP-380-5/940x500.jpg"
+    ],
+    "otherFields": [
+      {
+        "type": "Sup. cubierta total",
+        "value": "558 m2"
+      },
+      {
+        "type": "Cant. de cocheras",
+        "value": "49"
+      }
+    ]
+  },
+  {
+    "id": 55,
+    "title": "Playas de estacionamiento servicio de acarreo",
+    "code": "380-3",
+    "year": "2015",
+    "principal": "BRD. S.A.",
+    "type": ["Transporte"],
+    "location": "B. Mitre– C. Pellegrini – Pte. Perón – Cerrito. Ciudad Autónoma de Buenos Aires",
+    "tasks": [
+      "Proyecto de licitación de los Edificios de servicios y las playas de estacionamiento."
+    ],
+    "description": "",
+    "size": "3739",
+    "images": [
+      "https://www.serra-arquitectos.com.ar/OP-380-3/600-01.jpg",
+      "https://www.serra-arquitectos.com.ar/OP-380-3/940x500.jpg"
+    ],
+    "otherFields": [
+      {
+        "type": "Cant. de cocheras",
+        "value": "86"
+      }
+    ]
+  },
+  {
+    "id": 56,
+    "title": "Playas de estacionamiento servicio de acarreo",
+    "code": "380-1",
+    "year": "2015",
+    "principal": "BRD. S.A.",
+    "type": ["Transporte"],
+    "location": "Calle Quinquela Martín, entre las calles Herrera y Gral. Hornos. Ciudad Autónoma de Buenos Aires",
+    "tasks": [
+      "Proyecto de licitación de los Edificios de servicios y las playas de estacionamiento."
+    ],
+    "description": "",
+    "size": "6442",
+    "images": [
+      "https://www.serra-arquitectos.com.ar/OP-380-1/600-01.jpg",
+      "https://www.serra-arquitectos.com.ar/OP-380-1/600-02.jpg",
+      "https://www.serra-arquitectos.com.ar/OP-380-1/600-03.jpg",
+      "https://www.serra-arquitectos.com.ar/OP-380-1/600-04.jpg",
+      "https://www.serra-arquitectos.com.ar/OP-380-1/600-05.jpg",
+      "https://www.serra-arquitectos.com.ar/OP-380-1/940x500.jpg"
+    ],
+    "otherFields": [
+      {
+        "type": "Sup. Cubierta Total",
+        "value": "566 m2"
+      },
+      {
+        "type": "Cant. de cocheras",
+        "value": "96"
+      }
+    ]
+  },
+  {
+    "id": 57,
+    "title": "Estación Minibuses Urbanos",
+    "code": "365",
+    "year": "2012",
+    "principal": "B.R.D. S.A.",
+    "type": ["Transporte"],
+    "location": "Victoria Ocampo, Av. Madero y Trinidad Guevara. Ciudad Autónoma de Bs. As.",
+    "tasks": ["Anteproyecto"],
+    "description": "",
+    "size": "4009",
+    "images": [
+      "https://www.serra-arquitectos.com.ar/OP-365/600-01.jpg",
+      "https://www.serra-arquitectos.com.ar/OP-365/600-02.jpg",
+      "https://www.serra-arquitectos.com.ar/OP-365/600-03.jpg",
+      "https://www.serra-arquitectos.com.ar/OP-365/940x500.jpg"
+    ],
+    "otherFields": [
+      {
+        "type": "Superficies cubiertas",
+        "value": "83"
+      },
+      {
+        "type": "Área de refugios",
+        "value": "48"
+      },
+      {
+        "type": "Calle peatonal de pasajeros",
+        "value": "635 m2"
+      },
+      {
+        "type": "Sector vehicular",
+        "value": "1.747 m2"
+      },
+      {
+        "type": "Estacionamiento minibuses",
+        "value": "462 m2"
+      },
+      {
+        "type": "Sector peatonal choferes",
+        "value": "194 m2"
+      },
+      {
+        "type": "Sector espacios parquizados",
+        "value": "888 m2"
+      }
+    ]
+  },
+  {
+    "id": 58,
+    "title": "Estacionamiento subterráneo Plaza San Martín",
+    "code": "175",
+    "year": "1983",
+    "principal": "Municipalidad de Gral. San Martín",
+    "type": ["Transporte"],
+    "location": "Calles Mitre, Pellegrini, Belgrano y Uruguay. Partido de San Martín, provincia de Buenos Aires",
+    "tasks": ["Proyecto y Direccion de Obra."],
+    "description": "Estacionamiento subterráneo para uso público y plaza superior.\r\n\r\nEsta conformado por 3 niveles de subsuelos y cuenta con estacion de servicio para los vehículos.\r\nAsociados con Arqta. Teresa Rojas",
+    "size": "18000",
+    "images": [
+      "https://www.serra-arquitectos.com.ar/OP-175/ada591_0c579d535a4f4bdb9f649ae375021ee5.webp",
+      "https://www.serra-arquitectos.com.ar/OP-175/ada591_1fc13a3bfcb740238acd9deee24ca99a.webp",
+      "https://www.serra-arquitectos.com.ar/OP-175/ada591_4e0b886ac8594ffa88e073644ce6f092.webp",
+      "https://www.serra-arquitectos.com.ar/OP-175/ada591_6b2cfd603b93429b8c492e2c3dbbd406.webp",
+      "https://www.serra-arquitectos.com.ar/OP-175/ada591_a7eb7f34df014c1da1e838a3722861c8.webp",
+      "https://www.serra-arquitectos.com.ar/OP-175/ada591_aa2eefa1601d4f478ccc7febc5ee0bc8.webp"
+    ],
+    "otherFields": [
+      {
+        "type": "Capacidad",
+        "value": "460 vehículos"
+      }
+    ]
+  },
+  {
+    "id": 59,
+    "title": "Estación Terminal de Omnibus",
+    "code": "167",
+    "year": "1983",
+    "principal": "Baiter S.A.",
+    "type": ["Transporte"],
+    "location": "Av. Antartida Argentina y calle 10. Ciudad de Buenos Aires.",
+    "tasks": ["Proyecto y Direccion de Obra"],
+    "description": "El edificio se organiza según una estricta y coherente distribución lineal de cinco unidades sucesivas similares, otorgando rigor a la zonificación de sectores funcionales internos vinculados por circulaciones y espacios en bandas paralelas y longitudinales seccionadas perpendicularmente por las circulaciones de llegada y salida de pasajeros que se prolongan hasta el extremo de los estacionamientos de automóviles.\r\n\r\nEl edificio se estructura mediante un sistema totalizador de circulaciones, funciones y espacios que materializan el frente de intercambio, asegurando claridad a las secuencias funcionales y de recorridos, tanto peatonales como vehiculares.\r\n\r\nEste sistema conforma una trama espacial que abarca la totalidad del terreno y resuelve los movimientos diferenciando en dos niveles los ingresos y egresos de pasajeros, dupli-cando de esta manera los perímetros de contacto entre el transporte de ómnibus y el movimiento de pasajeros hacia y desde la ciudad.\r\n\r\nEl partido es claro y compone un verdadero panorama para quien se aproxima desde el entorno urbano y penetra en los espacios internos desde los cuales se presenta una amplia visión del frente urbano, configurando un verdadero hito de llegada.\r\n\r\nEl tratamiento plástico expresa sin volunta-rismos formales el ordenamiento de la organización total adoptándose una síntesis expresiva de lo funcional y constructivo.\r\n\r\nEl edificio y sus exteriores han sido concebidos como una verdadera trama de espacios y circulaciones a escala del tema y del entorno urbano, recreando un nuevo e interesante paisaje para la ciudad.\r\n\r\nEl sistema constructivo fue mixto: estructura portante de hormigón armado in situ, entrepisos, cubierta y cerramientos de fachada de piezas prefabricadas de hormigón.\r\nAsociado: Arq. Raúl Petrucci",
+    "size": "44000",
+    "images": [
+      "https://www.serra-arquitectos.com.ar/OP-167/ada591_22f6d531f2e4457b9e993ddc6635d608.webp",
+      "https://www.serra-arquitectos.com.ar/OP-167/ada591_4cccd44ad96b432180f97e8236e6999b.webp",
+      "https://www.serra-arquitectos.com.ar/OP-167/ada591_51321a6ae76545bab7a2764f3734b172.webp",
+      "https://www.serra-arquitectos.com.ar/OP-167/ada591_61ddd6f04b1c453bb78ff6d4c98da8ad.webp",
+      "https://www.serra-arquitectos.com.ar/OP-167/ada591_79aa06f24e5c4f68bf2838f3d9fe69de.webp",
+      "https://www.serra-arquitectos.com.ar/OP-167/ada591_bc2f6319851f4e149cb4ed06749d070b.webp",
+      "https://www.serra-arquitectos.com.ar/OP-167/ada591_d62bceeb702c459581d5c7adc91f3204.webp",
+      "https://www.serra-arquitectos.com.ar/OP-167/ada591_d898e72e40f747ddbe4da1e1161b9f53.webp",
+      "https://www.serra-arquitectos.com.ar/OP-167/ada591_ed6925e8077e4590a54147eebee535a8.webp"
+    ],
+    "otherFields": [
+      {
+        "type": "Superficie del predio",
+        "value": "110.745 m2"
+      },
+      {
+        "type": "Superficie cubierta",
+        "value": "44.000 m2"
+      },
+      {
+        "type": "Servicios diarios",
+        "value": "1.700"
+      },
+      {
+        "type": "Plataformas de ómnibus",
+        "value": "76"
+      },
+      {
+        "type": "Estacionamiento ómnibus",
+        "value": "84"
+      },
+      {
+        "type": "Estacionamiento autos",
+        "value": "400"
+      }
+    ]
+  },
+  {
+    "id": 60,
+    "title": "Estaciones de Trenes Lineas Mitre y Sarmiento ",
+    "code": "261",
+    "year": "1996",
+    "principal": "Trenes de Buenos Aires (T.B.A.).",
+    "type": ["Transporte"],
+    "location": "Buenos Aires",
+    "tasks": ["Anteproyecto, remodelación Estaciones líneas Mitre y Sarmiento"],
+    "description": "El proyecto se ha efectuado para el total de las estaciones de los ramales eléctricos de las líneas Mitre y Sarmiento, y el mismo se ha ejemplificado con la concreción de los Anteproyectos para las siguientes estaciones tipo: Acasusso, San Isidro, Bartolomé Mitre, San Martín y José León Suarez para la línea Mitre: Flores, Morón y Moreno para la línea Sar miento.\r\n\r\nTeniendo en cuenta la amplia diversidad en las características y estado de las estaciones, se ha diseñado un sistema de intervención que permite adaptarse a las características particulares de cada caso y al mismo tiempo poseer elementos tipificados que otorguen unidad de diseño al conjunto de cada línea.\r\n\r\nEste sistema de intervención está basado en:\r\n\r\n- Los módulos de diseño.\r\n\r\nUna serie de módulos o componentes de diseño que se originan frente a situaciones de disfuncionalidad o deterioro del espacio o el funcionamiento actual de las estaciones.\r\n\r\n- El material.\r\n\r\nEl hormigón premoldeado, para la gran mayoría de los elementos que componen el diseño, otorgando unidad de imagen, resistencia, economía, intercambiabilidad, rapidez en el montaje, facilidad de mantenimiento y reposición.\r\n\r\n- La imagen de las estaciones\r\n\r\nUna imagen unificada para la totalidad de las líneas, que como un nuevo paisaje para las estaciones conforma una fuerte imagen corporativa.\r\n\r\nEste nuevo paisaje esta basado en el reciclaje respetuoso de las existencias de valor, la estética actual y sintética de los nuevos elementos y el acento especial que se otorgó a la presencia de los espacios verdes, haciendo de estos un verdadero motivo urbano que otorga una nueva identidad a las líneas.",
+    "size": "30500",
+    "images": [
+      "https://www.serra-arquitectos.com.ar/OP-261/ada591_23348c27608f452d9da1ce8e55ed373b.webp",
+      "https://www.serra-arquitectos.com.ar/OP-261/ada591_40865562602f42b39de69fce2ae06295.webp",
+      "https://www.serra-arquitectos.com.ar/OP-261/ada591_43c29591168a4c20832f908cf100fb8a.webp",
+      "https://www.serra-arquitectos.com.ar/OP-261/ada591_69e4bfc80db9452d95e728746d33e7e0.webp",
+      "https://www.serra-arquitectos.com.ar/OP-261/ada591_b35d5cd948dd4b05a48ff3c033894c34.webp",
+      "https://www.serra-arquitectos.com.ar/OP-261/ada591_e0cd9a09efdc45198e1bd88f3c643b97.webp"
+    ],
+    "otherFields": [
+      {
+        "type": "Cantidad de Estaciones",
+        "value": "52"
+      },
+      {
+        "type": "Superficie cubierta",
+        "value": "30.500 m2"
+      },
+      {
+        "type": "Superficie descubierta",
+        "value": "190.000 m2"
+      }
+    ]
+  },
+  {
+    "id": 61,
+    "title": "Estación Ferroautomotor",
+    "code": "196",
+    "year": "1980",
+    "principal": "Consejo Federal de Inversiones",
+    "type": ["Transporte"],
+    "location": "Area Centro, Independencia y Córdoba. Neuquén",
+    "tasks": ["Anteproyecto"],
+    "description": "Intercambiador de transporte Ferroautomotor, área comercial y oficinas",
+    "size": "130000",
+    "images": [
+      "https://www.serra-arquitectos.com.ar/OP-196/ada591_0970700de55c4e0a86b3acf716ac2743.webp",
+      "https://www.serra-arquitectos.com.ar/OP-196/ada591_4d44af44d3d74ff4a90a6586626dc786.webp",
+      "https://www.serra-arquitectos.com.ar/OP-196/ada591_70ea582f6d644a00b1d8258af34b64ce.webp",
+      "https://www.serra-arquitectos.com.ar/OP-196/ada591_95cba4119e45498185d147836a957dab.webp",
+      "https://www.serra-arquitectos.com.ar/OP-196/ada591_bbfd256fb6de45249602508f1b4a1951.webp",
+      "https://www.serra-arquitectos.com.ar/OP-196/ada591_e30f1415904c47a0ad33f61f26ac0eed.webp",
+      "https://www.serra-arquitectos.com.ar/OP-196/ada591_e629856b0f61484586895e31686ae1de.webp"
+    ],
+    "otherFields": [
+      {
+        "type": "Superficie terreno",
+        "value": "220.000 m2"
+      }
+    ]
+  },
+  {
+    "id": 62,
+    "title": "Centro de interpretación ambiental Villa Traful",
+    "code": "378",
+    "year": "2014",
+    "principal": "Ministerio de Turismo de la Nación - Unidad Ejecutora de Préstamos Internacionales (UEPI)- Programa de mejora de la competitividad del sector",
+    "type": ["Turismo"],
+    "location": "Villa Traful, Provincia Neuquén",
+    "tasks": [
+      "Relevamiento, análisis de la información y Estudios Previos, Anteproyecto y Proyecto completo de Arquitectura y especialidades: estructuras, inst. Sanitaria, incendio y paisajismo",
+      "Realización del estudio de impacto ambiental y del informe económico"
+    ],
+    "description": "",
+    "size": "6319",
+    "images": [
+      "https://www.serra-arquitectos.com.ar/OP-378/600-01.jpg",
+      "https://www.serra-arquitectos.com.ar/OP-378/600-02.jpg",
+      "https://www.serra-arquitectos.com.ar/OP-378/600-03.jpg",
+      "https://www.serra-arquitectos.com.ar/OP-378/600-04.jpg",
+      "https://www.serra-arquitectos.com.ar/OP-378/940x500.jpg"
+    ],
+    "otherFields": [
+      {
+        "type": "Superficie total",
+        "value": "381 m2"
+      }
+    ]
+  },
+  {
+    "id": 63,
+    "title": "Oficina de información turística",
+    "code": "358",
+    "year": "2010",
+    "principal": "Ministerio de Turismo de la Nación - Unidad Ejecutora de Préstamos Internacionales (UEPI) - Programa de mejora de la competitividad del sector",
+    "type": ["Turismo"],
+    "location": "El Soberbio, Provincia de Misiones",
+    "tasks": [
+      "Relevamiento, análisis de la información y estudios Previos, Anteproyecto y Proyecto completo de Arquitectura y especialidades: estructuras, inst. Sanitaria, incendio y gas, de clima, vial, señalización, paisajismo"
+    ],
+    "description": "",
+    "size": "115",
+    "images": [
+      "https://www.serra-arquitectos.com.ar/OP-358/400-01.jpg",
+      "https://www.serra-arquitectos.com.ar/OP-358/400-02.jpg",
+      "https://www.serra-arquitectos.com.ar/OP-358/600-01.jpg",
+      "https://www.serra-arquitectos.com.ar/OP-358/600-02.jpg"
+    ],
+    "otherFields": []
+  },
+  {
+    "id": 64,
+    "title": "Mendoza Crown Plaza y Casino",
+    "code": "257-3",
+    "year": "1995",
+    "principal": "C.S.I.",
+    "type": ["Turismo"],
+    "location": "Av. Acceso Este y Calle Rosario, Prov. de Mendoza",
+    "tasks": ["Programación funcional, Anteproyecto y Estudio de presupuesto"],
+    "description": "Hotel 5 estrellas de 160 habitaciones, Casino con 1.200 m2 de salas de juego, Showroom y Estacionamientos para 382 autos.",
+    "size": "31172",
+    "images": [
+      "https://www.serra-arquitectos.com.ar/OP-257-3/ada591_681455c4bb7e477da6d173939b70bd86.webp",
+      "https://www.serra-arquitectos.com.ar/OP-257-3/ada591_760dbab117ae45399f04764d85729bff.webp",
+      "https://www.serra-arquitectos.com.ar/OP-257-3/ada591_d671b2f305d34138b692ce942029fd91.webp",
+      "https://www.serra-arquitectos.com.ar/OP-257-3/ada591_e3876b44cdf44c30b7b523d6df75fd47.webp",
+      "https://www.serra-arquitectos.com.ar/OP-257-3/ada591_ff80c4d252d54788b5b7114e339477b5.webp"
+    ],
+    "otherFields": [
+      {
+        "type": "Hotel",
+        "value": "14.404 m2"
+      },
+      {
+        "type": "Casino",
+        "value": "5.486 m2"
+      },
+      {
+        "type": "Estacionamiento",
+        "value": "11.282 m2"
+      }
+    ]
+  },
+  {
+    "id": 65,
+    "title": "Mendoza Crown Plaza y Casino",
+    "code": "257-2",
+    "year": "1995",
+    "principal": "Gorriti Group S.A.",
+    "type": ["Turismo"],
+    "location": "Cerrito y Bme. Mitre Capital Federal",
+    "tasks": ["Programación funcional, Anteproyecto y Estudio de presupuesto"],
+    "description": "Hotel de suites categoría 5 estrellas con atrio, sector comercial, sectores públicos sociales del hotel, ballroom, restaurantes, administración y servicios y estacionamientos para el conjunto.",
+    "size": "36650",
+    "images": [
+      "https://www.serra-arquitectos.com.ar/OP-257-2/ada591_966fef1a8af74a0f8a97884dd6eeb027.webp",
+      "https://www.serra-arquitectos.com.ar/OP-257-2/ada591_c81f7a25c8484372a1d74b5a77fe5c7d.webp"
+    ],
+    "otherFields": [
+      {
+        "type": "Sup. neta de comercios",
+        "value": "1.050 m2"
+      },
+      {
+        "type": "Cant. de estacionamientos",
+        "value": "229"
+      },
+      {
+        "type": "Cant. de suites",
+        "value": "312"
+      }
+    ]
+  },
+  {
+    "id": 66,
+    "title": "Hotel Hyatt International, Casino Regency, Shopping Center y Viviendas",
+    "code": "257-1",
+    "year": "1995",
+    "principal": "Proyecto 21 S.A.",
+    "type": ["Turismo"],
+    "location": "Calles Don Bosco, Primitivo de la Reta, las Avda. San Martín y Alem, Mendoza. Pcia. de Mendoza.",
+    "tasks": [
+      "Planificación del sitio",
+      "Programación funcional",
+      "Anteproyecto y Estudios de presupuesto"
+    ],
+    "description": "Complejo multifuncional compuesto por Hotel 5 estrellas con 193 habitaciones, vinculado a un Casino con 1.500 m2 de salas de juego, un Shopping Center de 7.276 m2 de superficies útiles, un edificio de viviendas con 40 unidades y estacionamientos para el conjunto con 979 vehículos.\r\n\r\nTodo el complejo se halla programado conforme a las normas de Hyatt y Regency Casinos, interconectado para funcionar como una unidad a la vez que cada uno de sus usos posee la independencia necesaria a su función",
+    "size": "64808",
+    "images": [
+      "https://www.serra-arquitectos.com.ar/OP-257-1/ada591_59f3fb65872545d9a0befe947ab5b610.webp",
+      "https://www.serra-arquitectos.com.ar/OP-257-1/ada591_5db9acc1362944e0ac2809debba984ee.webp",
+      "https://www.serra-arquitectos.com.ar/OP-257-1/ada591_601c5f24355a41438c9424ce1a0a1ce1.webp",
+      "https://www.serra-arquitectos.com.ar/OP-257-1/ada591_e362551d77984a0898256227d23891d9.webp"
+    ],
+    "otherFields": [
+      {
+        "type": "Hotel",
+        "value": "16.152 m2"
+      },
+      {
+        "type": "Casino",
+        "value": "7.276 m2"
+      },
+      {
+        "type": "Shopping center",
+        "value": "10.102 m2"
+      },
+      {
+        "type": "Viviendas",
+        "value": "4.418 m2"
+      },
+      {
+        "type": "Estacionamientos",
+        "value": "26.860 m2"
+      }
+    ]
+  },
+  {
+    "id": 67,
+    "title": "Hotel Internacional Hilton",
+    "code": "243",
+    "year": "1993",
+    "principal": "Proyecto 21 S.A.",
+    "type": ["Turismo"],
+    "location": "Av. Leandro N. Alem 855, Catalinas Norte. Capital Federal.",
+    "tasks": ["Anteproyecto y estudios técnicos"],
+    "description": "Hotel internacional 5 estrellas, con áreas públicas, centro de convenciones, restaurantes y bares, administración, health club, comercios, áreas de servicios técnicas y estacionamientos.",
+    "size": "32000",
+    "images": [
+      "https://www.serra-arquitectos.com.ar/OP-243/ada591_f53990450d07409cb7eb5866fee45e58.webp"
+    ],
+    "otherFields": [
+      {
+        "type": "Habitaciones",
+        "value": "310"
+      }
+    ]
+  },
+  {
+    "id": 68,
+    "title": "Centro Invernal Ski",
+    "code": "230",
+    "year": "1991",
+    "principal": "Banco Inversor",
+    "type": ["Turismo"],
+    "location": "Valle de las Leñas. Pcia. de Mendoza",
+    "tasks": ["Anteproyecto y Prefactibilidad"],
+    "description": "Centro equipamientos con Comercios, hotelería y departamentos de tiempo compartido",
+    "size": "10750",
+    "images": [
+      "https://www.serra-arquitectos.com.ar/OP-230/ada591_3b265f747b594f72a405cc812e77eb1b.webp"
+    ],
+    "otherFields": []
+  },
+  {
+    "id": 69,
+    "title": "Hotel Quality Inn ",
+    "code": "219",
+    "year": "1988",
+    "principal": "Gaetano Nunciante",
+    "type": ["Turismo"],
+    "location": "Esmeralda y Paraguay, Capital Federal.",
+    "tasks": ["Anteproyecto"],
+    "description": "Edificio para hotel de pasajeros con áreas públicas, centro de convenciones, restaurantes y bares, administración, health club, comercios.",
+    "size": "40000",
+    "images": [
+      "https://www.serra-arquitectos.com.ar/OP-219/ada591_37c6d0f07b9945e5bca49e4245663915.webp",
+      "https://www.serra-arquitectos.com.ar/OP-219/ada591_711c1c3e327548e3b8a8dad1f9632608.webp",
+      "https://www.serra-arquitectos.com.ar/OP-219/ada591_c2b166dcaea945d198ef56ab98cd4a70.webp"
+    ],
+    "otherFields": [
+      {
+        "type": "Habitaciones",
+        "value": "300"
+      },
+      {
+        "type": "Estacionamiento",
+        "value": "400 autos"
+      }
+    ]
+  },
+  {
+    "id": 70,
+    "title": "Motel Isla Talavera",
+    "code": "120",
+    "year": "1972",
+    "principal": "Techint - Albano",
+    "type": ["Turismo"],
+    "location": "Isla Talavera - Zárate Brazo Largo. Pcia. de Entre Ríos",
+    "tasks": ["Planeamiento del sitio y Proyecto"],
+    "description": "Motel de turismo con servicios Centrales, estar, restaurante y espacio para deportes, pileta y recreación",
+    "size": "3000",
+    "images": [
+      "https://www.serra-arquitectos.com.ar/OP-120/ada591_050ac323832e49f28df576448d1e4fe2.webp",
+      "https://www.serra-arquitectos.com.ar/OP-120/ada591_b45dbe21f8c9431cbd19f177e5d1c495.webp",
+      "https://www.serra-arquitectos.com.ar/OP-120/ada591_c20bc3ca2d0e4e4ab2be5807e14484d8.webp"
+    ],
+    "otherFields": [
+      {
+        "type": "Huéspedes",
+        "value": "116"
+      }
+    ]
+  },
+  {
+    "id": 71,
+    "title": "Hotel Hilton International",
+    "code": "236",
+    "year": "1992",
+    "principal": "Proyecto 21 S.A.",
+    "type": ["Turismo"],
+    "location": "Av. Córdoba y Dique 4, Lote 18, Puerto Madero. Capital Federal",
+    "tasks": ["Anteproyecto"],
+    "description": "",
+    "size": "47000",
+    "images": [
+      "https://www.serra-arquitectos.com.ar/OP-236/ada591_5b51ffca229a4083b2d6a44ea317fa07.webp",
+      "https://www.serra-arquitectos.com.ar/OP-236/ada591_5f2acc449b704e6faa62fab1f17d3cbb.webp",
+      "https://www.serra-arquitectos.com.ar/OP-236/ada591_759568f5a83140fbad6f9803eaa98449.webp",
+      "https://www.serra-arquitectos.com.ar/OP-236/ada591_b04baa0665994536ba6278acf4565c73.webp",
+      "https://www.serra-arquitectos.com.ar/OP-236/ada591_e9fb68f067634c5fb5caeb0cccf7cafc.webp"
+    ],
+    "otherFields": [
+      {
+        "type": "Habitaciones",
+        "value": "450"
+      }
+    ]
+  },
+  {
+    "id": 72,
+    "title": "Torre Chile 1260",
+    "code": "364",
+    "year": "2012",
+    "principal": "Conorvial S.A.",
+    "type": ["Viviendas Colectivas"],
+    "location": "Chile 1260, Ciudad Autónoma de Bs.As.",
+    "tasks": [
+      "Proyecto completo de Arquitectura y especialidades: estructuras, inst. eléctrica, sanitaria, gas e incendio"
+    ],
+    "description": "Subsuelo, PB y 18 pisos.",
+    "size": "8700",
+    "images": [
+      "https://www.serra-arquitectos.com.ar/OP-364/11a83c_0122243202494f7fb3a4311ee444bcdd.webp",
+      "https://www.serra-arquitectos.com.ar/OP-364/11a83c_0fbe2c43bcf24d5884a632d6d4c1c20c.webp",
+      "https://www.serra-arquitectos.com.ar/OP-364/11a83c_4f7ac56e2d534b3f86f4ff9bebb8331c.webp",
+      "https://www.serra-arquitectos.com.ar/OP-364/11a83c_9944f8a2755841e6a7ceeb56d9a3fceb.webp"
+    ],
+    "otherFields": [
+      {
+        "type": "Superficie del predio",
+        "value": "1.650 m2"
+      },
+      {
+        "type": "Unidades",
+        "value": "88"
+      }
+    ]
+  },
+  {
+    "id": 73,
+    "title": "Edificio Viviendas Ameport 1",
+    "code": "296",
+    "year": "1999",
+    "principal": "A.M.E.P.O.R.T",
+    "type": ["Viviendas Colectivas"],
+    "location": "Av. San Juan 2775/85. Cap Federal",
+    "tasks": ["Proyecto"],
+    "description": "PB y 12 pisos",
+    "size": "3800",
+    "images": [
+      "https://www.serra-arquitectos.com.ar/OP-296/1999_170212.webp",
+      "https://www.serra-arquitectos.com.ar/OP-296/ada591_87c672f48d76471f83e8d494b1fda801.webp"
+    ],
+    "otherFields": [
+      {
+        "type": "Unidades",
+        "value": "52"
+      }
+    ]
+  },
+  {
+    "id": 74,
+    "title": "Urbanización Tortuguitas",
+    "code": "295",
+    "year": "1998",
+    "principal": "Cooperativa de Provisión de Servicios Públicos de Tortuguitas Lta",
+    "type": ["Viviendas colectivas", "Planeamiento"],
+    "location": "Calles Ventura Coll, Colombia, José Hernandez y Guatemala, Tortuguitas. Pcia. de Buenos Aires.",
+    "tasks": ["Proyecto urbanístico y Proyecto de arquitectura."],
+    "description": "Los trabajos comprenden:\r\nProyecto urbanístico y Proyecto de arquitectura e ingeniería de las obras de viviendas, infraestructura y equipamientos.\r\nLas tierras a urbanizar, sus condiciones, situación y características, se conjugaron con objetivos urbanos destinados a crear un área residencial.\r\nLos objetivos son los siguientes:\r\nMercado-Demanda a abastecer.\r\nDiseño de conjunto\r\nInfraestructura vial y de servicios\r\nViviendas\r\nAspectos económicos.\r\nAsociados con Casares – Casares Sojo arquitectos",
+    "size": "90000",
+    "images": [
+      "https://www.serra-arquitectos.com.ar/OP-295/ada591_0703a1f58e0f49f1a385c7748e23e4ae.webp",
+      "https://www.serra-arquitectos.com.ar/OP-295/ada591_522d98ae3211421aad17bc99d72c3f8e.webp",
+      "https://www.serra-arquitectos.com.ar/OP-295/ada591_6f1601ea542a42dc854968aaa0c375cb.webp",
+      "https://www.serra-arquitectos.com.ar/OP-295/ada591_89b8d0ff6d0543759cac5fe614155b62.webp",
+      "https://www.serra-arquitectos.com.ar/OP-295/ada591_93732f3c15054880b40f8affc9fa4893.webp",
+      "https://www.serra-arquitectos.com.ar/OP-295/ada591_b2a43c7adb51452295a63811e9233325.webp"
+    ],
+    "otherFields": [
+      {
+        "type": "Área Urbanizable",
+        "value": "9 has"
+      },
+      {
+        "type": "Área Infraestructura",
+        "value": "14.483 m2"
+      },
+      {
+        "type": "Equip. y Esp. Verdes",
+        "value": "15.320 m2"
+      },
+      {
+        "type": "Área Residencial",
+        "value": "54.764 m2"
+      },
+      {
+        "type": "Sup total edificable",
+        "value": "21.560 m2"
+      },
+      {
+        "type": "Viviendas",
+        "value": "218"
+      },
+      {
+        "type": "Población",
+        "value": "1.184 hab"
+      }
+    ]
+  },
+  {
+    "id": 75,
+    "title": "Edificio Viviendas Camargo",
+    "code": "285",
+    "year": "1997",
+    "principal": "Compañía Fiduciaria Americana.",
+    "type": ["Viviendas Colectivas"],
+    "location": "Camargo y Thames. Capital Federal.",
+    "tasks": ["Planeamiento del sitio y Proyecto."],
+    "description": "Conjunto de 2 torres de PB y 19 pisos.",
+    "size": "17192",
+    "images": [
+      "https://www.serra-arquitectos.com.ar/OP-285/ada591_95181b16b3994c5e9acd45cd3d2c0921.webp",
+      "https://www.serra-arquitectos.com.ar/OP-285/ada591_adfed732612a47cb909c1bd817e489ce.webp",
+      "https://www.serra-arquitectos.com.ar/OP-285/ada591_d2fdb8067778415b9efe44b1f02f2660.webp",
+      "https://www.serra-arquitectos.com.ar/OP-285/ada591_d74fea354230427489068fd3c28bba5c.webp"
+    ],
+    "otherFields": [
+      {
+        "type": "Predio",
+        "value": "3.925 m2"
+      },
+      {
+        "type": "Superficie viviendas",
+        "value": "14.886 m2"
+      },
+      {
+        "type": "Superficie estacionamientos",
+        "value": "2.306 m2"
+      },
+      {
+        "type": "Unidades de vivienda",
+        "value": "220"
+      },
+      {
+        "type": "Cocheras",
+        "value": "79"
+      }
+    ]
+  },
+  {
+    "id": 76,
+    "title": "Los Naranjos",
+    "code": "249",
+    "year": "1994",
+    "principal": "Sr. Saubidet",
+    "type": ["Viviendas Colectivas"],
+    "location": "Avellaneda, Misiones y Liniers - San Isidro. Pcia. Buenos Aires.",
+    "tasks": ["Proyecto"],
+    "description": "Conjunto de 18 viviendas",
+    "size": "2825",
+    "images": [
+      "https://www.serra-arquitectos.com.ar/OP-249/ada591_2ec91e096b40467784de969f2ee2a299.webp",
+      "https://www.serra-arquitectos.com.ar/OP-249/ada591_56f652e5d3d8488a831b0a30104a2acf.webp",
+      "https://www.serra-arquitectos.com.ar/OP-249/ada591_67f9f327f2464aeea9a26bf461e35d89.webp",
+      "https://www.serra-arquitectos.com.ar/OP-249/ada591_9316550fab6a4ffb8107b04e2f25dc63.webp"
+    ],
+    "otherFields": []
+  },
+  {
+    "id": 77,
+    "title": "Jardines de Liniers",
+    "code": "248",
+    "year": "1994",
+    "principal": "Edificar SA, Grupo Cartelone.",
+    "type": ["Viviendas colectivas"],
+    "location": "Av. Gral. Paz, A. Jacques, Cuzco y Bynnon, Liners. Cap. Fed.",
+    "tasks": ["Planeamiento del sitio, Proyecto y Supervisión."],
+    "description": "Conjunto de 2 torres de viviendas colectivas, estacionamientos, equipamiento y espacios verdes.\r\n\r\nLas torres se construyeron mediante sistema de prefabricación total, con montaje en seco de estructuras y paramentos, solo los núcleos de ascensores fueron hormigonados in situ.",
+    "size": "7300",
+    "images": [
+      "https://www.serra-arquitectos.com.ar/OP-248/ada591_296ccce141c84b54a739962940c8aee6.webp",
+      "https://www.serra-arquitectos.com.ar/OP-248/ada591_2faef99468b74a79a520566350b1292c.webp",
+      "https://www.serra-arquitectos.com.ar/OP-248/ada591_4ab3012a1213484e818ca1c645afe032.webp",
+      "https://www.serra-arquitectos.com.ar/OP-248/ada591_69600b1400784698a092aab14ba79e5e.webp",
+      "https://www.serra-arquitectos.com.ar/OP-248/ada591_b70959d1ecae4c2b986e9625b3d978ee.webp",
+      "https://www.serra-arquitectos.com.ar/OP-248/ada591_c424f5fd88f34a08ad02ef1bcf96a26a.webp",
+      "https://www.serra-arquitectos.com.ar/OP-248/ada591_ddda6208ffb04ebe9670e1be8392d3a2.webp"
+    ],
+    "otherFields": [
+      {
+        "type": "Superficie cubierta",
+        "value": "12.400 m2"
+      },
+      {
+        "type": "Unidades",
+        "value": "184, de PB y 11 pisos"
+      },
+      {
+        "type": "Asociados",
+        "value": "Estudio Urgell, Fazio Penedo y Asociados"
+      }
+    ]
+  },
+  {
+    "id": 78,
+    "title": "Torres Altos de Beccar",
+    "code": "242",
+    "year": "1993",
+    "principal": "Altos de Beccar SA y Land Developer S.A.",
+    "type": ["Viviendas Colectivas"],
+    "location": "Centenario 2255, Beccar, Pcia Bs As.",
+    "tasks": ["Proyecto y Dirección"],
+    "description": "Edificio en torre, PB y 14 pisos",
+    "size": "10000",
+    "images": [
+      "https://www.serra-arquitectos.com.ar/OP-242/ada591_91d757dc759f4bdcb538bfe57fe9d7c5.webp",
+      "https://www.serra-arquitectos.com.ar/OP-242/ada591_a5f3899bc36f471eba890e048f28f9ca.webp",
+      "https://www.serra-arquitectos.com.ar/OP-242/ada591_aee12e9a071c4d5a8013afbade691678.webp",
+      "https://www.serra-arquitectos.com.ar/OP-242/ada591_c8cee9fdabf943c29e5d78846bbac495.webp",
+      "https://www.serra-arquitectos.com.ar/OP-242/ada591_e29376b9af194ab7a7f792e4f9da6be7.webp"
+    ],
+    "otherFields": [
+      {
+        "type": "Unidades",
+        "value": "112"
+      }
+    ]
+  },
+  {
+    "id": 79,
+    "title": "Propiedad Horizontal Bulnes",
+    "code": "235",
+    "year": "1992",
+    "principal": "C.R.A",
+    "type": ["Viviendas Colectivas"],
+    "location": "Bulnes 1264/66. Ciudad de Buenos Aires.",
+    "tasks": ["Proyecto y Dirección"],
+    "description": "",
+    "size": "2430",
+    "images": [
+      "https://www.serra-arquitectos.com.ar/OP-235/ada591_344c200d0ec14dcc938333559cff6d2b.webp",
+      "https://www.serra-arquitectos.com.ar/OP-235/ada591_49d1c6b94c134472838e30068f5954de.webp",
+      "https://www.serra-arquitectos.com.ar/OP-235/ada591_67502f8c594a4007b36435410f67cff1.webp",
+      "https://www.serra-arquitectos.com.ar/OP-235/ada591_7bfb461942744d5fa2550751c95abcd2.webp"
+    ],
+    "otherFields": []
+  },
+  {
+    "id": 80,
+    "title": "Vivienda individual Mendoza",
+    "code": "337-2",
+    "year": "2007",
+    "principal": "",
+    "type": ["Viviendas Individuales"],
+    "location": "Barrio La Vacherie Country Golf Mendoza – Pcia. De Mendoza",
+    "tasks": ["Proyecto"],
+    "description": "",
+    "size": "274",
+    "images": [
+      "https://www.serra-arquitectos.com.ar/OP-337-2/ada591_191f6ec3eae14a5aa8dafbceef254346.webp",
+      "https://www.serra-arquitectos.com.ar/OP-337-2/ada591_c2bcb186eac744f786bc53d657461db1.webp",
+      "https://www.serra-arquitectos.com.ar/OP-337-2/ada591_f7f6c05930a04f80a629575a7cac419a.webp",
+      "https://www.serra-arquitectos.com.ar/OP-337-2/ada591_fa75ff7164f64ef982eaf95bd3dfbaa6.webp"
+    ],
+    "otherFields": []
+  },
+  {
+    "id": 81,
+    "title": "Vivienda individual Barrio San Isidro Labrador Benavides",
+    "code": "327",
+    "year": "2004",
+    "principal": "",
+    "type": ["Viviendas Individuales"],
+    "location": "Barrio San Isidro Labrador Benavides, Pcia. de Buenos Aires",
+    "tasks": ["Proyecto y Dirección"],
+    "description": "",
+    "size": "226",
+    "images": [
+      "https://www.serra-arquitectos.com.ar/OP-327/ada591_58d9c479646b44fb9c5d2258e53ef6a9.webp",
+      "https://www.serra-arquitectos.com.ar/OP-327/ada591_5c0d229817d04a92ab7814f168ff842f.webp",
+      "https://www.serra-arquitectos.com.ar/OP-327/ada591_5e914ecc68e94778ab70a5db54105bbf.webp",
+      "https://www.serra-arquitectos.com.ar/OP-327/ada591_6db09a98c615432a9b67ac2f2a1ac50b.webp",
+      "https://www.serra-arquitectos.com.ar/OP-327/ada591_b220d6b4ac74443c9be958d7ccb38b75.webp"
+    ],
+    "otherFields": [
+      {
+        "type": "Terreno",
+        "value": "714 m2"
+      }
+    ]
+  },
+  {
+    "id": 82,
+    "title": "Vivienda individual los senderos Pilar",
+    "code": "319",
+    "year": "2003",
+    "principal": "",
+    "type": ["Viviendas Individuales"],
+    "location": "Barrio Cerrado Los Senderos – Tortuguitas, Pcia. Bs. As.",
+    "tasks": ["Proyecto y Dirección"],
+    "description": "",
+    "size": "238",
+    "images": [
+      "https://www.serra-arquitectos.com.ar/OP-319/ada591_22dd9efcd4034e049e599dac5679cb5a.webp",
+      "https://www.serra-arquitectos.com.ar/OP-319/ada591_48d32a344fff4d5c89454e5774328e84.webp",
+      "https://www.serra-arquitectos.com.ar/OP-319/ada591_6154ebad7d514434b03e30c198dce747.webp",
+      "https://www.serra-arquitectos.com.ar/OP-319/ada591_94ac28b2c2624cc998dbcd96c1637220.webp",
+      "https://www.serra-arquitectos.com.ar/OP-319/ada591_fe9feede289b48a7b4bc059b6a855b98.webp"
+    ],
+    "otherFields": []
+  },
+  {
+    "id": 83,
+    "title": "Vivienda individual Club de Campo St. Thomas",
+    "code": "289",
+    "year": "1998",
+    "principal": "",
+    "type": ["Viviendas Individuales"],
+    "location": "Club de Campo St. Thomas Echeverría. Pcia. de Buenos Aires",
+    "tasks": ["Proyecto y Dirección"],
+    "description": "",
+    "size": "160",
+    "images": [
+      "https://www.serra-arquitectos.com.ar/OP-289/ada591_11aa977128b84569af01c38bb662bcdb.webp",
+      "https://www.serra-arquitectos.com.ar/OP-289/ada591_62440220b53b4f9a869a2809f3d49caa.webp",
+      "https://www.serra-arquitectos.com.ar/OP-289/ada591_91571ee594b6474dac4c89779d1689ba.webp",
+      "https://www.serra-arquitectos.com.ar/OP-289/ada591_dd693fdf34f4405898dc387376d561ff.webp",
+      "https://www.serra-arquitectos.com.ar/OP-289/ada591_f0f193650c64483fb4d6e4a4a0becfd7.webp"
+    ],
+    "otherFields": []
+  },
+  {
+    "id": 84,
+    "title": "Vivienda individual San isidro",
+    "code": "288",
+    "year": "1998",
+    "principal": "",
+    "type": ["Viviendas Individuales"],
+    "location": "Ibáñez 1109. San Isidro. Pcia Bs.As.",
+    "tasks": ["Proyecto y Dirección"],
+    "description": "En Colaboración con el Arqto. Vaca Bononato",
+    "size": "265",
+    "images": [
+      "https://www.serra-arquitectos.com.ar/OP-288/ada591_30a79ff6731d41878917506e1918fbe6.webp",
+      "https://www.serra-arquitectos.com.ar/OP-288/ada591_4aade0a2f624403e97541463ecda9d46.webp",
+      "https://www.serra-arquitectos.com.ar/OP-288/ada591_554066ee89e040d9b26f81f5cdbb3361.webp",
+      "https://www.serra-arquitectos.com.ar/OP-288/ada591_6c2bf52336d642f88402a35a1ce1f2e3.webp",
+      "https://www.serra-arquitectos.com.ar/OP-288/ada591_c2be85b0293544cd81908400e60f13f1.webp"
+    ],
+    "otherFields": []
+  },
+  {
+    "id": 85,
+    "title": "Vivienda individual Club de\nCampo St. Thomas",
+    "code": "278",
+    "year": "1997",
+    "principal": "",
+    "type": ["Viviendas Individuales"],
+    "location": "Club de Campo St. Thomas Echeverría. Pcia. de Buenos Aires",
+    "tasks": ["Proyecto y Dirección"],
+    "description": "",
+    "size": "172",
+    "images": [
+      "https://www.serra-arquitectos.com.ar/OP-278/ada591_3049432dad9c4becbbdaa048165aa2e1.webp",
+      "https://www.serra-arquitectos.com.ar/OP-278/ada591_78a64ff763d04852ad6cb6531f00b04b.webp",
+      "https://www.serra-arquitectos.com.ar/OP-278/ada591_80ca7412557a4fd7ae10effad0d409f1.webp",
+      "https://www.serra-arquitectos.com.ar/OP-278/ada591_cda444792d144f63a908628d453141bf.webp"
+    ],
+    "otherFields": []
+  },
+  {
+    "id": 86,
+    "title": "Vivienda individual Club de\nCampo St. Thomas",
+    "code": "276",
+    "year": "1997",
+    "principal": "",
+    "type": ["Viviendas Individuales"],
+    "location": "Club de Campo St. Thomas Partido de Echeverría. Pcia. de Buenos Aires.",
+    "tasks": ["Proyecto y Dirección"],
+    "description": "",
+    "size": "207",
+    "images": [
+      "https://www.serra-arquitectos.com.ar/OP-276/ada591_071b5af818a447cd9e08a1a1d312c5fa.webp",
+      "https://www.serra-arquitectos.com.ar/OP-276/ada591_1b6b8c8daf8b45f1b76090a5d0365e63.webp",
+      "https://www.serra-arquitectos.com.ar/OP-276/ada591_945270ff98224fc6b7426f2a1e1564fb.webp",
+      "https://www.serra-arquitectos.com.ar/OP-276/ada591_aed12c151e0f45ed8d3c3d84b153fa7a.webp",
+      "https://www.serra-arquitectos.com.ar/OP-276/ada591_d4b0d3e2c61647de81780c0a0eb02e57.webp"
+    ],
+    "otherFields": []
+  },
+  {
+    "id": 87,
+    "title": "Vivienda individual Club de\nCampo St. Thomas",
+    "code": "275",
+    "year": "1997",
+    "principal": "",
+    "type": ["Viviendas Individuales"],
+    "location": "Club de Campo St. Thomas Partido de Echeverría. Pcia. de Buenos Aires.",
+    "tasks": ["Proyecto y Dirección"],
+    "description": "",
+    "size": "307",
+    "images": [
+      "https://www.serra-arquitectos.com.ar/OP-275/ada591_61ccd919f1e34531ad17744517424523.webp",
+      "https://www.serra-arquitectos.com.ar/OP-275/ada591_698ec0a7b7f14327a9fb101d45ffa5f8.webp",
+      "https://www.serra-arquitectos.com.ar/OP-275/ada591_98ac60ff87da44d5a198c9d3b3d8d3dc.webp",
+      "https://www.serra-arquitectos.com.ar/OP-275/ada591_eea35adee18f42a787af6d0e642dbb69.webp"
+    ],
+    "otherFields": []
+  },
+  {
+    "id": 88,
+    "title": "Vivienda individual Los Fresnos",
+    "code": "267",
+    "year": "1996",
+    "principal": "",
+    "type": ["Viviendas Individuales"],
+    "location": "Los Fresnos, Pilar. Pcia. de Bs. As.",
+    "tasks": ["Proyecto y Dirección"],
+    "description": "",
+    "size": "250",
+    "images": [
+      "https://www.serra-arquitectos.com.ar/OP-267/ada591_0c66be9910f3445495c5dc135621a6c5.webp",
+      "https://www.serra-arquitectos.com.ar/OP-267/ada591_271c0cc327d94f25a2c8f5a21d3d380f.webp",
+      "https://www.serra-arquitectos.com.ar/OP-267/ada591_ae862a89fd9d4664b8b15b6cd4c3988e.webp"
+    ],
+    "otherFields": []
+  },
+  {
+    "id": 89,
+    "title": "Vivienda individual solares del\ntalar –Tigre",
+    "code": "265",
+    "year": "1996",
+    "principal": "",
+    "type": ["Viviendas Individuales"],
+    "location": "Solares del Talar – Tigre. Pcia. de Buenos Aires.",
+    "tasks": ["Proyecto y Dirección"],
+    "description": "",
+    "size": "207",
+    "images": [
+      "https://www.serra-arquitectos.com.ar/OP-265/ada591_079cb5586f1f417bb3b45820d6916eac.webp",
+      "https://www.serra-arquitectos.com.ar/OP-265/ada591_41ad78b6e25942bbad18819837f7f7ab.webp",
+      "https://www.serra-arquitectos.com.ar/OP-265/ada591_c9d946a8147c42c8af87fa4c725ebb1d.webp"
+    ],
+    "otherFields": []
+  },
+  {
+    "id": 90,
+    "title": "Vivienda individual Tortuguitas",
+    "code": "203",
+    "year": "1983",
+    "principal": "",
+    "type": ["Viviendas Individuales"],
+    "location": "Tortuguitas. Pcia. de Bs. As",
+    "tasks": ["Proyecto y Dirección"],
+    "description": "",
+    "size": "110",
+    "images": [
+      "https://www.serra-arquitectos.com.ar/OP-203/ada591_4702e6dd7bfc4846b91e09010036dcd1.webp",
+      "https://www.serra-arquitectos.com.ar/OP-203/ada591_7e3d8dbbf2aa423ead200a2a088ff2b8.webp",
+      "https://www.serra-arquitectos.com.ar/OP-203/ada591_a3636284418e48a081699e0f51c5284b.webp",
+      "https://www.serra-arquitectos.com.ar/OP-203/ada591_f84289c16974451f90af250ff404b31d.webp"
+    ],
+    "otherFields": []
+  },
+  {
+    "id": 91,
+    "title": "Conjunto de Viviendas ProCreAr, Santa Rosa",
+    "code": "337",
+    "year": "2014",
+    "principal": "Banco Hipotecario S.A.",
+    "type": ["Planes de vivienda"],
+    "location": "Avda. Circunvalación Ing Marzo y Camino del Centenario, Santa Rosa, La Pampa.",
+    "tasks": [
+      "Dirección de las Obras de arquitectura y de las infraestructuras de servicios."
+    ],
+    "description": "Asociados con BAT Consultores",
+    "size": "47600",
+    "images": [],
+    "otherFields": [
+      {
+        "type": "Fecha de inicio de las obras",
+        "value": "Enero 2014"
+      },
+      {
+        "type": "Fecha de fin de las obras",
+        "value": "Mayo 2016"
+      },
+      {
+        "type": "Empresas contratistas Obra Civil",
+        "value": "IACO SA y ECOP SRL"
+      },
+      {
+        "type": "Empresa contratista infraestructura",
+        "value": "UTE IACO-ECOP"
+      },
+      {
+        "type": "Cantidad de viviendas",
+        "value": "525"
+      },
+      {
+        "type": "Cantidad de locales comerciales",
+        "value": "46"
+      },
+      {
+        "type": "Superficie del predio",
+        "value": "26 has"
+      }
+    ]
+  },
+  {
+    "id": 92,
+    "title": "Conjunto de Viviendas ProCreAr, Rio Gallegos",
+    "code": "376",
+    "year": "2014",
+    "principal": "Banco Hipotecario S.A.",
+    "type": ["Planes de vivienda"],
+    "location": "Piloto Leo Rivera y Av. Juan M Gregores, Rio Gallegos, Santa Cruz.",
+    "tasks": [
+      "Dirección de las Obras de arquitectura y de las infraestructuras de servicios."
+    ],
+    "description": "Asociados con BAT Consultores",
+    "size": "43900",
+    "images": [
+      "https://www.serra-arquitectos.com.ar/OP-376/ProCreAr-Serra_mp4_00_00_30_00_Imagen-fi.webp",
+      "https://www.serra-arquitectos.com.ar/OP-376/ProCreAr-Serra_mp4_00_01_01_01_Imagen-fi.webp",
+      "https://www.serra-arquitectos.com.ar/OP-376/ProCreAr-Serra_mp4_00_01_23_00_Imagen-fi.webp",
+      "https://www.serra-arquitectos.com.ar/OP-376/ProCreAr-Serra_mp4_00_01_35_00_Imagen-fi.webp"
+    ],
+    "otherFields": [
+      {
+        "type": "Fecha de inicio de obras",
+        "value": "Enero 2014"
+      },
+      {
+        "type": "Fecha de fin de las obras",
+        "value": "Marzo 2017"
+      },
+      {
+        "type": "Empresas contratistas obra civil",
+        "value": "ESUCO S.A. y UTE ESUCO-DALCO-TEXIMCO."
+      },
+      {
+        "type": "Empresa contratista infraestructura",
+        "value": "ESUCO S.A."
+      },
+      {
+        "type": "Cantidad de viviendas",
+        "value": "554"
+      },
+      {
+        "type": "Cantidad de locales comerciales",
+        "value": "50"
+      },
+      {
+        "type": "Superficie del predio",
+        "value": "20 has"
+      }
+    ]
+  },
+  {
+    "id": 93,
+    "title": "Conjunto de Viviendas ProCreAr, Tandil",
+    "code": "375",
+    "year": "2014",
+    "principal": "Banco Hipotecario S.A.",
+    "type": ["Planes de vivienda"],
+    "location": "Calles Quintana, Pujol, Buenos Aires y Beiro, Tandil, Buenos Aires.",
+    "tasks": [
+      "Dirección de las Obras de arquitectura y de las infraestructuras de servicios."
+    ],
+    "description": "Asociados con BAT Consultores",
+    "size": "56500",
+    "images": [
+      "https://www.serra-arquitectos.com.ar/OP-375/600-01.webp",
+      "https://www.serra-arquitectos.com.ar/OP-375/940x500.webp",
+      "https://www.serra-arquitectos.com.ar/OP-375/OP375-Imagen-2.webp",
+      "https://www.serra-arquitectos.com.ar/OP-375/OP375-Imagen-3.webp",
+      "https://www.serra-arquitectos.com.ar/OP-375/OP375-Imagen-6.webp"
+    ],
+    "otherFields": [
+      {
+        "type": "Fecha de inicio de las obras",
+        "value": "Enero 2014"
+      },
+      {
+        "type": "Fecha de fin de las obras",
+        "value": "Agosto 2016"
+      },
+      {
+        "type": "Empresas contratistas Obra Civil",
+        "value": "COARCO S.A., RIVA S.A. y ELEPRINT S.A."
+      },
+      {
+        "type": "Empresa contratista Infraestructura",
+        "value": "COARCO S.A."
+      },
+      {
+        "type": "Cantidad de viviendas",
+        "value": "628"
+      },
+      {
+        "type": "Cantidad de locales comerciales",
+        "value": "26"
+      },
+      {
+        "type": "Superficie del predio",
+        "value": "30 has"
+      }
+    ]
+  },
+  {
+    "id": 94,
+    "title": "Conjunto de viviendas ProCreAr Mendoza",
+    "code": "372",
+    "year": "2013",
+    "principal": "Rovella Carranza S.A.",
+    "type": ["Planes de vivienda"],
+    "location": "Provincia de Mendoza",
+    "tasks": [
+      "Realización del Proyecto de licitación, sobre la base del diseño preliminar realizado por el Banco Hipotecario como Fiduciario.",
+      "Viviendas individuales y viviendas colectivas"
+    ],
+    "description": "",
+    "size": "127700",
+    "images": [
+      "https://www.serra-arquitectos.com.ar/OP-372/11a83c_272e622f7c084c649a4a71ccfd16c1b5.webp",
+      "https://www.serra-arquitectos.com.ar/OP-372/11a83c_4bbb04b6a4da41cbad40691fe0500535.webp",
+      "https://www.serra-arquitectos.com.ar/OP-372/11a83c_544345e73e1143c798ab2008037f7c95.webp",
+      "https://www.serra-arquitectos.com.ar/OP-372/11a83c_755a9fcd51d24f739da609b66e42d7bb.webp",
+      "https://www.serra-arquitectos.com.ar/OP-372/11a83c_8367d51f26a24a7ea641cebbd5f49848.webp",
+      "https://www.serra-arquitectos.com.ar/OP-372/11a83c_982bfa8d23874620b01f04da6a6e9bb1.webp",
+      "https://www.serra-arquitectos.com.ar/OP-372/11a83c_a02fae3aa1044eaaaa4d868ad9c31e6b.webp",
+      "https://www.serra-arquitectos.com.ar/OP-372/11a83c_bfe5b24a194c4bf783f3802686ebbb2e.webp",
+      "https://www.serra-arquitectos.com.ar/OP-372/11a83c_c10c75746ea640efa5903ca63ca325ce.webp",
+      "https://www.serra-arquitectos.com.ar/OP-372/11a83c_e624c8e752064ce99963b13a9476c303.webp"
+    ],
+    "otherFields": [
+      {
+        "type": "Superficie del predio",
+        "value": "10 has"
+      },
+      {
+        "type": "Cantidad de viviendas",
+        "value": "2.200"
+      },
+      {
+        "type": "Cantidad de cocheras",
+        "value": "874"
+      }
+    ]
+  },
+  {
+    "id": 95,
+    "title": "Conjunto de viviendas ProCreAr La Matanza",
+    "code": "370",
+    "year": "2013",
+    "principal": "Green S.A.",
+    "type": ["Planes de vivienda"],
+    "location": "Ciudad Evita, La Matanza, Provincia Buenos Aires",
+    "tasks": [
+      "Realización del Proyecto de licitación, sobre la base del diseño preliminar realizado por el Banco Hipotecario como Fiduciario.",
+      "Viviendas individuales y viviendas colectivas"
+    ],
+    "description": "",
+    "size": "23500",
+    "images": [
+      "https://www.serra-arquitectos.com.ar/OP-370/11a83c_5125629d40a0445e8c16bb289b735108.webp",
+      "https://www.serra-arquitectos.com.ar/OP-370/11a83c_76af9773d62a4b0f9cdb2bac765e0761.webp",
+      "https://www.serra-arquitectos.com.ar/OP-370/11a83c_89e158f8807443dcbf6187b1863eb4ce.webp",
+      "https://www.serra-arquitectos.com.ar/OP-370/11a83c_deeb1b460fb94b728cb907417dc4aad5.webp",
+      "https://www.serra-arquitectos.com.ar/OP-370/11a83c_e8c67142c646405b9ecc73ee1942a858.webp"
+    ],
+    "otherFields": [
+      {
+        "type": "Superficie del predio",
+        "value": "7 has"
+      },
+      {
+        "type": "Cantidad de viviendas",
+        "value": "288"
+      }
+    ]
+  },
+  {
+    "id": 96,
+    "title": "Conjunto de viviendas ProCreAr San Nicolas",
+    "code": "368",
+    "year": "2013",
+    "principal": "Esuco S.A.",
+    "type": ["Planes de vivienda"],
+    "location": "San Nicolas, Provincia Buenos Aires",
+    "tasks": [
+      "Realización del Proyecto de licitación, sobre la base del diseño preliminar realizado por el Banco Hipotecario como Fiduciario.",
+      "Viviendas individuales y viviendas colectivas"
+    ],
+    "description": "",
+    "size": "77052",
+    "images": [
+      "https://www.serra-arquitectos.com.ar/OP-368/11a83c_3a7a5d8807bb4abba3ee0290bbf53f8a.webp",
+      "https://www.serra-arquitectos.com.ar/OP-368/11a83c_42fcec9077744d6aa5d1ccbff2ca2d74.webp",
+      "https://www.serra-arquitectos.com.ar/OP-368/11a83c_852432bab054454299c465781639db61.webp"
+    ],
+    "otherFields": [
+      {
+        "type": "Superficie del predio",
+        "value": "28 has"
+      },
+      {
+        "type": "Cantidad de viviendas",
+        "value": "955"
+      }
+    ]
+  },
+  {
+    "id": 97,
+    "title": "Conjunto de Viviendas ProCreAr Mendoza",
+    "code": "366",
+    "year": "2013",
+    "principal": "Rovella Carranza S.A.",
+    "type": ["Planes de vivienda"],
+    "location": "Predio Maipú II, Maipú, provincia Mendoza.",
+    "tasks": [
+      "Realización del Proyecto de licitación, sobre la base del diseño preliminar realizado por el Banco Hipotecario como Fiduciario.",
+      "Viviendas individuales y colectivas"
+    ],
+    "description": "",
+    "size": "75420",
+    "images": [
+      "https://www.serra-arquitectos.com.ar/OP-366/11a83c_7d31e8efd2f34bdd8cd240d5b2e373de.webp",
+      "https://www.serra-arquitectos.com.ar/OP-366/11a83c_a0c3a297711649319ade8d3dc7ac1f97.webp",
+      "https://www.serra-arquitectos.com.ar/OP-366/11a83c_c5899c6b1c894b8a885112d01b18f25c.webp"
+    ],
+    "otherFields": [
+      {
+        "type": "Superficie del predio",
+        "value": "30 has"
+      }
+    ]
+  },
+  {
+    "id": 98,
+    "title": "Conjunto de viviendas ProCreAr San Juan",
+    "code": "367",
+    "year": "2013",
+    "principal": "Rovella Carranza S.A.",
+    "type": ["Planes de vivienda"],
+    "location": "Predio Barrio Cerro Grande, Pocitos, Provincia San Juan.",
+    "tasks": [
+      "Realización del Proyecto de licitación, sobre la base del diseño preliminar realizado por el Banco Hipotecario como Fiduciario.",
+      "Viviendas individuales"
+    ],
+    "description": "",
+    "size": "31017",
+    "images": [
+      "https://www.serra-arquitectos.com.ar/OP-367/11a83c_6ab71d33bed54932a1906dbb475f15bb.webp",
+      "https://www.serra-arquitectos.com.ar/OP-367/11a83c_70b1206905ae4c4f9107b1cea1ff284e.webp",
+      "https://www.serra-arquitectos.com.ar/OP-367/11a83c_e0ad3822a3e24b6aa8bde8f1438b4e65.webp"
+    ],
+    "otherFields": [
+      {
+        "type": "Superficie del predio",
+        "value": "27,4 has"
+      },
+      {
+        "type": "Cantidad de viviendas",
+        "value": "468"
+      }
+    ]
+  },
+  {
+    "id": 99,
+    "title": "Urbanización CARBA S.A.",
+    "code": "331",
+    "year": "2005",
+    "principal": "C.A.R.B.A. S.A.",
+    "type": ["Planeamiento"],
+    "location": "Tandil. Pcia. de Buenos Aires.",
+    "tasks": ["Anteproyecto de Desarrollo Urbanístico."],
+    "description": "Los trabajos comprenden:\r\n\r\nAnteproyecto de Desarrollo Urbanístico, Estudios urbanísticos previos, Programa urbano y Factibilidad económica.\r\n\r\nEl conjunto se compone de 7 unidades barriales, Infraestructura vial y de servicios, Equipamiento comunitario, comercial y turístico.\r\nAsociados con Arq. F. Kocourek",
+    "size": "0",
+    "images": [
+      "https://www.serra-arquitectos.com.ar/OP-331/ada591_1c9bcea1ab3a4dc2a24695606f299112.webp",
+      "https://www.serra-arquitectos.com.ar/OP-331/ada591_5c9f1ee8129d4877884c947062fe7aeb.webp",
+      "https://www.serra-arquitectos.com.ar/OP-331/ada591_b2953532a6334c738b5b0b15e2f53341.webp"
+    ],
+    "otherFields": [
+      {
+        "type": "Área urbanizable",
+        "value": "475 has"
+      },
+      {
+        "type": "Area infraestructura",
+        "value": "74 has"
+      },
+      {
+        "type": "Area equipamientos",
+        "value": "242 has"
+      },
+      {
+        "type": "Areas parcelas residenciales",
+        "value": "160 has"
+      },
+      {
+        "type": "Cantidad parcelas Viv.",
+        "value": "1.856"
+      },
+      {
+        "type": "Habitantes",
+        "value": "11.1236"
+      },
+      {
+        "type": "Capacidad edificatoria",
+        "value": "724.000 m2"
+      }
+    ]
+  },
+  {
+    "id": 101,
+    "title": "Urbanización San Vicente\r\n",
+    "code": "292",
+    "year": "1998",
+    "principal": "Niro S.A. – Acerbi y Asoc",
+    "type": ["Planeamiento"],
+    "location": "Saavedra, Güemes, Rivadavia y El Litoral. San Vicente. Pcia. de Buenos Aires.",
+    "tasks": ["Anteproyecto Urbanístico."],
+    "description": "Los trabajos comprenden:\r\n\r\nEstudios del área de implantación. Programación, criterios de infraestructura, equipamientos y áreas residenciales.\r\n\r\nHipótesis de desarrollo y Análisis de factibilidad técnico- económico. Anteproyecto urbanístico.",
+    "size": "7000",
+    "images": [
+      "https://www.serra-arquitectos.com.ar/OP-292/ada591_79b4664031254a998272fd9e56e05c2a.webp",
+      "https://www.serra-arquitectos.com.ar/OP-292/ada591_7f6bdc2ba13a45b5be17f98d7dca028d.webp",
+      "https://www.serra-arquitectos.com.ar/OP-292/ada591_802003f5c11a49fb8291b3d0deabab7f.webp",
+      "https://www.serra-arquitectos.com.ar/OP-292/ada591_a040b4b0d00845e98a8bedfa655b30ee.webp"
+    ],
+    "otherFields": [
+      {
+        "type": "Area urbanizable",
+        "value": "6 has"
+      },
+      {
+        "type": "Area Infraestructura",
+        "value": "7.000 m2"
+      },
+      {
+        "type": "Area espacios verdes",
+        "value": "12.800 m2"
+      },
+      {
+        "type": "Area residencial",
+        "value": "39.200 m2"
+      },
+      {
+        "type": "Sup. construccion total",
+        "value": "6.240 m2"
+      },
+      {
+        "type": "Poblacion",
+        "value": "288 hab"
+      },
+      {
+        "type": "Viviendas",
+        "value": "48"
+      }
+    ]
+  },
+  {
+    "id": 102,
+    "title": "Urbanización Escobar",
+    "code": "28-95",
+    "year": "1995",
+    "principal": "Roger Rouges",
+    "type": ["Planeamiento"],
+    "location": "Ruta 9 Km 47,5 Escobar. Pcia. de Buenos Aires.",
+    "tasks": [
+      "Programación urbanística, Planificación del sitio y Anteproyecto Urbanístico."
+    ],
+    "description": "Los trabajos comprenden:\r\n\r\nConjunto compuesto por sector común con club house y deportes, área para viviendas individuales, área para viviendas colectivas, espacios verdes comunes, redes viales, bicisendas y circulaciones peatonales\r\n\r\nEl Master plan propuesto es el resultadode un análisis detallado de componentes económicos, técnicos y urbanos.\r\n\r\nLas pautas generales de diseño pretenden que la nueva urbanización contemple una fuerte relación con el medio natural circundante y una organización espacial creativa.\r\n\r\nLa nueva imagen urbana actúa como modelo para el mejoramiento de la calidad de vida de la población urbana y para una racional y eficiente utilización del medio, los equipamientos y la infraestructura.",
+    "size": "0",
+    "images": [
+      "https://www.serra-arquitectos.com.ar/OP-28-95/ada591_045b7627243440da9dbd539dd6fbe4e1.webp",
+      "https://www.serra-arquitectos.com.ar/OP-28-95/ada591_472c9472bc8d4d34a7e86dd1ef2d343f.webp",
+      "https://www.serra-arquitectos.com.ar/OP-28-95/ada591_4848e609c0334094827c9bda0439421b.webp",
+      "https://www.serra-arquitectos.com.ar/OP-28-95/ada591_9c97a93c370543e2acd2df1b74a6d3b3.webp"
+    ],
+    "otherFields": [
+      {
+        "type": "Area urbanizable",
+        "value": "54 has"
+      },
+      {
+        "type": "Area infraestructura",
+        "value": "56.800 m2"
+      },
+      {
+        "type": "Equip. y esp verdes",
+        "value": "221.660 m2"
+      },
+      {
+        "type": "Area residencial",
+        "value": "261.000 m2"
+      },
+      {
+        "type": "Parcelas",
+        "value": "302"
+      },
+      {
+        "type": "Sup. edificable",
+        "value": "58.000 m2"
+      },
+      {
+        "type": "Poblacion",
+        "value": "2.136 hab"
+      }
+    ]
+  },
+  {
+    "id": 103,
+    "title": "Urbanización Quaies",
+    "code": "250",
+    "year": "1994",
+    "principal": "Quaies S.A.",
+    "type": ["Planeamiento"],
+    "location": "Ruta Panamericana Km 16 Tigre. Pcia. de Buenos Aires.",
+    "tasks": ["Máster Plan del conjunto y Anteproyecto de arquitectura."],
+    "description": "Los trabajos comprenden:\r\n\r\nEl Máster Plan del conjunto y Anteproyecto de arquitectura para un Centro comercial, oficinas y viviendas colectivas.\r\n\r\nEl Master plan propuesto es el resultadode un análisis detallado de componentes económicos, técnicos y urbanos\r\n\r\nLos objetivos son los siguientes:\r\n\r\nMercado-Demanda a abastecer.\r\n\r\nDiseño de conjunto\r\n\r\nInfraestructura vial y de servicios\r\n\r\nCentro comercial\r\n\r\nOficinas\r\n\r\nViviendas\r\n\r\nAspectos económicos.",
+    "size": "0",
+    "images": [
+      "https://www.serra-arquitectos.com.ar/OP-250/ada591_22dfdd51f0a4456db6a6369f54297bee.webp",
+      "https://www.serra-arquitectos.com.ar/OP-250/ada591_497261a5855f479895fcf43376282185.webp",
+      "https://www.serra-arquitectos.com.ar/OP-250/ada591_4eb21bc469ff48b0894a26639d6b58be.webp",
+      "https://www.serra-arquitectos.com.ar/OP-250/ada591_5b906a328b8747bb8bc8b541d8507ffb.webp",
+      "https://www.serra-arquitectos.com.ar/OP-250/ada591_5dafafd448d6463cada7f3035360f555.webp",
+      "https://www.serra-arquitectos.com.ar/OP-250/ada591_6d99397686a645119933aec60d244e2b.webp",
+      "https://www.serra-arquitectos.com.ar/OP-250/ada591_7822eccbc6aa4202ad0359f67dab5710.webp",
+      "https://www.serra-arquitectos.com.ar/OP-250/ada591_79260364a07b449d8973e7ebf25eece0.webp",
+      "https://www.serra-arquitectos.com.ar/OP-250/ada591_9ab0b270e7c34d42b40948160ddd5261.webp",
+      "https://www.serra-arquitectos.com.ar/OP-250/ada591_a30add44ccfb46ebb197dd28df9b8179.webp",
+      "https://www.serra-arquitectos.com.ar/OP-250/ada591_c603ed37b58041769e1daa6030e45bc9.webp"
+    ],
+    "otherFields": [
+      {
+        "type": "Area Urbanizable",
+        "value": "11 has"
+      },
+      {
+        "type": "Area infraestructura",
+        "value": "25.380 m2"
+      },
+      {
+        "type": "Area equip. y esp verdes",
+        "value": "68.282 m2"
+      },
+      {
+        "type": "Area edificable",
+        "value": "14.828 m2"
+      },
+      {
+        "type": "Sup. total contruc.",
+        "value": "46.292 m2"
+      },
+      {
+        "type": "Sup. viviendas",
+        "value": "21.260 m2"
+      },
+      {
+        "type": "Sup. comercio",
+        "value": "10.246 m2"
+      },
+      {
+        "type": "Sup. oficinas",
+        "value": "14.786 m2"
+      },
+      {
+        "type": "Poblacion",
+        "value": "3.663 hab"
+      }
+    ]
+  },
+  {
+    "id": 104,
+    "title": "Urbanización Delta",
+    "code": "237",
+    "year": "1993",
+    "principal": "Coelho-Dujovne",
+    "type": ["Planeamiento"],
+    "location": "Río Luján, Tigre, provincia de Buenos Aires",
+    "tasks": [
+      "Estudio de factibilidad, programación y anteproyecto urbanístico."
+    ],
+    "description": "Los trabajos comprenden:\r\n\r\nEstudios del área de implantación, estudios de consolidación y vinculación.\r\n\r\nProgramación, criterios de infraestructura, equipamientos y áreas residenciales.\r\n\r\nHipótesis de desarrollo y Análisis de factibilidad técnico- económico.\r\n\r\nPrograma Urbano definitivo y anteproyecto urbanístico.\r\n\r\nEl estudio de factibilidad se apoyó en el uso de un modelo matemático que facilitó el análisis pormenorizado de diferentes variables en juego.\r\nAsociados con Arqs Dujovne-Hirsch",
+    "size": "0",
+    "images": [
+      "https://www.serra-arquitectos.com.ar/OP-237/ada591_0107c9b0d69b44c7a751cb0c235f2390.webp",
+      "https://www.serra-arquitectos.com.ar/OP-237/ada591_1a6bdbc463b3403587d5ed0eba4beb8d.webp",
+      "https://www.serra-arquitectos.com.ar/OP-237/ada591_288dccefa0824edab72f50a506097943.webp",
+      "https://www.serra-arquitectos.com.ar/OP-237/ada591_7927f463a8044ca58032c23a742719a4.webp"
+    ],
+    "otherFields": [
+      {
+        "type": "Area urbanizable",
+        "value": "450 has"
+      },
+      {
+        "type": "Area infraestructura",
+        "value": "88 has"
+      },
+      {
+        "type": "Area equipamiento",
+        "value": "154,6 has"
+      },
+      {
+        "type": "Area viviendas y comercio",
+        "value": "207,4 has"
+      },
+      {
+        "type": "Capac. Total edificable",
+        "value": "720.450 m2"
+      },
+      {
+        "type": "Poblacion",
+        "value": "13.300 hab"
+      },
+      {
+        "type": "Viviendas",
+        "value": "2.660"
+      },
+      {
+        "type": "Amarras",
+        "value": "1.450"
+      }
+    ]
+  },
+  {
+    "id": 105,
+    "title": "Milwakee Interntational City Design Competition",
+    "code": "16-89",
+    "year": "1989",
+    "principal": "School of Architecture and Urban Planning, University of Wisconsin. USA.",
+    "type": ["Planeamiento"],
+    "location": "Ciudad de Milwakee",
+    "tasks": ["Master Plan"],
+    "description": "El trabajo contempla la elaboración del Master Plan para tres sectores de la ciudad con una proyeccion a 30 años.\r\n\r\nSite Plan for Urban Center\r\n\r\nSite Plan for older neighborhood district.\r\n\r\nSite Plan for growing suburban edge district.",
+    "size": "0",
+    "images": [
+      "https://www.serra-arquitectos.com.ar/OP-16-89/ada591_20d1d140a2dd42adadf9ba41d7b5d218.webp",
+      "https://www.serra-arquitectos.com.ar/OP-16-89/ada591_494026b2dc3c4170adfff21e036405a2.webp",
+      "https://www.serra-arquitectos.com.ar/OP-16-89/ada591_944e80d1bf7d41708837536164dadf9f.webp",
+      "https://www.serra-arquitectos.com.ar/OP-16-89/ada591_b39141d21f71453cac5a237c96ff91c4.webp",
+      "https://www.serra-arquitectos.com.ar/OP-16-89/ada591_c7e913adafb2482b86bbe7eaf0b85473.webp"
+    ],
+    "otherFields": [
+      {
+        "type": "Poblacion involucrada",
+        "value": "1.100.000 hab"
+      },
+      {
+        "type": "Empleos terciarios",
+        "value": "550.000"
+      }
+    ]
+  },
+  {
+    "id": 106,
+    "title": "Proyecto de Desarrollo y Planificacion Fisica C.N.S.I.",
+    "code": "213",
+    "year": "1987",
+    "principal": "Club Naútico San Isidro.",
+    "type": ["Planeamiento"],
+    "location": "San Isidro, Pcia. de Buenos Aires.",
+    "tasks": ["Master plan y proyecto de desarrollo"],
+    "description": "Actualización de la planificación de 1973, análisis de la evolución, identificación de desajustes, diagnóstico de tendencias, proposiciones, ajuste del Master Plan y etapas de implementación.\r\n\r\nEl trabajo incluyó los anteproyectos de desarrollos sectoriales de infraestructura y equipamientos",
+    "size": "800000",
+    "images": [
+      "https://www.serra-arquitectos.com.ar/OP-213/ada591_6ddb739575b149b391ba734b3e527d4a.webp",
+      "https://www.serra-arquitectos.com.ar/OP-213/ada591_7b2ace785add472995895271da6aaf55.webp",
+      "https://www.serra-arquitectos.com.ar/OP-213/ada591_7fbe394018dc49f6b4878a0cb61ec414.webp",
+      "https://www.serra-arquitectos.com.ar/OP-213/ada591_dc0c3049d74a49888287b023f0b7eefb.webp"
+    ],
+    "otherFields": []
+  },
+  {
+    "id": 107,
+    "title": "Extensión del Área Central de Buenos Aires",
+    "code": "198",
+    "year": "1981",
+    "principal": "Municipalidad de la Ciudad de Bs. As.",
+    "type": ["Planeamiento"],
+    "location": "Buenos Aires",
+    "tasks": [
+      "Proyecto urbanistico y estudio de factibilidad técnica-económica"
+    ],
+    "description": "Este proyecto constituye un estudio integral en busca de soluciones aptas para la expansión del área central de la ciudad, constituyendo el primer trabajo completo sobre el tema, analizándose y ponderándose los antecedentes existentes sobre el posible desarrollo del área central.\r\n\r\nLos estudios de base y programación\r\n\r\nUna profunda indagación de la estructura del Área Central, de sus necesidades presentes y futuras, de las posibles áreas de expansión y de estudios sobre la trama urbana existente, confirmaron la necesidad de expansión del área central hacia el este como la solución óptima, fundamentada y racionalmente establecida.\r\n\r\nEl análisis pormenorizado sobre el crecimiento de los empleos terciarios, de los equipamientos necesarios para su desenvolvimiento y de las posibilidades de absorción de los mismos por el área central, dimensionaron la capacidad y los usos a asignar al proyecto de expansión realizado.\r\n\r\nEl programa significó un asentamiento de 135.000 empleos terciarios, 50.000 residentes, una edificación de cerca de 5.000.000 m2 y un público inducido de alrededor de 500.000 personas.\r\n\r\nEl partido urbano y redes de circulación\r\n\r\nSe planteó la extensión sobre los terrenos de puerto Madero, los más próximos al área central existente, y un parque central a escala de la ciudad sobre terrenos ganados al río. El casco urbano, netamente definido, abarca de Norte a Sur toda la extensión de los diques constituyendo la sede del conjunto de empleos terciarios y vivienda.\r\n\r\nEl proyecto plantea salvar todas las barreras que separan el casco actual con el área de expansión, quedando entrelazado con el área central existente por la continuación de las grandes avenidas de la ciudad que continúan y penetran en el gran parque metropolitano..\r\n\r\nTrasversalmente a estas, de Norte a Sur, se plantea la autopista ribereña planteada en trinchera, facilitando la clara comunicación hacia las áreas nuevas y lleva en un carril exclusivo la futura traza del RER, vinculando retiro y constitución.\r\n\r\nLuego la línea de antiguos edificios de depósitos del puerto debidamente reciclados, como equipamientos básicos para el área central y su expansión.\r\n\r\nAl este de los mismos los espejos de agua de los diques con sus correspondientes equipamientos náuticos y las 8 torres que los enmarcan.\r\n\r\nLuego el casco urbano nuevo vinculado de norte a sur por 5 calles vehiculares y una peatonal, del ancho de la Av. de Mayo, que lo recorre en toda su extensión y reúne la mayoría de los equipamientos comerciales. Bajo dicha peatonal se halla una extensión del subterráneo vinculada a las líneas existentes, asegurando de esta manera la necesaria accesibilidad y la unidad con el área urbana existente.\r\n\r\nTres grandes plazas con estacionamientos en los subsuelos se sitúan en lugares estratégicos de la trama urbana que se forma con un amanzanamiento semejante al tradicional, con centros de manzana regulares y liberados al uso público y aceras protegidas por recovas en todas las manzanas. La altura de edificios manzana es de 7 pisos para las calles y 11 pisos para la peatonal\r\n\r\nEl gran parque central con 600 Hs se constituye como un pulmón verde a escala ciudad, vinculado al rio, con lagos interiores y conteniendo los grandes equipamientos a nivel metropolitano, tales como el Auditorio, el Centro de exposiciones, el Museo metropolitano. etc.\r\n\r\nTodo el conjunto se halla equilibrado sobre el eje central, continuación de la Av. de Mayo que desde la casa de gobierno se presenta como un gran Mall abierto hasta el horizonte del rio.\r\n\r\nLos trabajos efectuados comprenden:\r\n\r\nEstudios urbanos sobre el crecimiento y las proyecciones de la ciudad de Buenos Aires.\r\n\r\nEstudios técnicos sobre el área de extensión.\r\n\r\nHipótesis de desarrollos posibles, programación urbana, alternativas físicas de desarrollo.\r\n\r\nEjecución del Proyecto Urbanístico y los aspectos técnicos.\r\n\r\nEstrategia de implementación, y el desarrollo en el tiempo.\r\n\r\nFactibilidad económica del proyecto.\r\n\r\nA los efectos de la factibilidad física y económica se usaron modelos matemáticos para el procesamiento de los datos urbanos involucrados.\r\n\r\nPara la realización de los trabajos se conformó un equipo multidisciplinario en las especialidades de estimaciones demográficas, diagnostico y programación urbanística, transporte, infraestructura vial, de servicios, suelos, defensas costeras, estudios hidráulicos, estudios de economía urbana, modelización, análisis de sistemas y factibilidad económica",
+    "size": "5000000",
+    "images": [
+      "https://www.serra-arquitectos.com.ar/OP-198/ada591_3b582dfa70484100a2ed1b973e8b6421.webp",
+      "https://www.serra-arquitectos.com.ar/OP-198/ada591_5dc48334da1a4d02be72341bace73394.webp",
+      "https://www.serra-arquitectos.com.ar/OP-198/ada591_6d137d4ad0734e98a6e3a554089caac5.webp",
+      "https://www.serra-arquitectos.com.ar/OP-198/ada591_7f298e05623c43b4993e6a4d2727c270.webp",
+      "https://www.serra-arquitectos.com.ar/OP-198/ada591_868ff79a0a974a86b339c79955d56ca7.webp",
+      "https://www.serra-arquitectos.com.ar/OP-198/ada591_bb66c1d1ec6a449f89e56df765258fa2.webp",
+      "https://www.serra-arquitectos.com.ar/OP-198/ada591_f8a87865d45e40f588b2630ffa0a6df4.webp",
+      "https://www.serra-arquitectos.com.ar/OP-198/ada591_fa79d224f74544cbac4a2469916eb9ce.webp"
+    ],
+    "otherFields": [
+      {
+        "type": "Superficie urbana",
+        "value": "800 has"
+      },
+      {
+        "type": "Las magnitudes del Proyecto Urbanístico",
+        "value": "Ocupacion del suelo"
+      },
+      {
+        "type": "Área total de expansión urbana",
+        "value": "800 has"
+      },
+      {
+        "type": "Areas existentes",
+        "value": "220 has"
+      },
+      {
+        "type": "Areas ganadas al rio",
+        "value": "580 has"
+      },
+      {
+        "type": "Areas de infraestructura",
+        "value": "92,5 has"
+      },
+      {
+        "type": "Espacios verdes publicos",
+        "value": "589,6 has"
+      },
+      {
+        "type": "Equipamiento priv. y viviendas",
+        "value": "117 has"
+      },
+      {
+        "type": "Capacidad construccion total",
+        "value": "5.740.600 m2"
+      },
+      {
+        "type": "Estacionamientos publicos",
+        "value": "215.600 m2"
+      },
+      {
+        "type": "Equipamiento municipal",
+        "value": "198.500 m2"
+      },
+      {
+        "type": "Areas destinadas a la venta",
+        "value": "5.389.270 m2"
+      },
+      {
+        "type": "Poblacion residente",
+        "value": "50.000 hab"
+      },
+      {
+        "type": "Empleos terciarios",
+        "value": "135.026 hab."
+      },
+      {
+        "type": "Total",
+        "value": "185.026 hab"
+      },
+      {
+        "type": "Poblacion inducida",
+        "value": "500.000 pers"
+      },
+      {
+        "type": "Densidad media",
+        "value": "231 hab/ha"
+      }
+    ]
+  },
+  {
+    "id": 108,
+    "title": "Factibilidad Extensión Ciudad de Esmeraldas, Ecuador",
+    "code": "168",
+    "year": "1978",
+    "principal": "Techint - Interlatina Consultora",
+    "type": ["Planeamiento"],
+    "location": "Islas Piedad, Prado y Guerrero Esmeraldas. Ecuador.",
+    "tasks": ["Planeamiento y estudio de factibilidad técnico-económico."],
+    "description": "Planeamiento y estudio de factibilidad\r\n\r\ntécnico-económico para la incorporación\r\n\r\nde las islas Piedad, Prado y Guerrero al\r\n\r\nárea Metropolitana de la Ciudad de Esmeraldas, determinando la capacidad máxima de poblacion a radicar hasta el año 2000.\r\n\r\nEl trabajo incluyó los estudios urbanísticos,\r\n\r\nsocioeconómicos, técnicos de consolidación del área y vinculación, formulación\r\n\r\nde un modelo matemático urbano, físico y\r\n\r\neconómico para estudio de la altemativa factible.\r\n\r\nSe trabajó con un equipo multidisciplinario\r\n\r\ncompuesto por especialistas en aspectos\r\n\r\nsocio-demográficos, legales, económicos, hidraúlicos, consolidación del suelo, infraestructura urbana y presupuestos.\r\n\r\nEl área de incorporación urbana comprende:\r\n\r\n337 Has, 1.292.000 m2. de áreas de infraestructura, 1.102.000 m2. de áreas para equipamiento y espacios verdes, 970.000 m2. de áreas residenciales, 1.367.000 m2. de superficie edificable y 80.000 hab. de población a radicar.",
+    "size": "1292000",
+    "images": [
+      "https://www.serra-arquitectos.com.ar/OP-168/ada591_2fb3cd6f30f84db8b48e2ed4e18545c7.webp",
+      "https://www.serra-arquitectos.com.ar/OP-168/ada591_40153601e1ee46229a3fcd3dd01ef79b.webp",
+      "https://www.serra-arquitectos.com.ar/OP-168/ada591_f18f668b85e444c8a957f77e7e4daff3.webp"
+    ],
+    "otherFields": []
+  },
+  {
+    "id": 110,
+    "title": "Vivienda Rial",
+    "code": "420",
+    "year": "2021",
+    "principal": "Ximena Rial",
+    "type": ["Viviendas Individuales"],
+    "location": "Palermo, CABA",
+    "tasks": ["Remodelacion"],
+    "description": "",
+    "size": "0",
+    "images": [],
+    "otherFields": []
+  },
+  {
+    "id": 112,
+    "title": "TRANSPORTE CENTRO DE FRONTERA",
+    "code": "422",
+    "year": "2021",
+    "principal": "Ministerio del interior",
+    "type": ["Seguridad", "Administrativo"],
+    "location": "Los Horcones-Departamento Las Heras – Provincia de Mendoza",
+    "tasks": "",
+    "description": "Servicios de Inspección para la Obra “Proyecto Renovación, Ampliación y Modernización del Centro de Frontera.\r\nAsociado con LatinoConsult",
+    "size": "2800",
+    "images": [],
+    "otherFields": []
+  },
+  {
+    "id": 113,
+    "title": "Centro penitenciario provincial de Chalican, Jujuy",
+    "code": "423",
+    "year": "2021",
+    "principal": "Jumi - Para Gobierno provincial de Jujuy, Ministerio de Seguridad",
+    "type": ["Seguridad"],
+    "location": "Chalican, Jujuy",
+    "tasks": [
+      "Realización de Anteproyecto de  licitación",
+      "Proyecto Ejecutivo y  Asistencia Técnica durante la construcción de las obras."
+    ],
+    "description": "Análisis de la información y estudios Previos, Anteproyecto y Proyecto completo de Arquitectura y especialidades: estructuras, inst. sanitaria, temo mecánica, incendio, seguridad y paisajismo,",
+    "size": "13000",
+    "images": [],
+    "otherFields": []
+  },
+  {
+    "id": 114,
+    "title": "Conjunto de Viviendas Pro.Cre.Ar Berazategui",
+    "code": "424",
+    "year": "2021",
+    "principal": "Banco Hipotecario Nacional",
+    "type": ["Planes de vivienda"],
+    "location": "Berazategui, Buenos Aires",
+    "tasks": [
+      "Proyecto ejecutivo de desarrollos urbanísticos del programa procrear ii"
+    ],
+    "description": "Relevamiento, análisis de la infor-mación y estudios Previos, Ante-proyecto y Proyecto completo de Arquitectura y especialidades: es-tructuras, inst. sanitaria, temomecá-nica, incendio y paisajismo. Realiza-ción del estudio de impacto ambien-tal y del informe económico de paisajismo ",
+    "size": "90580",
+    "images": [
+      "https://www.serra-arquitectos.com.ar/OP-424/1.webp",
+      "https://www.serra-arquitectos.com.ar/OP-424/2.webp",
+      "https://www.serra-arquitectos.com.ar/OP-424/3.webp",
+      "https://www.serra-arquitectos.com.ar/OP-424/4.webp",
+      "https://www.serra-arquitectos.com.ar/OP-424/10_1-Photo.webp",
+      "https://www.serra-arquitectos.com.ar/OP-424/10_2-Photo.webp",
+      "https://www.serra-arquitectos.com.ar/OP-424/10_3-Photo.webp",
+      "https://www.serra-arquitectos.com.ar/OP-424/36_1-Photo.webp",
+      "https://www.serra-arquitectos.com.ar/OP-424/36_2-Photo.webp",
+      "https://www.serra-arquitectos.com.ar/OP-424/36_5-Photo.webp",
+      "https://www.serra-arquitectos.com.ar/OP-424/36_6-Photo.webp",
+      "https://www.serra-arquitectos.com.ar/OP-424/36_7-Photo.webp",
+      "https://www.serra-arquitectos.com.ar/OP-424/36_8-Photo.webp",
+      "https://www.serra-arquitectos.com.ar/OP-424/36_9-Photo.webp",
+      "https://www.serra-arquitectos.com.ar/OP-424/38_24-Photo.webp",
+      "https://www.serra-arquitectos.com.ar/OP-424/40_26-Photo.webp",
+      "https://www.serra-arquitectos.com.ar/OP-424/40_28-Photo.webp",
+      "https://www.serra-arquitectos.com.ar/OP-424/45.webp",
+      "https://www.serra-arquitectos.com.ar/OP-424/46.webp",
+      "https://www.serra-arquitectos.com.ar/OP-424/47.webp",
+      "https://www.serra-arquitectos.com.ar/OP-424/48.webp",
+      "https://www.serra-arquitectos.com.ar/OP-424/49.webp",
+      "https://www.serra-arquitectos.com.ar/OP-424/50.webp",
+      "https://www.serra-arquitectos.com.ar/OP-424/51.webp",
+      "https://www.serra-arquitectos.com.ar/OP-424/52.webp",
+      "https://www.serra-arquitectos.com.ar/OP-424/53.webp"
+    ],
+    "otherFields": [
+      {
+        "type": "Torres de vivienda",
+        "value": "18"
+      },
+      {
+        "type": "Viviendas individuales",
+        "value": "218"
+      }
+    ]
+  },
+  {
+    "id": 115,
+    "title": "Conjunto de Viviendas Pro.Cre.Ar Santa Rosa",
+    "code": "425",
+    "year": "2021",
+    "principal": "Banco Hipotecario Nacional",
+    "type": ["Planes de vivienda"],
+    "location": "Santa Rosa, La Pampa",
+    "tasks": [
+      "Servicios de consultoría.",
+      "Manteni-miento de stock de viviendas."
+    ],
+    "description": "",
+    "size": "0",
+    "images": [],
+    "otherFields": []
+  },
+  {
+    "id": 116,
+    "title": "Conjunto de Viviendas Pro.Cre.Ar Berazategui y El Palomar",
+    "code": "427",
+    "year": "2021",
+    "principal": "Banco Hipotecario Nacional",
+    "type": ["Planes de vivienda"],
+    "location": "Buenos Aires",
+    "tasks": [
+      "Realización de la Dirección de Obras de la infraestructura de servicios pluviales."
+    ],
+    "description": "",
+    "size": "309400",
+    "images": [],
+    "otherFields": []
+  },
+  {
+    "id": 117,
+    "title": "Banco Santander Rio",
+    "code": "428",
+    "year": "2021",
+    "principal": "Banco Santander Rio",
+    "type": ["Administrativo"],
+    "location": "Tandil, Buenos Aires",
+    "tasks": [
+      "Operativos de Banca Automática.",
+      "Coordinación de rubros intervinientes y supervisión de las tareas.",
+      "Confección de planos de relevamiento, planos de propuesta, y planos conforme a obra"
+    ],
+    "description": "",
+    "size": "7",
+    "images": [],
+    "otherFields": []
+  },
+  {
+    "id": 118,
+    "title": "Escuela de Danza",
+    "code": "429",
+    "year": "2021",
+    "principal": "Flia Battisti",
+    "type": ["Deportivo + Recreativo"],
+    "location": "Flores, CABA",
+    "tasks": ["Proyecto, Dirección y Administración de obra"],
+    "description": "",
+    "size": "87",
+    "images": [
+      "https://www.serra-arquitectos.com.ar/OP-429/01.jpg",
+      "https://www.serra-arquitectos.com.ar/OP-429/02.jpeg",
+      "https://www.serra-arquitectos.com.ar/OP-429/03.jpeg",
+      "https://www.serra-arquitectos.com.ar/OP-429/04.jpeg",
+      "https://www.serra-arquitectos.com.ar/OP-429/Captura.jpg",
+      "https://www.serra-arquitectos.com.ar/OP-429/Captura3.jpg",
+      "https://www.serra-arquitectos.com.ar/OP-429/Captura6b.jpg",
+      "https://www.serra-arquitectos.com.ar/OP-429/WhatsApp-Image-2022-03-03-1.jpeg"
+    ],
+    "otherFields": []
+  },
+  {
+    "id": 119,
+    "title": "Conjunto de Viviendas Pro.Cre.Ar Wilde",
+    "code": "430",
+    "year": "2022",
+    "principal": "Banco Hipotecario Nacional",
+    "type": ["Viviendas Colectivas"],
+    "location": "Wilde, Avellaneda",
+    "tasks": [
+      "Proyecto ejecutivo de desarrollos urbanísticos del programa procrear ii."
+    ],
+    "description": "Relevamiento, análisis de la información y estudios Previos, Anteproyecto y Proyecto completo de Arquitectura y especialidades: estructuras, inst. sanitaria, temomecánica, incendio y paisajismo. Realización del estudio de impacto ambiental y del informe económico.",
+    "size": "38500",
+    "images": [
+      "https://www.serra-arquitectos.com.ar/OP-430/2.webp",
+      "https://www.serra-arquitectos.com.ar/OP-430/Aerea.webp",
+      "https://www.serra-arquitectos.com.ar/OP-430/interior.webp",
+      "https://www.serra-arquitectos.com.ar/OP-430/Peatona-Amarillo-Bordo.webp",
+      "https://www.serra-arquitectos.com.ar/OP-430/Peatonal-Amarillo-Huevo.webp"
+    ],
+    "otherFields": [
+      {
+        "type": "Torres",
+        "value": "8"
+      }
+    ]
+  },
+  {
+    "id": 120,
+    "title": "Conjunto de Viviendas Pro.Cre.Ar Gral Rodriguez",
+    "code": "431",
+    "year": "2022",
+    "principal": "Banco Hipotecario Nacional",
+    "type": ["Planes de vivienda"],
+    "location": "Gral Rodriguez, Buenos Aires",
+    "tasks": [
+      "Elaboración de Anteproyecto de Infraestructuras de Servicios y Espacio Público de Desarrollos Urbanísticos del Programa pro.cre.ar II"
+    ],
+    "description": "",
+    "size": "66700",
+    "images": [],
+    "otherFields": []
+  },
+  {
+    "id": 121,
+    "title": "Conjunto de Viviendas Pro.Cre.Ar Malvinas Argentinas",
+    "code": "432",
+    "year": "2022",
+    "principal": "Banco Hipotecario Nacional",
+    "type": ["Planes de vivienda"],
+    "location": "Malvinas Argentinas, Buenos Aires",
+    "tasks": [
+      "Elaboración de Anteproyecto de Infraestructuras de Servicios y Espacio Público de Desarrollos Urbanísticos del Programa pro.cre.ar II"
+    ],
+    "description": "",
+    "size": "32000",
+    "images": [],
+    "otherFields": []
+  },
+  {
+    "id": 122,
+    "title": "Oficinas IFF",
+    "code": "433",
+    "year": "2022",
+    "principal": "IFF International Flavors & Fragrances Argentina",
+    "type": ["Administrativo"],
+    "location": "Garin, Buenos Aires",
+    "tasks": [
+      "Relevamiento, análisis de la información y estudios Previos.",
+      "Anteproyecto de Arquitectura y especialidades: estructuras, instalación sanitaria, termomecánica, incendio y paisajismo."
+    ],
+    "description": "",
+    "size": "3000",
+    "images": [
+      "https://www.serra-arquitectos.com.ar/OP-433/UPU-IFF-EXTERIOR01.webp",
+      "https://www.serra-arquitectos.com.ar/OP-433/UPU-IFF-EXTERIOR02.webp",
+      "https://www.serra-arquitectos.com.ar/OP-433/UPU-IFF-EXTERIOR04-2.webp",
+      "https://www.serra-arquitectos.com.ar/OP-433/UPU-IFF-EXTERIOR07.webp",
+      "https://www.serra-arquitectos.com.ar/OP-433/UPU-IFF-EXTERIOR08.webp",
+      "https://www.serra-arquitectos.com.ar/OP-433/UPU-IFF-INTERIOR-COBR-01.webp",
+      "https://www.serra-arquitectos.com.ar/OP-433/UPU-IFF-INTERIOR-HALL-01.webp",
+      "https://www.serra-arquitectos.com.ar/OP-433/UPU-IFF-INTERIOR-HALL-03.webp",
+      "https://www.serra-arquitectos.com.ar/OP-433/UPU-IFF-INTERIOR-KITCH-02.webp",
+      "https://www.serra-arquitectos.com.ar/OP-433/UPU-IFF-INTERIOR-KITCH-04.webp",
+      "https://www.serra-arquitectos.com.ar/OP-433/UPU-IFF-INTERIOR-OFFICE-01.webp",
+      "https://www.serra-arquitectos.com.ar/OP-433/UPU-IFF-INTERIOR-OFFICE-04.webp",
+      "https://www.serra-arquitectos.com.ar/OP-433/UPU-IFF-INTERIOR-OFFICE-06.webp",
+      "https://www.serra-arquitectos.com.ar/OP-433/UPU-IFF-INTERIOR-OFFICE-07.webp"
+    ],
+    "otherFields": []
+  },
+  {
+    "id": 123,
+    "title": "ISSyS Comodoro Rivadaria",
+    "code": "434",
+    "year": "2022",
+    "principal": "GRESUCO",
+    "type": ["Administrativo"],
+    "location": "Comodoro Rivadavia, Chubut",
+    "tasks": [
+      "Confección del proyecto ejecutivo de la remodelación y ampliación sede administrativa, servicios médicos  y albergue de afiliados."
+    ],
+    "description": "Realización de Proyecto Ejecutivo y Asistencia Técnica durante la construcción de las obras. Análisis de la información y Estudios Previos, Proyecto completo de Arquitectura y Especialidades: estructuras, instalación sanitaria, termomecánica, incendio, seguridad y paisajismo",
+    "size": "4380",
+    "images": [],
+    "otherFields": []
+  },
+  {
+    "id": 124,
+    "title": "Edificio de Sabores IFF",
+    "code": "435",
+    "year": "2022",
+    "principal": "IFF International Flavors & Fragrances Argentina",
+    "type": ["Administrativo"],
+    "location": "Garin, Buenos Aires",
+    "tasks": [
+      "Proyecto de remodelación y refuncionalización del Edificio de Sabores."
+    ],
+    "description": "",
+    "size": "1200",
+    "images": [],
+    "otherFields": []
+  },
+  {
+    "id": 125,
+    "title": "Obras menores IFF",
+    "code": "436",
+    "year": "2022",
+    "principal": "IFF International Flavors & Fragrances Argentina",
+    "type": ["Adminstrativo"],
+    "location": "Garin, Buenos Aires",
+    "tasks": [
+      "Dirección de obras menores de refuncionalización de los sectores de la planta."
+    ],
+    "description": "",
+    "size": "5000",
+    "images": [],
+    "otherFields": []
+  },
+  {
+    "id": 126,
+    "title": "Playas de Acarreo",
+    "code": "437",
+    "year": "2022",
+    "principal": "B.R.D",
+    "type": ["Administrativo"],
+    "location": "Zona Sur: Obelisco y Tacuarí, Zona Norte: Chacarita y Couture, Zona Oeste: Dávila y Av. Rivadavia",
+    "tasks": [
+      "Proyecto de licitación de los edificios de servicios y las playas de estacionamiento."
+    ],
+    "description": "",
+    "size": "34000",
+    "images": [
+      "https://www.serra-arquitectos.com.ar/OP-437/PREDIO-CHACARITA_C01_04.webp",
+      "https://www.serra-arquitectos.com.ar/OP-437/PREDIO-CHACARITA_C02_04.webp",
+      "https://www.serra-arquitectos.com.ar/OP-437/PREDIO-CHACARITA_C03_04.webp",
+      "https://www.serra-arquitectos.com.ar/OP-437/PREDIO-COURTURE_C01_04.webp",
+      "https://www.serra-arquitectos.com.ar/OP-437/PREDIO-COURTURE_C02_04.webp",
+      "https://www.serra-arquitectos.com.ar/OP-437/PREDIO-COURTURE_C03_04.webp",
+      "https://www.serra-arquitectos.com.ar/OP-437/PREDIO-OBELISCO_C01_04.webp",
+      "https://www.serra-arquitectos.com.ar/OP-437/PREDIO-OBELISCO_C02_04.webp",
+      "https://www.serra-arquitectos.com.ar/OP-437/PREDIO-OBELISCO_C03_04.webp",
+      "https://www.serra-arquitectos.com.ar/OP-437/PREDIO-TACUARI_C01_04.webp",
+      "https://www.serra-arquitectos.com.ar/OP-437/PREDIO-TACUARI_C02_04.webp",
+      "https://www.serra-arquitectos.com.ar/OP-437/PREDIO-TACUARI_C03_04.webp",
+      "https://www.serra-arquitectos.com.ar/OP-437/PREDIO-TACUARI_C04_04.webp"
+    ],
+    "otherFields": [
+      {
+        "type": "Superficie Edificios",
+        "value": "3.109 m2"
+      },
+      {
+        "type": "Superficie Estacionamiento",
+        "value": "28.541 m2"
+      },
+      {
+        "type": "Superficies Peatonales y Protos",
+        "value": "2.363 m2"
+      }
+    ]
+  },
+  {
+    "id": 127,
+    "title": "Refaccion Vivienda Nicolas Serra",
+    "code": "438",
+    "year": "2022",
+    "principal": "Nicolas Serra",
+    "type": ["Viviendas Individuales"],
+    "location": "Recoleta, CABA",
+    "tasks": ["Proyecto, Dirección y Administración de obra de remodelación"],
+    "description": "",
+    "size": "130",
+    "images": [],
+    "otherFields": []
+  },
+  {
+    "id": 128,
+    "title": "Conjunto de Viviendas Pro.Cre.Ar Wilde",
+    "code": "439",
+    "year": "2022",
+    "principal": "Banco Hipotecario Nacional",
+    "type": ["Planes de vivienda"],
+    "location": "Wilde, Argentina",
+    "tasks": ["Dirección de Obras"],
+    "description": "",
+    "size": "38500",
+    "images": [],
+    "otherFields": [
+      {
+        "type": "Torres",
+        "value": "8"
+      }
+    ]
+  },
+  {
+    "id": 129,
+    "title": "PUESTA EN VALOR DEL HOTEL N°5 DEL COMPLEJO UNIDAD TURISTICA EMBALSE, Patrimonio Nacional",
+    "code": "440",
+    "year": "2022",
+    "principal": "Ministerio de Turismo y Deportes de Nación",
+    "type": ["Turismo"],
+    "location": "Embalse Rio III, Córdoba",
+    "tasks": [
+      "Relevamiento, análisis de la información, estudios previos y realización del Anteproyecto de Arquitectura y especialidades: estructuras, instalación sanitaria, termomecánica e incendio para la puesta en valor del Hotel, que es patrimonio nacional"
+    ],
+    "description": "",
+    "size": "11640",
+    "images": [
+      "https://www.serra-arquitectos.com.ar/OP-440/EXT-1.webp",
+      "https://www.serra-arquitectos.com.ar/OP-440/Image-03.webp",
+      "https://www.serra-arquitectos.com.ar/OP-440/Image-08.webp",
+      "https://www.serra-arquitectos.com.ar/OP-440/Image-09.webp"
+    ],
+    "otherFields": []
+  },
+  {
+    "id": 130,
+    "title": "Conjunto de Viviendas Pro.Cre.Ar Martin Coronado",
+    "code": "441",
+    "year": "2022",
+    "principal": "Banco Hipotecario Nacional",
+    "type": ["Planes de vivienda"],
+    "location": "Martin Coronado, Tres de Febrero, Buenos Aires",
+    "tasks": ["Dirección de Obras"],
+    "description": "",
+    "size": "37800",
+    "images": [
+      "https://www.serra-arquitectos.com.ar/OP-441/1-ProCreAr-Martin-Coronado.webp",
+      "https://www.serra-arquitectos.com.ar/OP-441/2-ProCreAr-Martin-Coronado.webp",
+      "https://www.serra-arquitectos.com.ar/OP-441/3-ProCreAr-Martin-Coronado.webp",
+      "https://www.serra-arquitectos.com.ar/OP-441/4-ProCreAr-Martin-Coronado.webp",
+      "https://www.serra-arquitectos.com.ar/OP-441/5-ProCreAr-Martin-Coronado.webp",
+      "https://www.serra-arquitectos.com.ar/OP-441/6-ProCreAr-Martin-Coronado.webp",
+      "https://www.serra-arquitectos.com.ar/OP-441/7-ProCreAr-Martin-Coronado.webp",
+      "https://www.serra-arquitectos.com.ar/OP-441/8-ProCreAr-Martin-Coronado.webp",
+      "https://www.serra-arquitectos.com.ar/OP-441/9-ProCreAr-Martin-Coronado.webp",
+      "https://www.serra-arquitectos.com.ar/OP-441/10-ProCreAr-Martin-Coronado.webp",
+      "https://www.serra-arquitectos.com.ar/OP-441/11-ProCreAr-Martin-Coronado.webp"
+    ],
+    "otherFields": [
+      {
+        "type": "Torres",
+        "value": "14"
+      },
+      {
+        "type": "Viviendas",
+        "value": "389"
+      },
+      {
+        "type": "Locales comerciales",
+        "value": "14"
+      }
+    ]
+  },
+  {
+    "id": 131,
+    "title": "Conjunto de Viviendas Pro.Cre.Ar General Pico",
+    "code": "442",
+    "year": "2022",
+    "principal": "Banco Hipotecario Nacional",
+    "type": ["Planes de vivienda"],
+    "location": "General Pico, La Pampa",
+    "tasks": ["Dirección de Obras"],
+    "description": "",
+    "size": "15095",
+    "images": [
+      "https://www.serra-arquitectos.com.ar/OP-442/04_LP-Gral-Pico_ ANEXO-ARQ_RENDER-EXT-04.jpg"
+    ],
+    "otherFields": [
+      {
+        "type": "Viviendas",
+        "value": "198"
+      }
+    ]
+  },
+  {
+    "id": 132,
+    "title": "Conjunto de Viviendas Pro.Cre.Ar Santa Rosa",
+    "code": "443",
+    "year": "2022",
+    "principal": "Banco Hipotecario Nacional",
+    "type": ["Planes de vivienda"],
+    "location": "Santa Rosa, La Pampa",
+    "tasks": ["Dirección de Obras"],
+    "description": "",
+    "size": "14100",
+    "images": [
+      "https://www.serra-arquitectos.com.ar/OP-443/SANTA-ROSA_LA-PAMPA_ANEXO-COMPLEMENTARIO_RENDER-Ext-04.webp",
+      "https://www.serra-arquitectos.com.ar/OP-443/SANTA-ROSA_LA-PAMPA_ANEXO-COMPLEMENTARIO_RENDER-Ext-07.webp",
+      "https://www.serra-arquitectos.com.ar/OP-443/SANTA-ROSA_LA-PAMPA_ANEXO-COMPLEMENTARIO_RENDER-Int-02.webp",
+      "https://www.serra-arquitectos.com.ar/OP-443/SANTA-ROSA_LA-PAMPA_ANEXO-COMPLEMENTARIO_RENDER-Int-03.webp",
+      "https://www.serra-arquitectos.com.ar/OP-443/SANTA-ROSA_LA-PAMPA_ANEXO-COMPLEMENTARIO_RENDER-Int-04.webp"
+    ],
+    "otherFields": [
+      {
+        "type": "Viviendas",
+        "value": "389"
+      }
+    ]
+  },
+  {
+    "id": 133,
+    "title": "Conjunto de Viviendas Pro.Cre.Ar Toay",
+    "code": "444",
+    "year": "2022",
+    "principal": "Banco Hipotecario Nacional",
+    "type": ["Planes de vivienda"],
+    "location": "Toay, La Pampa",
+    "tasks": ["Dirección de Obras"],
+    "description": "",
+    "size": "21550",
+    "images": [
+      "https://www.serra-arquitectos.com.ar/OP-444/TOAY_LA-PAMPA_ANEXO-ARQUITECTURA_RENDER-CASA-Int-04.webp",
+      "https://www.serra-arquitectos.com.ar/OP-444/TOAY_LA-PAMPA_ANEXO-ARQUITECTURA_RENDER-CASA-Int-05.webp",
+      "https://www.serra-arquitectos.com.ar/OP-444/TOAY_LA-PAMPA_ANEXO-ARQUITECTURA_RENDER-EDIFICIO-Int-03.webp",
+      "https://www.serra-arquitectos.com.ar/OP-444/TOAY_LA-PAMPA_ANEXO-ARQUITECTURA_RENDER-Ext-04.webp",
+      "https://www.serra-arquitectos.com.ar/OP-444/TOAY_LA-PAMPA_ANEXO-ARQUITECTURA_RENDER-Ext-06.webp",
+      "https://www.serra-arquitectos.com.ar/OP-444/TOAY_LA-PAMPA_ANEXO-ARQUITECTURA_RENDER-Ext-08.webp"
+    ],
+    "otherFields": [
+      {
+        "type": "Viviendas",
+        "value": "270"
+      }
+    ]
+  },
+  {
+    "id": 134,
+    "title": "Obras Menores IFF",
+    "code": "445",
+    "year": "2022",
+    "principal": "IFF International Flavors & Fragrances Argentina",
+    "type": ["Administrativo"],
+    "location": "Garin, Buenos Aires",
+    "tasks": [
+      "Relevamiento y análisis de la información Estructural del edificio existente."
+    ],
+    "description": "",
+    "size": "0",
+    "images": [],
+    "otherFields": []
+  },
+  {
+    "id": 135,
+    "title": "Conjunto de Viviendas Pro.Cre.Ar Lujan",
+    "code": "446",
+    "year": "2022",
+    "principal": "Niro Construye",
+    "type": ["Planes de vivienda"],
+    "location": "Lujan, Buenos Aires",
+    "tasks": ["Proyecto Ejecutivo de Arquitectura e Infraestructura urbana"],
+    "description": "",
+    "size": "6380",
+    "images": [
+      "https://www.serra-arquitectos.com.ar/OP-446/Lujan_L3-Render_Casas-IA.jpg",
+      "https://www.serra-arquitectos.com.ar/OP-446/Lujan_L4-Render_DA.jpg"
+    ],
+    "otherFields": [
+      {
+        "type": "Viviendas",
+        "value": "96"
+      }
+    ]
+  },
+  {
+    "id": 136,
+    "title": "Conjunto de Viviendas Pro.Cre.Ar Barrio Itati",
+    "code": "447",
+    "year": "2022",
+    "principal": "Niro Construye",
+    "type": ["Planes de vivienda"],
+    "location": "Pilcomayo, Buenos Aires",
+    "tasks": ["Proyecto Ejecutivo de Arquitectura e Infraestructura urbana"],
+    "description": "",
+    "size": "7600",
+    "images": [
+      "https://www.serra-arquitectos.com.ar/OP-447/1-Niro-Pilcomayo.webp",
+      "https://www.serra-arquitectos.com.ar/OP-447/2-Niro-Pilcomayo.webp",
+      "https://www.serra-arquitectos.com.ar/OP-447/3-Niro-Pilcomayo.webp"
+    ],
+    "otherFields": [
+      {
+        "type": "Viviendas",
+        "value": "62"
+      }
+    ]
+  },
+  {
+    "id": 137,
+    "title": "Conjunto de Viviendas Pro.Cre.Ar Piñeyro",
+    "code": "448",
+    "year": "2022",
+    "principal": "Niro Construye",
+    "type": ["Planes de vivienda"],
+    "location": "Avellaneda, Buenos Aires",
+    "tasks": [
+      "Relevamiento, análisis de la información, Estudios Previos y Proyecto Ejecutivo."
+    ],
+    "description": "",
+    "size": "23200",
+    "images": [],
+    "otherFields": [
+      {
+        "type": "Viviendas",
+        "value": "321"
+      }
+    ]
+  },
+  {
+    "id": 138,
+    "title": "Conjunto de Viviendas Pro.Cre.Ar Piñeyro",
+    "code": "449",
+    "year": "2022",
+    "principal": "Szczech",
+    "type": ["Planes de vivienda"],
+    "location": "Avellaneda, Buenos Aires",
+    "tasks": [
+      "Relevamiento, análisis de la información, Estudios Previos y Proyecto Ejecutivo."
+    ],
+    "description": "",
+    "size": "20700",
+    "images": [],
+    "otherFields": [
+      {
+        "type": "Viviendas",
+        "value": "262"
+      }
+    ]
+  },
+  {
+    "id": 139,
+    "title": "Obras menores IFF",
+    "code": "450",
+    "year": "2022",
+    "principal": "IFF International Flavors & Fragrances Argentina",
+    "type": ["Administrativo"],
+    "location": "Garin, Buenos Aires",
+    "tasks": ["Remodelación del Galpón Industrial."],
+    "description": "",
+    "size": "0",
+    "images": [],
+    "otherFields": []
+  },
+  {
+    "id": 140,
+    "title": "Conjunto de Viviendas Pro.Cre.Ar Lomas de Zamora",
+    "code": "451",
+    "year": "2023",
+    "principal": "Szczech",
+    "type": ["Planes de vivienda"],
+    "location": "Lomas de Zamora, Buenos Aires",
+    "tasks": [
+      "Relevamiento, análisis de la información, Estudios Previos y Proyecto Ejecutivo."
+    ],
+    "description": "",
+    "size": "23700",
+    "images": [
+      "https://www.serra-arquitectos.com.ar/OP-451/AEREO-1.webp",
+      "https://www.serra-arquitectos.com.ar/OP-451/EXTERIOR-SECTOR-1.webp",
+      "https://www.serra-arquitectos.com.ar/OP-451/INTERIOR-2D-A.webp"
+    ],
+    "otherFields": [
+      {
+        "type": "Viviendas",
+        "value": "343"
+      }
+    ]
+  },
+  {
+    "id": 141,
+    "title": "Vivienda Flia Ford",
+    "code": "452",
+    "year": "2023",
+    "principal": "Pablo Ford",
+    "type": ["Viviendas Individuales"],
+    "location": "Villa de Mayo, Buenos Aires",
+    "tasks": ["Relevamiento, Anteproyecto y Proyecto Ejecutivo"],
+    "description": "",
+    "size": "370",
+    "images": [],
+    "otherFields": []
+  },
+  {
+    "id": 142,
+    "title": "Conjunto de Viviendas Pro.Cre.Ar Santiago del Estero",
+    "code": "453",
+    "year": "2023",
+    "principal": "Banco Hipotecario Nacional",
+    "type": ["Planes de vivienda"],
+    "location": "Santiago del Estero",
+    "tasks": ["Dirección de Obras"],
+    "description": "",
+    "size": "13000",
+    "images": [],
+    "otherFields": [
+      {
+        "type": "Viviendas",
+        "value": "133"
+      }
+    ]
+  },
+  {
+    "id": 143,
+    "title": "Centro de Convenciones Cafayate",
+    "code": "454",
+    "year": "2023",
+    "principal": "Gobierno de Salta",
+    "type": ["Cultura + Esparcimiento"],
+    "location": "Cafayate, Salta",
+    "tasks": ["Dirección de Obras"],
+    "description": "",
+    "size": "3000",
+    "images": [
+      "https://www.serra-arquitectos.com.ar/OP-454/01.jpeg",
+      "https://www.serra-arquitectos.com.ar/OP-454/02.jpeg",
+      "https://www.serra-arquitectos.com.ar/OP-454/03.jpeg",
+      "https://www.serra-arquitectos.com.ar/OP-454/04.jpeg",
+      "https://www.serra-arquitectos.com.ar/OP-454/05.jpeg",
+      "https://www.serra-arquitectos.com.ar/OP-454/06.jpeg",
+      "https://www.serra-arquitectos.com.ar/OP-454/07.jpeg",
+      "https://www.serra-arquitectos.com.ar/OP-454/08.jpeg",
+      "https://www.serra-arquitectos.com.ar/OP-454/09.jpeg",
+      "https://www.serra-arquitectos.com.ar/OP-454/10.jpeg",
+      "https://www.serra-arquitectos.com.ar/OP-454/11.jpeg",
+      "https://www.serra-arquitectos.com.ar/OP-454/12.jpeg",
+      "https://www.serra-arquitectos.com.ar/OP-454/13.jpeg",
+      "https://www.serra-arquitectos.com.ar/OP-454/14.jpeg",
+      "https://www.serra-arquitectos.com.ar/OP-454/15.jpeg",
+      "https://www.serra-arquitectos.com.ar/OP-454/16.jpeg",
+      "https://www.serra-arquitectos.com.ar/OP-454/17.jpeg"
+    ],
+    "otherFields": []
+  },
+  {
+    "id": 144,
+    "title": "Conjunto de Viviendas Pro.Cre.Ar Querandies",
+    "code": "455",
+    "year": "2023",
+    "principal": "Banco Hipotecario Nacional",
+    "type": ["Planes de vivienda"],
+    "location": "Querandies, La Matanza, Buenos Aires",
+    "tasks": ["Dirección de Obras"],
+    "description": "",
+    "size": "17000",
+    "images": [],
+    "otherFields": [
+      {
+        "type": "Viviendas",
+        "value": "218"
+      }
+    ]
+  },
+  {
+    "id": 145,
+    "title": "Conjunto de Viviendas Pro.Cre.Ar Santa Rosa, Toay y General Pico",
+    "code": "456",
+    "year": "2023",
+    "principal": "Banco Hipotecario Nacional",
+    "type": ["Planes de vivienda"],
+    "location": "Santa Rosa, Toay y General Pico, La Pampa",
+    "tasks": [
+      "Proyecto ejecutivo de desarrollos urbanísticos del programa procrear ii."
+    ],
+    "description": "Relevamiento, análisis de la información, Estudios Previos y Proyecto Ejecutivo.",
+    "size": "49700",
+    "images": [],
+    "otherFields": [
+      {
+        "type": "Viviendas - Toay",
+        "value": "270"
+      },
+      {
+        "type": "Superficie total - Toay",
+        "value": "21.500 m2"
+      },
+      {
+        "type": "Viviendas - General Pico",
+        "value": "198"
+      },
+      {
+        "type": "Superficie Total - General Pico",
+        "value": "14.200 m2"
+      },
+      {
+        "type": "Viviendas - Santa Rosa",
+        "value": "168"
+      },
+      {
+        "type": "Superficie total - Santa Rosa",
+        "value": "14.000 m2"
+      }
+    ]
+  },
+  {
+    "id": 146,
+    "title": "Conjunto de Viviendas Pro.Cre.Ar Lomas de Zamora",
+    "code": "457",
+    "year": "2023",
+    "principal": "Texmco",
+    "type": ["Planes de vivienda"],
+    "location": "Lomas de Zamora, Buenos Aires",
+    "tasks": ["Proyecto Ejecutivo"],
+    "description": "",
+    "size": "37600",
+    "images": [],
+    "otherFields": [
+      {
+        "type": "Edificios en tira",
+        "value": "4"
+      }
+    ]
+  },
+  {
+    "id": 147,
+    "title": "Conjunto de Viviendas Pro.Cre.Ar Crucecita",
+    "code": "458",
+    "year": "2023",
+    "principal": "Banco Hipotecario Nacional",
+    "type": ["Viviendas Colectivas"],
+    "location": "Crucecita, Avellaneda",
+    "tasks": ["Direccion de Obras"],
+    "description": "",
+    "size": "6100",
+    "images": [
+      "https://www.serra-arquitectos.com.ar/OP-458/PC8_Render1.jpg",
+      "https://www.serra-arquitectos.com.ar/OP-458/PC8_Render12.jpg",
+      "https://www.serra-arquitectos.com.ar/OP-458/PC8_Render2.jpg",
+      "https://www.serra-arquitectos.com.ar/OP-458/PC8_Render4.webp",
+      "https://www.serra-arquitectos.com.ar/OP-458/PC8_Render5.webp",
+      "https://www.serra-arquitectos.com.ar/OP-458/PC8_Render8.webp"
+    ],
+    "otherFields": []
+  },
+  {
+    "id": 149,
+    "title": "Establecimiento Penitenciario Provincial N° 1 Trelew",
+    "code": "332",
+    "year": "2006",
+    "principal": "Gobierno de la Provincia del Chubut. Secretaría de Infraestructura, Planeamiento y Servicios Públicos",
+    "type": ["Seguridad"],
+    "location": "Trelew, Provincia de Chubut.",
+    "tasks": [
+      "Programa definitivo, Máster Plan y Anteproyecto del conjunto.",
+      "Proyecto de licitación de arquitectura e ingeniería de la 1ª etapa., comprendiendo: Ing. estructural, eléctricas e iluminación, sanitaria, incendio, gas, termomecánica, seguridad, vial, señalética, paisajismo."
+    ],
+    "description": "Complejo Penitenciario total, compuesto por sectores comunes y 5 Institutos:\r\n\r\nMayores Procesados 288 internos.\r\n\r\nMayores Condenados 288 internos\r\n\r\nMujeres Mayores y Menores, procesadas y condenadas 96 internos, Jóvenes Adultos procesados y condenados 80 internos.\r\n\r\nInstituto abierto varones mayores condenados 24 internos.\r\n\r\nPrimera etapa:\r\n\r\nInstituto Mayores Procesados y áreas comunes del conjunto.",
+    "size": "629188",
+    "images": [
+      "https://www.serra-arquitectos.com.ar/OP-332/ada591_11837ffc910a4703aa096730f9316aa1.webp",
+      "https://www.serra-arquitectos.com.ar/OP-332/ada591_85373af7bc424af7ac2c37aaaae5326c.webp",
+      "https://www.serra-arquitectos.com.ar/OP-332/ada591_a132f6033c1a40589017c3ca14c9e047.webp",
+      "https://www.serra-arquitectos.com.ar/OP-332/ada591_e7296cfb4eb64367b83726eef9f4faca.webp"
+    ],
+    "otherFields": [
+      {
+        "type": "Sup. Cubierta total",
+        "value": "36.585 m2"
+      },
+      {
+        "type": "Cant. Internos total",
+        "value": "772"
+      },
+      {
+        "type": "Sup. cubierta 1ª etapa",
+        "value": "13.100 m2"
+      },
+      {
+        "type": "Cant. Internos 1ª etapa",
+        "value": "288"
+      }
+    ]
+  },
+  {
+    "id": 150,
+    "title": "Servicio de acarreo y playas. Goyeneche",
+    "code": "380-6",
+    "year": "0",
+    "principal": "",
+    "type": "",
+    "location": "",
+    "tasks": "",
+    "description": "",
+    "size": "0",
+    "images": [
+      "https://www.serra-arquitectos.com.ar/OP-380-6/11a83c_44e7fa507b95413d9f25dc1274f087f0.webp",
+      "https://www.serra-arquitectos.com.ar/OP-380-6/11a83c_4d2ef5b83683451ea68a48673b6c7b2d.webp",
+      "https://www.serra-arquitectos.com.ar/OP-380-6/11a83c_503cbd985f984cae98e9a235322a9caa.webp"
+    ],
+    "otherFields": []
+  },
+  {
+    "id": 151,
+    "title": "Conjunto de Viviendas ProCreAr, Santa Rosa",
+    "code": "377",
+    "year": "2014",
+    "principal": "Banco Hipotecario S.A.",
+    "type": ["Planes de vivienda"],
+    "location": "Avda. Circunvalación Ing Marzo y Camino del Centenario, Santa Rosa, La Pampa.",
+    "tasks": [
+      "Dirección de las Obras de arquitectura y de las infraestructuras de servicios. Empresas contratistas Obra Civil: IACO SA y ECOP SRL"
+    ],
+    "description": "",
+    "size": "47600",
+    "images": [
+      "https://www.serra-arquitectos.com.ar/OP-377/OP-377-Imagen-1.webp",
+      "https://www.serra-arquitectos.com.ar/OP-377/OP-377-Imagen-2.webp",
+      "https://www.serra-arquitectos.com.ar/OP-377/OP-377-Imagen-4.webp",
+      "https://www.serra-arquitectos.com.ar/OP-377/OP-377-Imagen-6.webp",
+      "https://www.serra-arquitectos.com.ar/OP-377/OP-377-Imagen-7.webp"
+    ],
+    "otherFields": [
+      {
+        "type": "Fecha inicio de las obras",
+        "value": "enero 2014"
+      },
+      {
+        "type": "Fecha fin de las obras",
+        "value": "mayo 2016"
+      },
+      {
+        "type": "Empresa contratista Infraestructura",
+        "value": "UTE IACO-ECOP."
+      },
+      {
+        "type": "Superficie Total",
+        "value": "47.600 m2"
+      },
+      {
+        "type": "Cantidad de viviendas",
+        "value": "525"
+      },
+      {
+        "type": "Cantidad de locales comerciales",
+        "value": "46"
+      },
+      {
+        "type": "Superficie del predio",
+        "value": "26 has"
+      }
+    ]
+  },
+  {
+    "id": 157,
+    "title": "PUESTA EN VALOR DEL HOTEL N° 3 DE CHAPADMALAL",
+    "code": "461",
+    "year": "2023",
+    "principal": "Ministerio de Turismo y Deportes",
+    "type": ["Turismo"],
+    "location": "Chapadmalal, Provincia de Buenos Aires",
+    "tasks": "",
+    "description": "",
+    "size": "7000",
+    "images": ["https://www.serra-arquitectos.com.ar/OP-461/01.jpg"],
+    "otherFields": []
+  },
+  {
+    "id": 158,
+    "title": "CENTRO PENITENCIARIO ST. MARTEEN - HOLANDA",
+    "code": "463",
+    "year": "2023",
+    "principal": "CSI Ingenieros para UNOPS",
+    "type": ["Seguridad"],
+    "location": "Saint Martins",
+    "tasks": ["Asesoramiento penitenciario"],
+    "description": "",
+    "size": "11000",
+    "images": [
+      "https://www.serra-arquitectos.com.ar/OP-463/01.jpeg",
+      "https://www.serra-arquitectos.com.ar/OP-463/02.jpeg"
+    ],
+    "otherFields": []
+  },
+  {
+    "id": 159,
+    "title": "VIVIENDA INDIVIDUAL – REFACCIÓN - Vivienda Paraguay, CABA",
+    "code": "464",
+    "year": "2024",
+    "principal": "",
+    "type": ["Viviendas Individuales"],
+    "location": "CABA",
+    "tasks": ["Proyecto y Dirección"],
+    "description": "",
+    "size": "40",
+    "images": [
+      "https://www.serra-arquitectos.com.ar/OP-464/01.jpeg",
+      "https://www.serra-arquitectos.com.ar/OP-464/02.jpeg",
+      "https://www.serra-arquitectos.com.ar/OP-464/03.jpeg"
+    ],
+    "otherFields": []
+  },
+  {
+    "id": 160,
+    "title": "VIVIENDA INDIVIDUAL – REFACCIÓN - Vivienda Paraguay, CABA",
+    "code": "465",
+    "year": "2024",
+    "principal": "",
+    "type": ["Viviendas Individuales"],
+    "location": "CABA",
+    "tasks": ["Proyecto y dirección"],
+    "description": "",
+    "size": "60",
+    "images": [
+      "https://www.serra-arquitectos.com.ar/OP-465/01.jpg",
+      "https://www.serra-arquitectos.com.ar/OP-465/02.jpg",
+      "https://www.serra-arquitectos.com.ar/OP-465/03.jpg",
+      "https://www.serra-arquitectos.com.ar/OP-465/04.jpg",
+      "https://www.serra-arquitectos.com.ar/OP-465/05.jpg",
+      "https://www.serra-arquitectos.com.ar/OP-465/06.jpg",
+      "https://www.serra-arquitectos.com.ar/OP-465/07.jpg",
+      "https://www.serra-arquitectos.com.ar/OP-465/08.jpg"
+    ],
+    "otherFields": []
+  },
+  {
+    "id": 161,
+    "title": "VIVIENDA INDIVIDUAL – REFACCIÓN - Vivienda Santa Fe, CABA",
+    "code": "466",
+    "year": "2024",
+    "principal": "Mateo Serra",
+    "type": ["Viviendas Individuales"],
+    "location": "CABA",
+    "tasks": "",
+    "description": "",
+    "size": "50",
+    "images": ["https://www.serra-arquitectos.com.ar/logo-serra.png"],
+    "otherFields": []
+  },
+  {
+    "id": 162,
+    "title": "Vivienda individual de Campo en Lobos",
+    "code": "467",
+    "year": "2024",
+    "principal": "",
+    "type": ["Viviendas Individuales"],
+    "location": "Lobos",
+    "tasks": ["Anteproyecto"],
+    "description": "",
+    "size": "200",
+    "images": [
+      "https://www.serra-arquitectos.com.ar/OP-467/01.jpg",
+      "https://www.serra-arquitectos.com.ar/OP-467/02.jpg",
+      "https://www.serra-arquitectos.com.ar/OP-467/03.jpg",
+      "https://www.serra-arquitectos.com.ar/OP-467/04.jpg"
+    ],
+    "otherFields": []
+  },
+  {
+    "id": 163,
+    "title": "Terraza Sucre",
+    "code": "468",
+    "year": "2024",
+    "principal": "",
+    "type": ["Viviendas Individuales"],
+    "location": "CABA",
+    "tasks": ["Proyecto y Dirección"],
+    "description": "",
+    "size": "115",
+    "images": [
+      "https://www.serra-arquitectos.com.ar/OP-468/01.jpg",
+      "https://www.serra-arquitectos.com.ar/OP-468/02.jpg",
+      "https://www.serra-arquitectos.com.ar/OP-468/03.jpg",
+      "https://www.serra-arquitectos.com.ar/OP-468/04.jpg"
+    ],
+    "otherFields": []
+  },
+  {
+    "id": 164,
+    "title": "CENTRO PENITENCIARIO ICA",
+    "code": "469",
+    "year": "2024",
+    "principal": "Consorcio confianza para el Ministerio de Justicia del Perú",
+    "type": ["Seguridad"],
+    "location": "Perú",
+    "tasks": ["Asesoramiento penitenciario"],
+    "description": "",
+    "size": "89103",
+    "images": ["https://www.serra-arquitectos.com.ar/OP-469/01.jpg"],
+    "otherFields": []
+  },
+  {
+    "id": 166,
+    "title": "PASO FRONTERIZO Clorinda ",
+    "code": "417",
+    "year": "2021",
+    "principal": "Ministerio de Seguridad",
+    "type": ["Administrativo"],
+    "location": "Clorinda – Provincia de Formosa",
+    "tasks": "",
+    "description": "Programa de Desarrollo de Complejos fronterizos – Préstamo FONPLATA Dirección de obra de la remodelación, Re  funcionalización, obra nueva y ampliación del Paso Fronterizo  Internacional. \r\nAsociados LatinoConsult \r\n",
+    "size": "2800",
+    "images": [
+      "https://www.serra-arquitectos.com.ar/OP-417/01.jpg",
+      "https://www.serra-arquitectos.com.ar/OP-417/02.jpeg",
+      "https://www.serra-arquitectos.com.ar/OP-417/03.jpeg"
+    ],
+    "otherFields": []
+  },
+  {
+    "id": 167,
+    "title": "Administración - Oficinas Casa Matriz, Banco Ciudad",
+    "code": "405",
+    "year": "2020",
+    "principal": "BAT Consultores",
+    "type": ["Administrativo"],
+    "location": "Buenos Aires",
+    "tasks": "",
+    "description": "Dirección de obra de la remodelación, refuncionalización, obra nueva y puesta en valor del edificio de oficinas CASA MATRIZ del Banco.",
+    "size": "11400",
+    "images": [
+      "https://www.serra-arquitectos.com.ar/OP-405/01.jpg",
+      "https://www.serra-arquitectos.com.ar/OP-405/02.jpg",
+      "https://www.serra-arquitectos.com.ar/OP-405/03.jpg",
+      "https://www.serra-arquitectos.com.ar/OP-405/04.jpg",
+      "https://www.serra-arquitectos.com.ar/OP-405/05.jpg",
+      "https://www.serra-arquitectos.com.ar/OP-405/06.jpg"
+    ],
+    "otherFields": []
+  },
+  {
+    "id": 168,
+    "title": "CENTRO PENITENCIARIO Chisinau Penitentiary Construction Project",
+    "code": "470",
+    "year": "2025",
+    "principal": "CSI UNOPS",
+    "type": ["Seguridad"],
+    "location": "Moldavia",
+    "tasks": ["Revisión del Proyecto Penitenciario"],
+    "description": "",
+    "size": "5000",
+    "images": ["https://www.serra-arquitectos.com.ar/OP-470/Moldavia.png"],
+    "otherFields": []
+  },
+  {
+    "id": 169,
+    "title": "SALUD – HOSPITALES Mejora de los Servicios de Salud a Nivel de Distrito",
+    "code": "471",
+    "year": "2025",
+    "principal": "CSI UNOPS",
+    "type": ["Salud"],
+    "location": "Uzbekistan",
+    "tasks": ["Revisión del Diseño y Consultoría"],
+    "description": "",
+    "size": "67000",
+    "images": [
+      "https://www.serra-arquitectos.com.ar/OP-471/Hospital-Uzbekistan.jpg"
+    ],
+    "otherFields": []
+  },
+  {
+    "id": 170,
+    "title": "CENTRO PENITENCIARIO COMPLEJO FEDERAL MARCOS PAZ",
+    "code": "472",
+    "year": "2025",
+    "principal": "Ministerio de Infraestructura, Gobierno de la Ciudad de Buenos Aires",
+    "type": ["Seguridad"],
+    "location": "Marcos Paz, Provincia de Buenos Aires",
+    "tasks": ["Dirección de obra"],
+    "description": "",
+    "size": "65000",
+    "images": [
+      "https://www.serra-arquitectos.com.ar/OP-472/MarcosPaz-Aerea.jpg"
+    ],
+    "otherFields": []
+  },
+  {
+    "id": 171,
+    "title": "Centro Penitenciario Femenino, Punta Rieles",
+    "code": "476",
+    "year": "2025",
+    "principal": "TEYMA, Ministerio del Interior del Gobierno de la República Oriental del Uruguay",
+    "type": ["Seguridad"],
+    "location": "Punta Rieles, República Oriental de Uruguay",
+    "tasks": ["Asesoramiento técnico"],
+    "description": "",
+    "size": "42000",
+    "images": [
+      "https://www.serra-arquitectos.com.ar/OP-476/Carcel-de-mujeres.jpg"
+    ],
+    "otherFields": []
+  }
+]

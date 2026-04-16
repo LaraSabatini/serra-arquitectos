@@ -42,7 +42,7 @@ function AllSites() {
       render: (text: string, data: any) => (
         <p style={{ display: "flex", gap: "4px", alignItems: "center" }}>
           {text}
-          {JSON.parse(data.images).length > 0 && <LinkOutlined />}
+          {(data.images as string[]).length > 0 && <LinkOutlined />}
         </p>
       ),
     },
@@ -57,10 +57,8 @@ function AllSites() {
       dataIndex: "type",
       key: "type",
       width: "250px",
-      render: (text: string) => (
-        <p>
-          {text.replaceAll("[", "").replaceAll("]", "").replaceAll('"', "")}
-        </p>
+      render: (text: string[]) => (
+        <p>{text.join(", ")}</p>
       ),
     },
     {
@@ -97,14 +95,14 @@ function AllSites() {
         onRow={record => {
           return {
             onClick: () => {
-              if (record.images !== "[]") {
+              if ((record.images as string[]).length > 0) {
                 const filter = sections[0].subsections.filter(
-                  sub => sub.name === JSON.parse(record.type as string)[0],
+                  sub => sub.name === (record.type as string[])[0],
                 )
                 router.push(`obras?categoria=${filter[0].id}&id=${record.id}`)
               }
             },
-            style: { cursor: record.images !== "[]" ? "pointer" : "auto" },
+            style: { cursor: (record.images as string[]).length > 0 ? "pointer" : "auto" },
           }
         }}
         dataSource={sites}

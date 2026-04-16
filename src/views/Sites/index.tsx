@@ -69,9 +69,9 @@ function SitesView() {
                 id={site.id as number}
                 title={site.title}
                 code={site.code}
-                type={JSON.parse(site.type as string)}
+                type={site.type as string[]}
                 location={site.location}
-                portrait={JSON.parse(site.images as string)[0]}
+                portrait={(site.images as string[])[0]}
               />
             ))
           ) : (

@@ -23,21 +23,9 @@ function IndividualSite() {
 
   const getSiteData = async () => {
     const req = await getSiteById(parseInt(router.query.id as string, 10))
-
-    setSite({
-      ...req.data.data[0],
-      images: JSON.parse(req.data.data[0]?.images),
-      tasks:
-        req.data.data[0].tasks !== ""
-          ? JSON.parse(req.data.data[0].tasks)
-          : req.data.data[0].tasks,
-      otherFields:
-        req.data.data[0].otherFields !== ""
-          ? JSON.parse(req.data.data[0].otherFields)
-          : "",
-      type: JSON.parse(req.data.data[0].type),
-    })
-    setImagesArray(JSON.parse(req.data.data[0].images))
+    const raw = req.data.data[0]
+    setSite(raw)
+    setImagesArray(raw.images as string[])
   }
 
   useEffect(() => {

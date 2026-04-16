@@ -1,51 +1,41 @@
-import axios from "axios"
-import axiosHeader from "../axiosHeader"
-import { route } from "./index"
+import { ISite } from "@interfaces/Site"
 
-export const getSites = async (page: number, category: string) => {
-  try {
-    const res = await axios.get(
-      `${route}/page=${page}&category=${category}`,
-      axiosHeader,
-    )
-    return res
-  } catch (err: any) {
-    return err.response
-  }
+let sitesCache: ISite[] | null = null
+
+const loadSites = async (): Promise<ISite[]> => {
+  if (sitesCache) return sitesCache
+  const res = await fetch("/data/sites.json")
+  sitesCache = await res.json()
+  return sitesCache!
+}
+
+export const getSites = async (_page: number, category: string) => {
+  const sites = await loadSites()
+  const filtered = sites.filter(s => {
+    const types = Array.isArray(s.type) ? s.type : []
+    return types.some(t => t.toLowerCase() === category.toLowerCase())
+  })
+  return { data: { data: filtered } }
 }
 
 export const getAllSites = async () => {
-  try {
-    const res = await axios.get(`${route}/all`, axiosHeader)
-    return res
-  } catch (err: any) {
-    return err.response
-  }
+  const sites = await loadSites()
+  return { data: { data: sites } }
 }
 
 export const getSitesForCarousel = async () => {
-  try {
-    const res = await axios.get(`${route}`, axiosHeader)
-    return res
-  } catch (err: any) {
-    return err.response
-  }
+  const sites = await loadSites()
+  return { data: { data: sites } }
 }
 
 export const getSiteById = async (id: number) => {
-  try {
-    const res = await axios.get(`${route}/id=${id}`, axiosHeader)
-    return res
-  } catch (err: any) {
-    return err.response
-  }
+  const sites = await loadSites()
+  const found = sites.filter(s => s.id === id)
+  return { data: { data: found } }
 }
 
 export const getSiteByCode = async (code: string) => {
-  try {
-    const res = await axios.get(`${route}/code=${code}`, axiosHeader)
-    return res
-  } catch (err: any) {
-    return err.response
-  }
+  const sites = await loadSites()
+  const found = sites.filter(s => s.code === code)
+  return { data: { data: found } }
 }
