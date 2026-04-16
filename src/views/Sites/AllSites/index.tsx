@@ -57,9 +57,7 @@ function AllSites() {
       dataIndex: "type",
       key: "type",
       width: "250px",
-      render: (text: string[]) => (
-        <p>{text.join(", ")}</p>
-      ),
+      render: (text: string[]) => <p>{text.join(", ")}</p>,
     },
     {
       title: "Año",
@@ -102,7 +100,10 @@ function AllSites() {
                 router.push(`obras?categoria=${filter[0].id}&id=${record.id}`)
               }
             },
-            style: { cursor: (record.images as string[]).length > 0 ? "pointer" : "auto" },
+            style: {
+              cursor:
+                (record.images as string[]).length > 0 ? "pointer" : "auto",
+            },
           }
         }}
         dataSource={sites}
