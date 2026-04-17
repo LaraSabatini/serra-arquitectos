@@ -57,7 +57,9 @@ function AllSites() {
       dataIndex: "type",
       key: "type",
       width: "250px",
-      render: (text: string[]) => <p>{text.join(", ")}</p>,
+      render: (text: string[] | string) => (
+        <p>{Array.isArray(text) ? text.join(", ") : text}</p>
+      ),
     },
     {
       title: "Año",
