@@ -2,11 +2,15 @@ import { ISite } from "@interfaces/Site"
 
 let sitesCache: ISite[] | null = null
 
+const byYearDesc = (a: ISite, b: ISite) =>
+  parseInt(b.year, 10) - parseInt(a.year, 10)
+
 const loadSites = async (): Promise<ISite[]> => {
   if (sitesCache) return sitesCache
   const res = await fetch("/data/sites.json")
-  sitesCache = await res.json()
-  return sitesCache!
+  const data: ISite[] = await res.json()
+  sitesCache = data.sort(byYearDesc)
+  return sitesCache
 }
 
 export const getSites = async (_page: number, category: string) => {
