@@ -15,7 +15,9 @@ export const getSites = async (_page: number, category: string) => {
   const filtered = sites.filter(s => {
     const types = Array.isArray(s.type) ? s.type : []
     const hasImages = Array.isArray(s.images) && s.images.length > 0
-    return hasImages && types.some(t => t.toLowerCase() === category.toLowerCase())
+    return (
+      hasImages && types.some(t => t.toLowerCase() === category.toLowerCase())
+    )
   })
   return { data: { data: filtered } }
 }
