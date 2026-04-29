@@ -31,16 +31,16 @@ const sections: {
         name: "Deportivo + Recreativo",
         route: "obras",
       },
-      {
-        id: 104,
-        name: "Educación",
-        route: "obras",
-      },
-      {
-        id: 105,
-        name: "Industrial",
-        route: "obras",
-      },
+      // {
+      //   id: 104,
+      //   name: "Educación",
+      //   route: "obras",
+      // },
+      // {
+      //   id: 105,
+      //   name: "Industrial",
+      //   route: "obras",
+      // },
       {
         id: 106,
         name: "Salud",
@@ -51,11 +51,11 @@ const sections: {
         name: "Seguridad",
         route: "obras",
       },
-      {
-        id: 108,
-        name: "Servicios Especializados",
-        route: "obras",
-      },
+      // {
+      //   id: 108,
+      //   name: "Servicios Especializados",
+      //   route: "obras",
+      // },
       {
         id: 109,
         name: "Cultura + Esparcimiento",
