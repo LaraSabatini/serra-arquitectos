@@ -3839,11 +3839,11 @@
     "description": "",
     "size": "250",
     "images": [
-      "/OP-452/01.jpg",
-      "/OP-452/02.jpg",
-      "/OP-452/03.jpg",
-      "/OP-452/04.jpg",
-      "/OP-452/05.jpg"
+      "/OP-452/01.webp",
+      "/OP-452/02.webp",
+      "/OP-452/03.webp",
+      "/OP-452/04.webp",
+      "/OP-452/05.webp"
     ],
     "otherFields": []
   },
@@ -4285,10 +4285,10 @@
     "description": "",
     "size": "1040",
     "images": [
-      "/OP-477/01.png",
-      "/OP-477/02.png",
-      "/OP-477/03.png",
-      "/OP-477/04.png"
+      "/OP-477/01.webp",
+      "/OP-477/02.webp",
+      "/OP-477/03.webp",
+      "/OP-477/04.webp"
     ],
     "otherFields": []
   },
@@ -4303,7 +4303,7 @@
     "tasks": ["Dirección de Obra de la adecuación de oficinas"],
     "description": "",
     "size": "7000",
-    "images": ["/OP-478/01.jpg", "/OP-478/02.jpg", "/OP-478/03.jpg"],
+    "images": ["/OP-478/01.webp", "/OP-478/02.webp", "/OP-478/03.webp"],
     "otherFields": []
   },
   {
@@ -4317,7 +4317,7 @@
     "tasks": ["Asesoramiento técnico"],
     "description": "",
     "size": "76600",
-    "images": ["/OP-479/01.png", "/OP-479/02.png", "/OP-479/03.png"],
+    "images": ["/OP-479/01.webp", "/OP-479/02.webp", "/OP-479/03.webp"],
     "otherFields": [{ "type": "Cant. plazas", "value": "2.160" }]
   },
   {
@@ -4332,10 +4332,10 @@
     "description": "",
     "size": "2500",
     "images": [
-      "/OP-480/01.png",
-      "/OP-480/02.png",
-      "/OP-480/03.jpeg",
-      "/OP-480/04.png"
+      "/OP-480/01.webp",
+      "/OP-480/02.webp",
+      "/OP-480/03.webp",
+      "/OP-480/04.webp"
     ],
     "otherFields": [{ "type": "Cant. plazas", "value": "42" }]
   }
