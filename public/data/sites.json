@@ -567,7 +567,7 @@
       "Realización de Anteproyecto de licitación, Proyecto Ejecutivo y Asistencia Técnica durante la construcción de las obras."
     ],
     "description": "",
-    "size": "0",
+    "size": "13000",
     "images": [
       "https://www.serra-arquitectos.com.ar/OP-423/Aerea-conjunto.webp",
       "https://www.serra-arquitectos.com.ar/OP-423/Planta-Aerea.webp",
@@ -605,27 +605,16 @@
     "description": "",
     "size": "16500",
     "images": [
-      "https://www.serra-arquitectos.com.ar/OP-395/20210325_115537.jpg",
-      "https://www.serra-arquitectos.com.ar/OP-395/20210325_115600.jpg",
-      "https://www.serra-arquitectos.com.ar/OP-395/20210325_115641.jpg",
-      "https://www.serra-arquitectos.com.ar/OP-395/20210325_121409.jpg",
       "https://www.serra-arquitectos.com.ar/OP-395/20210325_121826.jpg",
       "https://www.serra-arquitectos.com.ar/OP-395/20210325_123904.jpg",
       "https://www.serra-arquitectos.com.ar/OP-395/395.jpg",
-      "https://www.serra-arquitectos.com.ar/OP-395/Aerea-conjunto.jpeg",
-      "https://www.serra-arquitectos.com.ar/OP-395/Aerea-Implantacion.jpeg",
       "https://www.serra-arquitectos.com.ar/OP-395/Aerea.jpg",
       "https://www.serra-arquitectos.com.ar/OP-395/DSC_4921-edit.jpg",
       "https://www.serra-arquitectos.com.ar/OP-395/DSC_6008-edit.jpg",
       "https://www.serra-arquitectos.com.ar/OP-395/DSC_6110-edit.jpg",
       "https://www.serra-arquitectos.com.ar/OP-395/DSC_6117-edit.jpg",
-      "https://www.serra-arquitectos.com.ar/OP-395/DSC_6149-edit.jpg",
-      "https://www.serra-arquitectos.com.ar/OP-395/Planta-Aerea.jpeg",
-      "https://www.serra-arquitectos.com.ar/OP-395/WhatsApp-Image-2019-04-16.jpeg",
-      "https://www.serra-arquitectos.com.ar/OP-395/WhatsApp-Image-2019-04-16-2.jpeg",
-      "https://www.serra-arquitectos.com.ar/OP-395/WhatsApp-Image-2019-04-16-3.jpeg",
-      "https://www.serra-arquitectos.com.ar/OP-395/WhatsApp-Image-2019-04-16-4.jpeg",
-      "https://www.serra-arquitectos.com.ar/OP-395/WhatsApp-Image-2021-10-07.jpeg"
+      "https://www.serra-arquitectos.com.ar/OP-395/DSC_6149-edit.jpg"
+
     ],
     "otherFields": [
       {
@@ -3342,10 +3331,6 @@
     "description": "",
     "size": "87",
     "images": [
-      "https://www.serra-arquitectos.com.ar/OP-429/01.jpg",
-      "https://www.serra-arquitectos.com.ar/OP-429/02.jpeg",
-      "https://www.serra-arquitectos.com.ar/OP-429/03.jpeg",
-      "https://www.serra-arquitectos.com.ar/OP-429/04.jpeg",
       "https://www.serra-arquitectos.com.ar/OP-429/Captura.jpg",
       "https://www.serra-arquitectos.com.ar/OP-429/Captura3.jpg",
       "https://www.serra-arquitectos.com.ar/OP-429/Captura6b.jpg",
@@ -3847,13 +3832,19 @@
     "title": "Vivienda Flia Ford",
     "code": "452",
     "year": "2023",
-    "principal": "Pablo Ford",
+    "principal": "Sr. Pablo Ford",
     "type": ["Viviendas Individuales"],
-    "location": "Villa de Mayo, Buenos Aires",
-    "tasks": ["Relevamiento, Anteproyecto y Proyecto Ejecutivo"],
+    "location": "Villa de Mayo, Prov. de Buenos Aires",
+    "tasks": ["Proyecto y obra nueva"],
     "description": "",
-    "size": "370",
-    "images": [],
+    "size": "250",
+    "images": [
+      "/OP-452/01.webp",
+      "/OP-452/02.webp",
+      "/OP-452/03.webp",
+      "/OP-452/04.webp",
+      "/OP-452/05.webp"
+    ],
     "otherFields": []
   },
   {
@@ -4147,61 +4138,6 @@
     "otherFields": []
   },
   {
-    "id": 159,
-    "title": "VIVIENDA INDIVIDUAL – REFACCIÓN - Vivienda Paraguay, CABA",
-    "code": "464",
-    "year": "2024",
-    "principal": "",
-    "type": ["Viviendas Individuales"],
-    "location": "CABA",
-    "tasks": ["Proyecto y Dirección"],
-    "description": "",
-    "size": "40",
-    "images": [
-      "https://www.serra-arquitectos.com.ar/OP-464/01.jpeg",
-      "https://www.serra-arquitectos.com.ar/OP-464/02.jpeg",
-      "https://www.serra-arquitectos.com.ar/OP-464/03.jpeg"
-    ],
-    "otherFields": []
-  },
-  {
-    "id": 160,
-    "title": "VIVIENDA INDIVIDUAL – REFACCIÓN - Vivienda Paraguay, CABA",
-    "code": "465",
-    "year": "2024",
-    "principal": "",
-    "type": ["Viviendas Individuales"],
-    "location": "CABA",
-    "tasks": ["Proyecto y dirección"],
-    "description": "",
-    "size": "60",
-    "images": [
-      "https://www.serra-arquitectos.com.ar/OP-465/01.jpg",
-      "https://www.serra-arquitectos.com.ar/OP-465/02.jpg",
-      "https://www.serra-arquitectos.com.ar/OP-465/03.jpg",
-      "https://www.serra-arquitectos.com.ar/OP-465/04.jpg",
-      "https://www.serra-arquitectos.com.ar/OP-465/05.jpg",
-      "https://www.serra-arquitectos.com.ar/OP-465/06.jpg",
-      "https://www.serra-arquitectos.com.ar/OP-465/07.jpg",
-      "https://www.serra-arquitectos.com.ar/OP-465/08.jpg"
-    ],
-    "otherFields": []
-  },
-  {
-    "id": 161,
-    "title": "VIVIENDA INDIVIDUAL – REFACCIÓN - Vivienda Santa Fe, CABA",
-    "code": "466",
-    "year": "2024",
-    "principal": "Mateo Serra",
-    "type": ["Viviendas Individuales"],
-    "location": "CABA",
-    "tasks": "",
-    "description": "",
-    "size": "50",
-    "images": ["https://www.serra-arquitectos.com.ar/logo-serra.png"],
-    "otherFields": []
-  },
-  {
     "id": 162,
     "title": "Vivienda individual de Campo en Lobos",
     "code": "467",
@@ -4217,25 +4153,6 @@
       "https://www.serra-arquitectos.com.ar/OP-467/02.jpg",
       "https://www.serra-arquitectos.com.ar/OP-467/03.jpg",
       "https://www.serra-arquitectos.com.ar/OP-467/04.jpg"
-    ],
-    "otherFields": []
-  },
-  {
-    "id": 163,
-    "title": "Terraza Sucre",
-    "code": "468",
-    "year": "2024",
-    "principal": "",
-    "type": ["Viviendas Individuales"],
-    "location": "CABA",
-    "tasks": ["Proyecto y Dirección"],
-    "description": "",
-    "size": "115",
-    "images": [
-      "https://www.serra-arquitectos.com.ar/OP-468/01.jpg",
-      "https://www.serra-arquitectos.com.ar/OP-468/02.jpg",
-      "https://www.serra-arquitectos.com.ar/OP-468/03.jpg",
-      "https://www.serra-arquitectos.com.ar/OP-468/04.jpg"
     ],
     "otherFields": []
   },
@@ -4353,5 +4270,73 @@
       "https://www.serra-arquitectos.com.ar/OP-476/Carcel-de-mujeres.jpg"
     ],
     "otherFields": []
+  },
+  {
+    "id": 172,
+    "title": "Oficinas BCRA, San Martín 235/275",
+    "code": "477",
+    "year": "2026",
+    "principal": "Banco Central de la República Argentina (BCRA)",
+    "type": ["Administrativo"],
+    "location": "San Martín 235/275, CABA",
+    "tasks": [
+      "Proyecto de interiorismo y Dirección de las Obras de Adecuación de Oficinas"
+    ],
+    "description": "",
+    "size": "1040",
+    "images": [
+      "/OP-477/01.webp",
+      "/OP-477/02.webp",
+      "/OP-477/03.webp",
+      "/OP-477/04.webp"
+    ],
+    "otherFields": []
+  },
+  {
+    "id": 173,
+    "title": "Oficinas CFI, San Martín 871",
+    "code": "478",
+    "year": "2026",
+    "principal": "Consejo Federal de Inversiones (CFI)",
+    "type": ["Administrativo"],
+    "location": "San Martín 871, CABA",
+    "tasks": ["Dirección de Obra de la adecuación de oficinas"],
+    "description": "",
+    "size": "7000",
+    "images": ["/OP-478/01.webp", "/OP-478/02.webp", "/OP-478/03.webp"],
+    "otherFields": []
+  },
+  {
+    "id": 174,
+    "title": "Centro Penitenciario Atacama, Chile",
+    "code": "479",
+    "year": "2026",
+    "principal": "San José para el Ministerio de Justicia y Derechos Humanos de Chile",
+    "type": ["Seguridad"],
+    "location": "Atacama, Chile",
+    "tasks": ["Asesoramiento técnico"],
+    "description": "",
+    "size": "76600",
+    "images": ["/OP-479/01.webp", "/OP-479/02.webp", "/OP-479/03.webp"],
+    "otherFields": [{ "type": "Cant. plazas", "value": "2.160" }]
+  },
+  {
+    "id": 175,
+    "title": "Centro para Niños y Adolescentes, Dávila 720",
+    "code": "480",
+    "year": "2026",
+    "principal": "Gobierno de la Ciudad Autónoma de Buenos Aires – Consejo de los Derechos de Niños y Adolescentes",
+    "type": ["Seguridad"],
+    "location": "Dávila 720, CABA",
+    "tasks": ["Proyecto de Licitación"],
+    "description": "",
+    "size": "2500",
+    "images": [
+      "/OP-480/01.webp",
+      "/OP-480/02.webp",
+      "/OP-480/03.webp",
+      "/OP-480/04.webp"
+    ],
+    "otherFields": [{ "type": "Cant. plazas", "value": "42" }]
   }
 ]
